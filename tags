@@ -1,0 +1,2225 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ACCT	aupe/apue.3e/proc/Makefile	/^  ACCT=pracct$/;"	m
+ACCT	aupe/apue.3e/proc/Makefile	/^ACCT=$/;"	m
+ACCTFLAGS	aupe/apue.3e/proc/Makefile	/^  ACCTFLAGS = -DHAS_AC_STAT$/;"	m
+ACCTFLAGS	aupe/apue.3e/proc/Makefile	/^  ACCTFLAGS = -DHAS_AXSIG -DHAS_ACORE$/;"	m
+ACCTFLAGS	aupe/apue.3e/proc/Makefile	/^ACCTFLAGS=$/;"	m
+ACORE	aupe/apue.3e/proc/pracct.c	/^#define ACORE /;"	d	file:
+ARRAY_SIZE	aupe/apue.3e/ipc1/tshm.c	/^#define	ARRAY_SIZE	/;"	d	file:
+AXSIG	aupe/apue.3e/proc/pracct.c	/^#define AXSIG /;"	d	file:
+BAR	aupe/apue.3e/threads/Makefile	/^  BAR = barrier$/;"	m
+BAR	aupe/apue.3e/threads/Makefile	/^BAR =$/;"	m
+BIGCOUNT	aupe/apue.3e/lib/semaph.c	/^#define	BIGCOUNT	/;"	d	file:
+BSZ	aupe/apue.3e/advio/rot13a.c	/^#define BSZ /;"	d	file:
+BSZ	aupe/apue.3e/advio/rot13c2.c	/^#define BSZ /;"	d	file:
+BSZ	aupe/apue.3e/stdio/memstr.c	/^#define BSZ /;"	d	file:
+BUFFSIZE	aupe/apue.3e/fileio/mycat.c	/^#define	BUFFSIZE	/;"	d	file:
+BUFFSIZE	aupe/apue.3e/intro/mycat.c	/^#define	BUFFSIZE	/;"	d	file:
+BUFFSIZE	aupe/apue.3e/ipc2/open.fe/main.c	/^#define	BUFFSIZE	/;"	d	file:
+BUFFSIZE	aupe/apue.3e/ipc2/open/main.c	/^#define	BUFFSIZE	/;"	d	file:
+BUFFSIZE	aupe/apue.3e/pty/loop.c	/^#define	BUFFSIZE	/;"	d	file:
+BUFFSIZE	aupe/apue.3e/signals/sigtstp.c	/^#define	BUFFSIZE	/;"	d	file:
+BUFLEN	aupe/apue.3e/sockets/ruptime-dg.c	/^#define BUFLEN	/;"	d	file:
+BUFLEN	aupe/apue.3e/sockets/ruptime.c	/^#define BUFLEN	/;"	d	file:
+BUFLEN	aupe/apue.3e/sockets/ruptimed-dg.c	/^#define BUFLEN	/;"	d	file:
+BUFLEN	aupe/apue.3e/sockets/ruptimed.c	/^#define BUFLEN	/;"	d	file:
+Base	virtualDes.cpp	/^    Base(){$/;"	f	class:Base
+Base	virtualDes.cpp	/^class Base$/;"	c	file:
+Buffer	headers/buffers.h	/^    Buffer():buffer(nullptr),size(0),usedSize(0),shutdownMsg(false) {}$/;"	f	class:Buffer
+Buffer	headers/buffers.h	/^    Buffer(UINT isize):buffer(nullptr),size(0),usedSize(0),shutdownMsg(false) {$/;"	f	class:Buffer
+Buffer	headers/buffers.h	/^class Buffer$/;"	c
+BufferPool	headers/buffers.h	/^    BufferPool():BufferSize(0),numberOfBuffers(0) {$/;"	f	class:BufferPool
+BufferPool	headers/buffers.h	/^class BufferPool$/;"	c
+BufferQueue	headers/buffers.h	/^    BufferQueue():head(nullptr), tail(nullptr) {$/;"	f	class:BufferQueue
+BufferQueue	headers/buffers.h	/^class BufferQueue$/;"	c
+BufferQueueItem	headers/buffers.h	/^    BufferQueueItem(PooledBuffer *buff) : pBuffer(buff), pNext(nullptr) {}$/;"	f	struct:BufferQueueItem
+BufferQueueItem	headers/buffers.h	/^struct BufferQueueItem{$/;"	s
+BufferSize	headers/buffers.h	/^    Buffer::UINT BufferSize;$/;"	m	class:BufferPool
+CBREAK	aupe/apue.3e/lib/ttymodes.c	/^static enum { RESET, RAW, CBREAK }	ttystate = RESET;$/;"	e	enum:__anon3	file:
+CHAR	headers/common.h	/^    CHAR$/;"	e	enum:Type
+CHARACTER	headers/common.h	/^const std::string CHARACTER  = "c";$/;"	v
+CLD	aupe/apue.3e/signals/Makefile	/^  CLD = child$/;"	m
+CLD	aupe/apue.3e/signals/Makefile	/^CLD =$/;"	m
+CLI_PATH	aupe/apue.3e/lib/cliconn.c	/^#define	CLI_PATH	/;"	d	file:
+CLI_PERM	aupe/apue.3e/lib/cliconn.c	/^#define	CLI_PERM	/;"	d	file:
+CLOCK_REALTIME	aupe/apue.3e/threadctl/timeout.c	/^#define CLOCK_REALTIME /;"	d	file:
+CL_OPEN	aupe/apue.3e/ipc2/open.fe/open.h	/^#define	CL_OPEN /;"	d
+CL_OPEN	aupe/apue.3e/ipc2/open/open.h	/^#define	CL_OPEN /;"	d
+CL_OPEN	aupe/apue.3e/ipc2/opend.fe/opend.h	/^#define	CL_OPEN /;"	d
+CL_OPEN	aupe/apue.3e/ipc2/opend/opend.h	/^#define	CL_OPEN /;"	d
+COMM_OBJ	aupe/apue.3e/db/Makefile	/^COMM_OBJ = db.o$/;"	m
+CONFIG_FILE	aupe/apue.3e/printer/print.h	/^#define CONFIG_FILE /;"	d
+CONTROLLEN	aupe/apue.3e/ipc2/recvfd2.c	/^#define	CONTROLLEN	/;"	d	file:
+CONTROLLEN	aupe/apue.3e/ipc2/sendfd2.c	/^#define	CONTROLLEN	/;"	d	file:
+CONTROLLEN	aupe/apue.3e/lib/Orecvfd.c	/^#define	CONTROLLEN	/;"	d	file:
+CONTROLLEN	aupe/apue.3e/lib/recvfd.c	/^#define	CONTROLLEN	/;"	d	file:
+CONTROLLEN	aupe/apue.3e/lib/sendfd.c	/^#define	CONTROLLEN	/;"	d	file:
+COPYINCR	aupe/apue.3e/advio/mcopy2.c	/^#define COPYINCR /;"	d	file:
+COUNT	aupe/apue.3e/db/db.c	/^typedef unsigned long	COUNT;	\/* unsigned counter *\/$/;"	t	file:
+CREDOPT	aupe/apue.3e/ipc2/recvfd2.c	/^#define CREDOPT	/;"	d	file:
+CREDSLEN	aupe/apue.3e/ipc2/recvfd2.c	/^#define CREDSLEN	/;"	d	file:
+CREDSLEN	aupe/apue.3e/ipc2/sendfd2.c	/^#define CREDSLEN	/;"	d	file:
+CREDSTRUCT	aupe/apue.3e/ipc2/recvfd2.c	/^#define CREDSTRUCT	/;"	d	file:
+CREDSTRUCT	aupe/apue.3e/ipc2/sendfd2.c	/^#define CREDSTRUCT	/;"	d	file:
+CR_UID	aupe/apue.3e/ipc2/recvfd2.c	/^#define CR_UID	/;"	d	file:
+CS_OPEN	aupe/apue.3e/ipc2/open/open.h	/^#define CS_OPEN /;"	d
+CS_OPEN	aupe/apue.3e/ipc2/opend/opend.h	/^#define	CS_OPEN /;"	d
+Calc	g.cpp	/^score Calc(treenode* root){$/;"	f
+Calculate	dinnerParty.cpp	/^int Calculate(treenode* root){$/;"	f
+Cell	edit_dyn.cpp	/^    Cell():cost(0),parent(-1){};$/;"	f	struct:Cell
+Cell	edit_dyn.cpp	/^typedef struct Cell{$/;"	s	file:
+Cipher	python/fcrypt.py	/^from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes$/;"	i
+Client	aupe/apue.3e/ipc2/opend/opend.h	/^} Client;$/;"	t	typeref:struct:__anon1
+DATADIR	aupe/apue.3e/printer/print.h	/^#define DATADIR /;"	d
+DATLEN_MAX	aupe/apue.3e/db/apue_db.h	/^#define DATLEN_MAX	/;"	d
+DATLEN_MIN	aupe/apue.3e/db/apue_db.h	/^#define DATLEN_MIN	/;"	d
+DB	aupe/apue.3e/db/db.c	/^} DB;$/;"	t	typeref:struct:__anon4	file:
+DBHANDLE	aupe/apue.3e/db/apue_db.h	/^typedef	void *	DBHANDLE;$/;"	t
+DBHASH	aupe/apue.3e/db/db.c	/^typedef unsigned long	DBHASH;	\/* hash values *\/$/;"	t	file:
+DB_INSERT	aupe/apue.3e/db/apue_db.h	/^#define DB_INSERT	/;"	d
+DB_REPLACE	aupe/apue.3e/db/apue_db.h	/^#define DB_REPLACE	/;"	d
+DB_STORE	aupe/apue.3e/db/apue_db.h	/^#define DB_STORE	/;"	d
+DEF_PAGER	aupe/apue.3e/ipc1/pipe2.c	/^#define	DEF_PAGER	/;"	d	file:
+DEL	edit.cpp	/^#define DEL /;"	d	file:
+DEL	edit_dyn.cpp	/^#define DEL /;"	d	file:
+DEPTH	aupe/apue.3e/exercises/longpath.c	/^#define	DEPTH /;"	d	file:
+DFS	nq.cpp	/^void DFS(vector<vector<string>> & final_ans,vector<string> & save,bool * vis,int up_foor,int now_foor){$/;"	f
+DIRS	aupe/apue.3e/Makefile	/^DIRS = lib intro sockets advio daemons datafiles db environ \\$/;"	m
+DIR_MODE	aupe/apue.3e/include/apue.h	/^#define	DIR_MODE	/;"	d
+DISABLE_TRACE	edit_dyn.cpp	/^#define DISABLE_TRACE$/;"	d	file:
+Derived	virtualDes.cpp	/^    Derived(){$/;"	f	class:Derived
+Derived	virtualDes.cpp	/^class Derived: public Base$/;"	c	file:
+DnsException	python/network.py	/^class DnsException(Exception):      # Define DNS Exception$/;"	c
+ETIME	aupe/apue.3e/printer/print.h	/^#define ETIME /;"	d
+EXTRA	aupe/apue.3e/printer/Makefile	/^EXTRA=$/;"	m
+EXTRALD	aupe/apue.3e/db/Makefile	/^  EXTRALD=-R.$/;"	m
+EXTRALD	aupe/apue.3e/db/Makefile	/^  EXTRALD=-Wl,-rpath=.$/;"	m
+EXTRALD	aupe/apue.3e/db/Makefile	/^  EXTRALD=-m64 -R.$/;"	m
+EXTRALIBS	aupe/apue.3e/advio/Makefile	/^  EXTRALIBS=-lrt$/;"	m
+EXTRALIBS	aupe/apue.3e/exercises/Makefile	/^  EXTRALIBS=-pthread$/;"	m
+EXTRALIBS	aupe/apue.3e/ipc2/Makefile	/^  EXTRALIBS=-lsocket -lnsl$/;"	m
+EXTRALIBS	aupe/apue.3e/ipc2/Makefile	/^  EXTRALIBS=-pthread$/;"	m
+EXTRALIBS	aupe/apue.3e/ipc2/open.fe/Makefile	/^  EXTRALIBS=-lsocket -lnsl$/;"	m
+EXTRALIBS	aupe/apue.3e/ipc2/open/Makefile	/^  EXTRALIBS=-lsocket -lnsl$/;"	m
+EXTRALIBS	aupe/apue.3e/ipc2/opend.fe/Makefile	/^  EXTRALIBS=-lsocket -lnsl$/;"	m
+EXTRALIBS	aupe/apue.3e/ipc2/opend/Makefile	/^  EXTRALIBS=-lsocket -lnsl$/;"	m
+EXTRALIBS	aupe/apue.3e/printer/Makefile	/^  EXTRALIBS=-lsocket -lnsl -lrt -lpthread$/;"	m
+EXTRALIBS	aupe/apue.3e/printer/Makefile	/^  EXTRALIBS=-pthread$/;"	m
+EXTRALIBS	aupe/apue.3e/pty/Makefile	/^  EXTRALIBS=-lsocket -lnsl$/;"	m
+EXTRALIBS	aupe/apue.3e/sockets/makefile	/^  EXTRALIBS = -lsocket -lnsl$/;"	m
+EXTRALIBS	aupe/apue.3e/threadctl/Makefile	/^  EXTRALIBS = -lpthread$/;"	m
+EXTRALIBS	aupe/apue.3e/threadctl/Makefile	/^  EXTRALIBS = -pthread$/;"	m
+EXTRALIBS	aupe/apue.3e/threads/Makefile	/^  EXTRALIBS=-lpthread -lrt$/;"	m
+EXTRALIBS	aupe/apue.3e/threads/Makefile	/^  EXTRALIBS=-pthread -lrt -lbsd$/;"	m
+EXTRALIBS	aupe/apue.3e/threads/Makefile	/^  EXTRALIBS=-pthread$/;"	m
+EXTRALIBS	aupe/apue.3e/threads/Makefile	/^EXTRALIBS=-pthread$/;"	m
+FDPASS	aupe/apue.3e/ipc2/Makefile	/^	FDPASS = recvfd2.o sendfd2.o$/;"	m
+FDPASS	aupe/apue.3e/ipc2/Makefile	/^FDPASS =$/;"	m
+FIFO	aupe/apue.3e/exercises/fifo1.c	/^#define	FIFO	/;"	d	file:
+FILENMSZ	aupe/apue.3e/printer/print.h	/^#define FILENMSZ /;"	d
+FILEPERM	aupe/apue.3e/printer/print.h	/^#define FILEPERM /;"	d
+FILE_MODE	aupe/apue.3e/include/apue.h	/^#define	FILE_MODE	/;"	d
+FMEM	aupe/apue.3e/exercises/Makefile	/^  FMEM = fmemopen.o$/;"	m
+FMEM	aupe/apue.3e/exercises/Makefile	/^  FMEM =$/;"	m
+FMT	aupe/apue.3e/proc/pracct.c	/^#define FMT /;"	d	file:
+FREE_OFF	aupe/apue.3e/db/db.c	/^#define FREE_OFF /;"	d	file:
+FTW_D	aupe/apue.3e/filedir/btext.c	/^#define	FTW_D	/;"	d	file:
+FTW_D	aupe/apue.3e/filedir/ftw8.c	/^#define	FTW_D	/;"	d	file:
+FTW_DNR	aupe/apue.3e/filedir/btext.c	/^#define	FTW_DNR	/;"	d	file:
+FTW_DNR	aupe/apue.3e/filedir/ftw8.c	/^#define	FTW_DNR	/;"	d	file:
+FTW_F	aupe/apue.3e/filedir/btext.c	/^#define	FTW_F	/;"	d	file:
+FTW_F	aupe/apue.3e/filedir/ftw8.c	/^#define	FTW_F	/;"	d	file:
+FTW_NS	aupe/apue.3e/filedir/btext.c	/^#define	FTW_NS	/;"	d	file:
+FTW_NS	aupe/apue.3e/filedir/ftw8.c	/^#define	FTW_NS	/;"	d	file:
+GCC_except_table0	4num.s	/^GCC_except_table0:$/;"	l
+GCC_except_table19	4num.s	/^GCC_except_table19:$/;"	l
+GCC_except_table2	4num.s	/^GCC_except_table2:$/;"	l
+GCC_except_table30	4num.s	/^GCC_except_table30:$/;"	l
+GCC_except_table31	4num.s	/^GCC_except_table31:$/;"	l
+GCC_except_table5	4num.s	/^GCC_except_table5:$/;"	l
+GETPW	aupe/apue.3e/exercises/Makefile	/^  GETPW = getpw44bsd$/;"	m
+GETPW	aupe/apue.3e/exercises/Makefile	/^  GETPW = getpwsvr4$/;"	m
+Guest	vec.cpp	/^typedef struct Guest{$/;"	s	file:
+HASH	aupe/apue.3e/threads/mutex2.c	/^#define HASH(/;"	d	file:
+HASH	aupe/apue.3e/threads/mutex3.c	/^#define HASH(/;"	d	file:
+HASH_OFF	aupe/apue.3e/db/db.c	/^#define HASH_OFF /;"	d	file:
+HBUFSZ	aupe/apue.3e/printer/print.h	/^#define HBUFSZ /;"	d
+HDRS	aupe/apue.3e/printer/Makefile	/^HDRS = print.h ipp.h$/;"	m
+HOST_NAME_MAX	aupe/apue.3e/printer/print.h	/^#define HOST_NAME_MAX /;"	d
+HOST_NAME_MAX	aupe/apue.3e/sockets/ruptimed-dg.c	/^#define HOST_NAME_MAX /;"	d	file:
+HOST_NAME_MAX	aupe/apue.3e/sockets/ruptimed-fd.c	/^#define HOST_NAME_MAX /;"	d	file:
+HOST_NAME_MAX	aupe/apue.3e/sockets/ruptimed.c	/^#define HOST_NAME_MAX /;"	d	file:
+HTTP_INFO	aupe/apue.3e/printer/printd.c	/^#define HTTP_INFO(/;"	d	file:
+HTTP_SUCCESS	aupe/apue.3e/printer/printd.c	/^#define HTTP_SUCCESS(/;"	d	file:
+Hash	hash/hash.cpp	/^Hash::Hash(){$/;"	f	class:Hash
+Hash	hash/hash.h	/^class Hash{$/;"	c
+IBUFSZ	aupe/apue.3e/printer/print.h	/^#define IBUFSZ /;"	d
+IDXLEN_MAX	aupe/apue.3e/db/apue_db.h	/^#define IDXLEN_MAX	/;"	d
+IDXLEN_MIN	aupe/apue.3e/db/apue_db.h	/^#define IDXLEN_MIN	/;"	d
+IDXLEN_SZ	aupe/apue.3e/db/db.c	/^#define IDXLEN_SZ	/;"	d	file:
+INS	edit.cpp	/^#define INS /;"	d	file:
+INS	edit_dyn.cpp	/^#define INS /;"	d	file:
+INT	headers/common.h	/^    INT,$/;"	e	enum:Type
+INTEGER	headers/common.h	/^const std::string INTEGER    = "i";$/;"	v
+IOBUFSZ	aupe/apue.3e/printer/print.h	/^#define IOBUFSZ /;"	d
+IPP_PORT	aupe/apue.3e/printer/print.h	/^#define IPP_PORT /;"	d
+Item	hash/hash.h	/^typedef struct Item{$/;"	s
+JOBFILE	aupe/apue.3e/printer/print.h	/^#define JOBFILE /;"	d
+JOBNM_MAX	aupe/apue.3e/printer/print.h	/^#define JOBNM_MAX /;"	d
+KEY	aupe/apue.3e/exercises/pollmsg2.c	/^#define KEY	/;"	d	file:
+KEY	aupe/apue.3e/ipc2/pollmsg.c	/^#define KEY	/;"	d	file:
+LBB0_1	4num.s	/^LBB0_1:                                 ## =>This Inner Loop Header: Depth=1$/;"	l
+LBB0_10	4num.s	/^LBB0_10:$/;"	l
+LBB0_11	4num.s	/^LBB0_11:$/;"	l
+LBB0_13	4num.s	/^LBB0_13:$/;"	l
+LBB0_14	4num.s	/^LBB0_14:$/;"	l
+LBB0_15	4num.s	/^LBB0_15:$/;"	l
+LBB0_16	4num.s	/^LBB0_16:$/;"	l
+LBB0_17	4num.s	/^LBB0_17:$/;"	l
+LBB0_18	4num.s	/^LBB0_18:$/;"	l
+LBB0_2	likely1.s	/^LBB0_2:$/;"	l
+LBB0_2	python/nir.s	/^LBB0_2:$/;"	l
+LBB0_20	4num.s	/^LBB0_20:$/;"	l
+LBB0_21	4num.s	/^LBB0_21:$/;"	l
+LBB0_22	4num.s	/^LBB0_22:$/;"	l
+LBB0_23	4num.s	/^LBB0_23:$/;"	l
+LBB0_24	4num.s	/^LBB0_24:                                ## =>This Inner Loop Header: Depth=1$/;"	l
+LBB0_26	4num.s	/^LBB0_26:$/;"	l
+LBB0_27	4num.s	/^LBB0_27:$/;"	l
+LBB0_28	4num.s	/^LBB0_28:$/;"	l
+LBB0_29	4num.s	/^LBB0_29:$/;"	l
+LBB0_3	4num.s	/^LBB0_3:$/;"	l
+LBB0_30	4num.s	/^LBB0_30:$/;"	l
+LBB0_31	4num.s	/^LBB0_31:$/;"	l
+LBB0_4	4num.s	/^LBB0_4:$/;"	l
+LBB0_5	4num.s	/^LBB0_5:$/;"	l
+LBB0_6	4num.s	/^LBB0_6:                                 ## =>This Inner Loop Header: Depth=1$/;"	l
+LBB0_8	4num.s	/^LBB0_8:$/;"	l
+LBB0_9	4num.s	/^LBB0_9:$/;"	l
+LBB15_11	4num.s	/^LBB15_11:$/;"	l
+LBB15_12	4num.s	/^LBB15_12:$/;"	l
+LBB15_13	4num.s	/^LBB15_13:$/;"	l
+LBB15_14	4num.s	/^LBB15_14:$/;"	l
+LBB15_15	4num.s	/^LBB15_15:$/;"	l
+LBB15_17	4num.s	/^LBB15_17:$/;"	l
+LBB15_18	4num.s	/^LBB15_18:$/;"	l
+LBB15_19	4num.s	/^LBB15_19:$/;"	l
+LBB15_2	4num.s	/^LBB15_2:$/;"	l
+LBB15_20	4num.s	/^LBB15_20:$/;"	l
+LBB15_21	4num.s	/^LBB15_21:$/;"	l
+LBB15_23	4num.s	/^LBB15_23:$/;"	l
+LBB15_24	4num.s	/^LBB15_24:$/;"	l
+LBB15_28	4num.s	/^LBB15_28:$/;"	l
+LBB15_31	4num.s	/^LBB15_31:$/;"	l
+LBB15_32	4num.s	/^LBB15_32:$/;"	l
+LBB15_34	4num.s	/^LBB15_34:$/;"	l
+LBB15_36	4num.s	/^LBB15_36:$/;"	l
+LBB15_37	4num.s	/^LBB15_37:$/;"	l
+LBB15_38	4num.s	/^LBB15_38:$/;"	l
+LBB15_39	4num.s	/^LBB15_39:$/;"	l
+LBB15_4	4num.s	/^LBB15_4:$/;"	l
+LBB15_7	4num.s	/^LBB15_7:$/;"	l
+LBB15_9	4num.s	/^LBB15_9:$/;"	l
+LBB17_2	4num.s	/^LBB17_2:$/;"	l
+LBB17_5	4num.s	/^LBB17_5:$/;"	l
+LBB17_7	4num.s	/^LBB17_7:$/;"	l
+LBB17_8	4num.s	/^LBB17_8:$/;"	l
+LBB17_9	4num.s	/^LBB17_9:$/;"	l
+LBB18_10	4num.s	/^LBB18_10:$/;"	l
+LBB18_2	4num.s	/^LBB18_2:$/;"	l
+LBB18_4	4num.s	/^LBB18_4:$/;"	l
+LBB18_5	4num.s	/^LBB18_5:$/;"	l
+LBB18_7	4num.s	/^LBB18_7:$/;"	l
+LBB18_8	4num.s	/^LBB18_8:$/;"	l
+LBB18_9	4num.s	/^LBB18_9:$/;"	l
+LBB19_10	4num.s	/^LBB19_10:$/;"	l
+LBB19_11	4num.s	/^LBB19_11:$/;"	l
+LBB19_12	4num.s	/^LBB19_12:$/;"	l
+LBB19_13	4num.s	/^LBB19_13:$/;"	l
+LBB19_15	4num.s	/^LBB19_15:$/;"	l
+LBB19_16	4num.s	/^LBB19_16:$/;"	l
+LBB19_18	4num.s	/^LBB19_18:$/;"	l
+LBB19_19	4num.s	/^LBB19_19:$/;"	l
+LBB19_23	4num.s	/^LBB19_23:$/;"	l
+LBB19_25	4num.s	/^LBB19_25:$/;"	l
+LBB19_26	4num.s	/^LBB19_26:$/;"	l
+LBB19_28	4num.s	/^LBB19_28:$/;"	l
+LBB19_29	4num.s	/^LBB19_29:$/;"	l
+LBB19_32	4num.s	/^LBB19_32:$/;"	l
+LBB19_33	4num.s	/^LBB19_33:$/;"	l
+LBB19_34	4num.s	/^LBB19_34:$/;"	l
+LBB19_36	4num.s	/^LBB19_36:$/;"	l
+LBB19_37	4num.s	/^LBB19_37:$/;"	l
+LBB19_38	4num.s	/^LBB19_38:$/;"	l
+LBB19_39	4num.s	/^LBB19_39:$/;"	l
+LBB19_4	4num.s	/^LBB19_4:$/;"	l
+LBB19_8	4num.s	/^LBB19_8:$/;"	l
+LBB1_1	likely.s	/^LBB1_1:$/;"	l
+LBB1_3	likely.s	/^LBB1_3:$/;"	l
+LBB23_1	4num.s	/^LBB23_1:$/;"	l
+LBB23_2	4num.s	/^LBB23_2:$/;"	l
+LBB23_3	4num.s	/^LBB23_3:$/;"	l
+LBB27_10	4num.s	/^LBB27_10:$/;"	l
+LBB27_11	4num.s	/^LBB27_11:$/;"	l
+LBB27_3	4num.s	/^LBB27_3:$/;"	l
+LBB27_4	4num.s	/^LBB27_4:$/;"	l
+LBB27_6	4num.s	/^LBB27_6:$/;"	l
+LBB27_7	4num.s	/^LBB27_7:$/;"	l
+LBB27_8	4num.s	/^LBB27_8:                                ## =>This Inner Loop Header: Depth=1$/;"	l
+LBB28_12	4num.s	/^LBB28_12:$/;"	l
+LBB28_2	4num.s	/^LBB28_2:$/;"	l
+LBB28_4	4num.s	/^LBB28_4:$/;"	l
+LBB28_6	4num.s	/^LBB28_6:$/;"	l
+LBB28_7	4num.s	/^LBB28_7:$/;"	l
+LBB28_8	4num.s	/^LBB28_8:$/;"	l
+LBB28_9	4num.s	/^LBB28_9:                                ## =>This Inner Loop Header: Depth=1$/;"	l
+LBB2_1	4num.s	/^LBB2_1:                                 ## =>This Loop Header: Depth=1$/;"	l
+LBB2_10	4num.s	/^LBB2_10:                                ##   in Loop: Header=BB2_5 Depth=3$/;"	l
+LBB2_11	4num.s	/^LBB2_11:                                ##   in Loop: Header=BB2_5 Depth=3$/;"	l
+LBB2_13	4num.s	/^LBB2_13:                                ##   in Loop: Header=BB2_5 Depth=3$/;"	l
+LBB2_14	4num.s	/^LBB2_14:                                ##   in Loop: Header=BB2_5 Depth=3$/;"	l
+LBB2_15	4num.s	/^LBB2_15:                                ##   in Loop: Header=BB2_5 Depth=3$/;"	l
+LBB2_17	4num.s	/^LBB2_17:                                ##   in Loop: Header=BB2_5 Depth=3$/;"	l
+LBB2_18	4num.s	/^LBB2_18:                                ##   in Loop: Header=BB2_5 Depth=3$/;"	l
+LBB2_19	4num.s	/^LBB2_19:                                ##   in Loop: Header=BB2_5 Depth=3$/;"	l
+LBB2_20	4num.s	/^LBB2_20:                                ##   in Loop: Header=BB2_5 Depth=3$/;"	l
+LBB2_21	4num.s	/^LBB2_21:                                ##   in Loop: Header=BB2_5 Depth=3$/;"	l
+LBB2_22	4num.s	/^LBB2_22:$/;"	l
+LBB2_23	4num.s	/^LBB2_23:$/;"	l
+LBB2_24	4num.s	/^LBB2_24:                                ##   in Loop: Header=BB2_5 Depth=3$/;"	l
+LBB2_25	4num.s	/^LBB2_25:                                ##   in Loop: Header=BB2_5 Depth=3$/;"	l
+LBB2_26	4num.s	/^LBB2_26:                                ##   in Loop: Header=BB2_5 Depth=3$/;"	l
+LBB2_27	4num.s	/^LBB2_27:                                ##   in Loop: Header=BB2_5 Depth=3$/;"	l
+LBB2_28	4num.s	/^LBB2_28:$/;"	l
+LBB2_29	4num.s	/^LBB2_29:                                ##   in Loop: Header=BB2_3 Depth=2$/;"	l
+LBB2_3	4num.s	/^LBB2_3:                                 ##   Parent Loop BB2_1 Depth=1$/;"	l
+LBB2_30	4num.s	/^LBB2_30:                                ##   in Loop: Header=BB2_3 Depth=2$/;"	l
+LBB2_31	4num.s	/^LBB2_31:                                ##   in Loop: Header=BB2_1 Depth=1$/;"	l
+LBB2_32	4num.s	/^LBB2_32:                                ##   in Loop: Header=BB2_1 Depth=1$/;"	l
+LBB2_33	4num.s	/^LBB2_33:$/;"	l
+LBB2_34	4num.s	/^LBB2_34:$/;"	l
+LBB2_35	4num.s	/^LBB2_35:$/;"	l
+LBB2_36	4num.s	/^LBB2_36:                                ##   in Loop: Header=BB2_3 Depth=2$/;"	l
+LBB2_5	4num.s	/^LBB2_5:                                 ##   Parent Loop BB2_1 Depth=1$/;"	l
+LBB2_7	4num.s	/^LBB2_7:                                 ##   in Loop: Header=BB2_5 Depth=3$/;"	l
+LBB2_9	4num.s	/^LBB2_9:                                 ##   in Loop: Header=BB2_5 Depth=3$/;"	l
+LBB30_1	4num.s	/^LBB30_1:$/;"	l
+LBB30_10	4num.s	/^LBB30_10:$/;"	l
+LBB30_11	4num.s	/^LBB30_11:$/;"	l
+LBB30_12	4num.s	/^LBB30_12:$/;"	l
+LBB30_13	4num.s	/^LBB30_13:$/;"	l
+LBB30_15	4num.s	/^LBB30_15:$/;"	l
+LBB30_17	4num.s	/^LBB30_17:$/;"	l
+LBB30_18	4num.s	/^LBB30_18:$/;"	l
+LBB30_19	4num.s	/^LBB30_19:$/;"	l
+LBB30_20	4num.s	/^LBB30_20:$/;"	l
+LBB30_21	4num.s	/^LBB30_21:$/;"	l
+LBB30_22	4num.s	/^LBB30_22:$/;"	l
+LBB30_23	4num.s	/^LBB30_23:$/;"	l
+LBB30_24	4num.s	/^LBB30_24:$/;"	l
+LBB30_25	4num.s	/^LBB30_25:$/;"	l
+LBB30_26	4num.s	/^LBB30_26:$/;"	l
+LBB30_27	4num.s	/^LBB30_27:$/;"	l
+LBB30_28	4num.s	/^LBB30_28:$/;"	l
+LBB30_29	4num.s	/^LBB30_29:$/;"	l
+LBB30_3	4num.s	/^LBB30_3:$/;"	l
+LBB30_30	4num.s	/^LBB30_30:$/;"	l
+LBB30_6	4num.s	/^LBB30_6:$/;"	l
+LBB30_7	4num.s	/^LBB30_7:$/;"	l
+LBB30_8	4num.s	/^LBB30_8:$/;"	l
+LBB30_9	4num.s	/^LBB30_9:$/;"	l
+LBB31_12	4num.s	/^LBB31_12:$/;"	l
+LBB31_13	4num.s	/^LBB31_13:$/;"	l
+LBB31_14	4num.s	/^LBB31_14:$/;"	l
+LBB31_15	4num.s	/^LBB31_15:$/;"	l
+LBB31_17	4num.s	/^LBB31_17:$/;"	l
+LBB31_18	4num.s	/^LBB31_18:$/;"	l
+LBB31_19	4num.s	/^LBB31_19:$/;"	l
+LBB31_2	4num.s	/^LBB31_2:$/;"	l
+LBB31_20	4num.s	/^LBB31_20:$/;"	l
+LBB31_21	4num.s	/^LBB31_21:$/;"	l
+LBB31_24	4num.s	/^LBB31_24:$/;"	l
+LBB31_25	4num.s	/^LBB31_25:$/;"	l
+LBB31_26	4num.s	/^LBB31_26:$/;"	l
+LBB31_27	4num.s	/^LBB31_27:$/;"	l
+LBB31_28	4num.s	/^LBB31_28:$/;"	l
+LBB31_29	4num.s	/^LBB31_29:$/;"	l
+LBB31_4	4num.s	/^LBB31_4:$/;"	l
+LBB31_5	4num.s	/^LBB31_5:$/;"	l
+LBB31_8	4num.s	/^LBB31_8:$/;"	l
+LBB31_9	4num.s	/^LBB31_9:$/;"	l
+LBB3_2	4num.s	/^LBB3_2:$/;"	l
+LBB3_3	4num.s	/^LBB3_3:$/;"	l
+LBB3_5	4num.s	/^LBB3_5:$/;"	l
+LBB3_6	4num.s	/^LBB3_6:$/;"	l
+LBB5_1	4num.s	/^LBB5_1:$/;"	l
+LBB5_2	4num.s	/^LBB5_2:$/;"	l
+LBB5_3	4num.s	/^LBB5_3:$/;"	l
+LDCMD	aupe/apue.3e/db/Makefile	/^  LDCMD=$(CC) -shared -Wl,-dylib -o libapue_db.so.1 -L$(ROOT)\/lib -lapue -lc db.o$/;"	m
+LDCMD	aupe/apue.3e/db/Makefile	/^  LDCMD=$(LD) -64 -G -Bdynamic -R\/lib\/64:\/usr\/ucblib\/sparcv9 -o libapue_db.so.1 -L\/lib\/64 -L\/usr\/ucblib\/sparcv9 -L$(ROOT)\/lib -lapue db.o$/;"	m
+LIBMISC	aupe/apue.3e/db/Makefile	/^LIBMISC	= libapue_db.a$/;"	m
+LIBMISC	aupe/apue.3e/lib/Makefile	/^LIBMISC	= libapue.a$/;"	m
+LOCKFILE	aupe/apue.3e/daemons/single.c	/^#define LOCKFILE /;"	d	file:
+LOCKMODE	aupe/apue.3e/daemons/single.c	/^#define LOCKMODE /;"	d	file:
+LPNAME	aupe/apue.3e/printer/print.h	/^#define LPNAME	/;"	d
+Lexception0	4num.s	/^Lexception0:$/;"	l
+Lexception1	4num.s	/^Lexception1:$/;"	l
+Lexception2	4num.s	/^Lexception2:$/;"	l
+Lexception3	4num.s	/^Lexception3:$/;"	l
+Lexception4	4num.s	/^Lexception4:$/;"	l
+Lexception5	4num.s	/^Lexception5:$/;"	l
+Lfunc_begin0	4num.s	/^Lfunc_begin0:$/;"	l
+Lfunc_begin1	4num.s	/^Lfunc_begin1:$/;"	l
+Lfunc_begin2	4num.s	/^Lfunc_begin2:$/;"	l
+Lfunc_begin3	4num.s	/^Lfunc_begin3:$/;"	l
+Lfunc_begin4	4num.s	/^Lfunc_begin4:$/;"	l
+Lfunc_begin5	4num.s	/^Lfunc_begin5:$/;"	l
+Lfunc_end0	4num.s	/^Lfunc_end0:$/;"	l
+Lfunc_end1	4num.s	/^Lfunc_end1:$/;"	l
+Lfunc_end2	4num.s	/^Lfunc_end2:$/;"	l
+Lfunc_end3	4num.s	/^Lfunc_end3:$/;"	l
+Lfunc_end4	4num.s	/^Lfunc_end4:$/;"	l
+Lfunc_end5	4num.s	/^Lfunc_end5:$/;"	l
+Link	headers/list.h	/^}Link;$/;"	t	typeref:struct:link
+Link	tem.cpp	/^    }Link;$/;"	t	class:List	typeref:struct:List::link	file:
+List	tem.cpp	/^class List$/;"	c	file:
+Lset0	4num.s	/^Lset0 = Lfunc_begin0-Lfunc_begin0       ## >> Call Site 1 <<$/;"	d
+Lset1	4num.s	/^Lset1 = Ltmp0-Lfunc_begin0              ##   Call between Lfunc_begin0 and Ltmp0$/;"	d
+Lset10	4num.s	/^Lset10 = Ltmp6-Lfunc_begin0             ## >> Call Site 5 <<$/;"	d
+Lset11	4num.s	/^Lset11 = Ltmp15-Ltmp6                   ##   Call between Ltmp6 and Ltmp15$/;"	d
+Lset12	4num.s	/^Lset12 = Ltmp16-Lfunc_begin0            ##     jumps to Ltmp16$/;"	d
+Lset13	4num.s	/^Lset13 = Ltmp17-Lfunc_begin0            ## >> Call Site 6 <<$/;"	d
+Lset14	4num.s	/^Lset14 = Ltmp18-Ltmp17                  ##   Call between Ltmp17 and Ltmp18$/;"	d
+Lset15	4num.s	/^Lset15 = Ltmp19-Lfunc_begin0            ##     jumps to Ltmp19$/;"	d
+Lset16	4num.s	/^Lset16 = Ltmp18-Lfunc_begin0            ## >> Call Site 7 <<$/;"	d
+Lset17	4num.s	/^Lset17 = Lfunc_end0-Ltmp18              ##   Call between Ltmp18 and Lfunc_end0$/;"	d
+Lset18	4num.s	/^Lset18 = Lfunc_begin1-Lfunc_begin1      ## >> Call Site 1 <<$/;"	d
+Lset19	4num.s	/^Lset19 = Ltmp20-Lfunc_begin1            ##   Call between Lfunc_begin1 and Ltmp20$/;"	d
+Lset2	4num.s	/^Lset2 = Ltmp0-Lfunc_begin0              ## >> Call Site 2 <<$/;"	d
+Lset20	4num.s	/^Lset20 = Ltmp20-Lfunc_begin1            ## >> Call Site 2 <<$/;"	d
+Lset21	4num.s	/^Lset21 = Ltmp21-Ltmp20                  ##   Call between Ltmp20 and Ltmp21$/;"	d
+Lset22	4num.s	/^Lset22 = Ltmp22-Lfunc_begin1            ##     jumps to Ltmp22$/;"	d
+Lset23	4num.s	/^Lset23 = Ltmp23-Lfunc_begin1            ## >> Call Site 3 <<$/;"	d
+Lset24	4num.s	/^Lset24 = Ltmp34-Ltmp23                  ##   Call between Ltmp23 and Ltmp34$/;"	d
+Lset25	4num.s	/^Lset25 = Ltmp35-Lfunc_begin1            ##     jumps to Ltmp35$/;"	d
+Lset26	4num.s	/^Lset26 = Ltmp34-Lfunc_begin1            ## >> Call Site 4 <<$/;"	d
+Lset27	4num.s	/^Lset27 = Lfunc_end1-Ltmp34              ##   Call between Ltmp34 and Lfunc_end1$/;"	d
+Lset28	4num.s	/^Lset28 = Lfunc_begin2-Lfunc_begin2      ## >> Call Site 1 <<$/;"	d
+Lset29	4num.s	/^Lset29 = Ltmp36-Lfunc_begin2            ##   Call between Lfunc_begin2 and Ltmp36$/;"	d
+Lset3	4num.s	/^Lset3 = Ltmp1-Ltmp0                     ##   Call between Ltmp0 and Ltmp1$/;"	d
+Lset30	4num.s	/^Lset30 = Ltmp36-Lfunc_begin2            ## >> Call Site 2 <<$/;"	d
+Lset31	4num.s	/^Lset31 = Ltmp39-Ltmp36                  ##   Call between Ltmp36 and Ltmp39$/;"	d
+Lset32	4num.s	/^Lset32 = Ltmp40-Lfunc_begin2            ##     jumps to Ltmp40$/;"	d
+Lset33	4num.s	/^Lset33 = Ltmp39-Lfunc_begin2            ## >> Call Site 3 <<$/;"	d
+Lset34	4num.s	/^Lset34 = Lfunc_end2-Ltmp39              ##   Call between Ltmp39 and Lfunc_end2$/;"	d
+Lset35	4num.s	/^Lset35 = Ltmp41-Lfunc_begin3            ## >> Call Site 1 <<$/;"	d
+Lset36	4num.s	/^Lset36 = Ltmp44-Ltmp41                  ##   Call between Ltmp41 and Ltmp44$/;"	d
+Lset37	4num.s	/^Lset37 = Ltmp45-Lfunc_begin3            ##     jumps to Ltmp45$/;"	d
+Lset38	4num.s	/^Lset38 = Ltmp44-Lfunc_begin3            ## >> Call Site 2 <<$/;"	d
+Lset39	4num.s	/^Lset39 = Lfunc_end3-Ltmp44              ##   Call between Ltmp44 and Lfunc_end3$/;"	d
+Lset4	4num.s	/^Lset4 = Ltmp2-Lfunc_begin0              ##     jumps to Ltmp2$/;"	d
+Lset40	4num.s	/^Lset40 = Ltmp46-Lfunc_begin4            ## >> Call Site 1 <<$/;"	d
+Lset41	4num.s	/^Lset41 = Ltmp47-Ltmp46                  ##   Call between Ltmp46 and Ltmp47$/;"	d
+Lset42	4num.s	/^Lset42 = Ltmp48-Lfunc_begin4            ##     jumps to Ltmp48$/;"	d
+Lset43	4num.s	/^Lset43 = Ltmp49-Lfunc_begin4            ## >> Call Site 2 <<$/;"	d
+Lset44	4num.s	/^Lset44 = Ltmp50-Ltmp49                  ##   Call between Ltmp49 and Ltmp50$/;"	d
+Lset45	4num.s	/^Lset45 = Ltmp60-Lfunc_begin4            ##     jumps to Ltmp60$/;"	d
+Lset46	4num.s	/^Lset46 = Ltmp51-Lfunc_begin4            ## >> Call Site 3 <<$/;"	d
+Lset47	4num.s	/^Lset47 = Ltmp54-Ltmp51                  ##   Call between Ltmp51 and Ltmp54$/;"	d
+Lset48	4num.s	/^Lset48 = Ltmp55-Lfunc_begin4            ##     jumps to Ltmp55$/;"	d
+Lset49	4num.s	/^Lset49 = Ltmp56-Lfunc_begin4            ## >> Call Site 4 <<$/;"	d
+Lset5	4num.s	/^Lset5 = Ltmp3-Lfunc_begin0              ## >> Call Site 3 <<$/;"	d
+Lset50	4num.s	/^Lset50 = Ltmp59-Ltmp56                  ##   Call between Ltmp56 and Ltmp59$/;"	d
+Lset51	4num.s	/^Lset51 = Ltmp60-Lfunc_begin4            ##     jumps to Ltmp60$/;"	d
+Lset52	4num.s	/^Lset52 = Ltmp59-Lfunc_begin4            ## >> Call Site 5 <<$/;"	d
+Lset53	4num.s	/^Lset53 = Ltmp61-Ltmp59                  ##   Call between Ltmp59 and Ltmp61$/;"	d
+Lset54	4num.s	/^Lset54 = Ltmp61-Lfunc_begin4            ## >> Call Site 6 <<$/;"	d
+Lset55	4num.s	/^Lset55 = Ltmp62-Ltmp61                  ##   Call between Ltmp61 and Ltmp62$/;"	d
+Lset56	4num.s	/^Lset56 = Ltmp63-Lfunc_begin4            ##     jumps to Ltmp63$/;"	d
+Lset57	4num.s	/^Lset57 = Ltmp62-Lfunc_begin4            ## >> Call Site 7 <<$/;"	d
+Lset58	4num.s	/^Lset58 = Ltmp64-Ltmp62                  ##   Call between Ltmp62 and Ltmp64$/;"	d
+Lset59	4num.s	/^Lset59 = Ltmp64-Lfunc_begin4            ## >> Call Site 8 <<$/;"	d
+Lset6	4num.s	/^Lset6 = Ltmp4-Ltmp3                     ##   Call between Ltmp3 and Ltmp4$/;"	d
+Lset60	4num.s	/^Lset60 = Ltmp65-Ltmp64                  ##   Call between Ltmp64 and Ltmp65$/;"	d
+Lset61	4num.s	/^Lset61 = Ltmp66-Lfunc_begin4            ##     jumps to Ltmp66$/;"	d
+Lset62	4num.s	/^Lset62 = Ltmp65-Lfunc_begin4            ## >> Call Site 9 <<$/;"	d
+Lset63	4num.s	/^Lset63 = Lfunc_end4-Ltmp65              ##   Call between Ltmp65 and Lfunc_end4$/;"	d
+Lset64	4num.s	/^Lset64 = Lfunc_begin5-Lfunc_begin5      ## >> Call Site 1 <<$/;"	d
+Lset65	4num.s	/^Lset65 = Ltmp67-Lfunc_begin5            ##   Call between Lfunc_begin5 and Ltmp67$/;"	d
+Lset66	4num.s	/^Lset66 = Ltmp67-Lfunc_begin5            ## >> Call Site 2 <<$/;"	d
+Lset67	4num.s	/^Lset67 = Ltmp68-Ltmp67                  ##   Call between Ltmp67 and Ltmp68$/;"	d
+Lset68	4num.s	/^Lset68 = Ltmp69-Lfunc_begin5            ##     jumps to Ltmp69$/;"	d
+Lset69	4num.s	/^Lset69 = Ltmp68-Lfunc_begin5            ## >> Call Site 3 <<$/;"	d
+Lset7	4num.s	/^Lset7 = Ltmp5-Lfunc_begin0              ##     jumps to Ltmp5$/;"	d
+Lset70	4num.s	/^Lset70 = Lfunc_end5-Ltmp68              ##   Call between Ltmp68 and Lfunc_end5$/;"	d
+Lset8	4num.s	/^Lset8 = Ltmp4-Lfunc_begin0              ## >> Call Site 4 <<$/;"	d
+Lset9	4num.s	/^Lset9 = Ltmp6-Ltmp4                     ##   Call between Ltmp4 and Ltmp6$/;"	d
+Ltmp0	4num.s	/^Ltmp0:$/;"	l
+Ltmp0	likely.s	/^Ltmp0:$/;"	l
+Ltmp0	likely1.s	/^Ltmp0:$/;"	l
+Ltmp0	python/nir.s	/^Ltmp0:$/;"	l
+Ltmp1	4num.s	/^Ltmp1:$/;"	l
+Ltmp1	likely.s	/^Ltmp1:$/;"	l
+Ltmp1	likely1.s	/^Ltmp1:$/;"	l
+Ltmp1	python/nir.s	/^Ltmp1:$/;"	l
+Ltmp10	4num.s	/^Ltmp10:$/;"	l
+Ltmp11	4num.s	/^Ltmp11:$/;"	l
+Ltmp12	4num.s	/^Ltmp12:$/;"	l
+Ltmp13	4num.s	/^Ltmp13:$/;"	l
+Ltmp14	4num.s	/^Ltmp14:$/;"	l
+Ltmp15	4num.s	/^Ltmp15:$/;"	l
+Ltmp16	4num.s	/^Ltmp16:$/;"	l
+Ltmp17	4num.s	/^Ltmp17:$/;"	l
+Ltmp18	4num.s	/^Ltmp18:$/;"	l
+Ltmp19	4num.s	/^Ltmp19:$/;"	l
+Ltmp2	4num.s	/^Ltmp2:$/;"	l
+Ltmp2	likely.s	/^Ltmp2:$/;"	l
+Ltmp2	likely1.s	/^Ltmp2:$/;"	l
+Ltmp2	python/nir.s	/^Ltmp2:$/;"	l
+Ltmp20	4num.s	/^Ltmp20:$/;"	l
+Ltmp21	4num.s	/^Ltmp21:$/;"	l
+Ltmp22	4num.s	/^Ltmp22:$/;"	l
+Ltmp23	4num.s	/^Ltmp23:$/;"	l
+Ltmp24	4num.s	/^Ltmp24:$/;"	l
+Ltmp25	4num.s	/^Ltmp25:$/;"	l
+Ltmp26	4num.s	/^Ltmp26:$/;"	l
+Ltmp27	4num.s	/^Ltmp27:$/;"	l
+Ltmp28	4num.s	/^Ltmp28:$/;"	l
+Ltmp29	4num.s	/^Ltmp29:$/;"	l
+Ltmp3	4num.s	/^Ltmp3:$/;"	l
+Ltmp3	likely.s	/^Ltmp3:$/;"	l
+Ltmp30	4num.s	/^Ltmp30:$/;"	l
+Ltmp31	4num.s	/^Ltmp31:$/;"	l
+Ltmp32	4num.s	/^Ltmp32:$/;"	l
+Ltmp33	4num.s	/^Ltmp33:$/;"	l
+Ltmp34	4num.s	/^Ltmp34:$/;"	l
+Ltmp35	4num.s	/^Ltmp35:$/;"	l
+Ltmp36	4num.s	/^Ltmp36:$/;"	l
+Ltmp37	4num.s	/^Ltmp37:$/;"	l
+Ltmp38	4num.s	/^Ltmp38:$/;"	l
+Ltmp39	4num.s	/^Ltmp39:$/;"	l
+Ltmp4	4num.s	/^Ltmp4:$/;"	l
+Ltmp4	likely.s	/^Ltmp4:$/;"	l
+Ltmp40	4num.s	/^Ltmp40:$/;"	l
+Ltmp41	4num.s	/^Ltmp41:$/;"	l
+Ltmp42	4num.s	/^Ltmp42:$/;"	l
+Ltmp43	4num.s	/^Ltmp43:$/;"	l
+Ltmp44	4num.s	/^Ltmp44:$/;"	l
+Ltmp45	4num.s	/^Ltmp45:$/;"	l
+Ltmp46	4num.s	/^Ltmp46:$/;"	l
+Ltmp47	4num.s	/^Ltmp47:$/;"	l
+Ltmp48	4num.s	/^Ltmp48:$/;"	l
+Ltmp49	4num.s	/^Ltmp49:$/;"	l
+Ltmp5	4num.s	/^Ltmp5:$/;"	l
+Ltmp5	likely.s	/^Ltmp5:$/;"	l
+Ltmp50	4num.s	/^Ltmp50:$/;"	l
+Ltmp51	4num.s	/^Ltmp51:$/;"	l
+Ltmp52	4num.s	/^Ltmp52:$/;"	l
+Ltmp53	4num.s	/^Ltmp53:$/;"	l
+Ltmp54	4num.s	/^Ltmp54:$/;"	l
+Ltmp55	4num.s	/^Ltmp55:$/;"	l
+Ltmp56	4num.s	/^Ltmp56:$/;"	l
+Ltmp57	4num.s	/^Ltmp57:$/;"	l
+Ltmp58	4num.s	/^Ltmp58:$/;"	l
+Ltmp59	4num.s	/^Ltmp59:$/;"	l
+Ltmp6	4num.s	/^Ltmp6:$/;"	l
+Ltmp60	4num.s	/^Ltmp60:$/;"	l
+Ltmp61	4num.s	/^Ltmp61:$/;"	l
+Ltmp62	4num.s	/^Ltmp62:$/;"	l
+Ltmp63	4num.s	/^Ltmp63:$/;"	l
+Ltmp64	4num.s	/^Ltmp64:$/;"	l
+Ltmp65	4num.s	/^Ltmp65:$/;"	l
+Ltmp66	4num.s	/^Ltmp66:$/;"	l
+Ltmp67	4num.s	/^Ltmp67:$/;"	l
+Ltmp68	4num.s	/^Ltmp68:$/;"	l
+Ltmp69	4num.s	/^Ltmp69:$/;"	l
+Ltmp7	4num.s	/^Ltmp7:$/;"	l
+Ltmp8	4num.s	/^Ltmp8:$/;"	l
+Ltmp9	4num.s	/^Ltmp9:$/;"	l
+MALLOC_SIZE	aupe/apue.3e/ipc1/tshm.c	/^#define	MALLOC_SIZE	/;"	d	file:
+MAT	edit.cpp	/^#define MAT /;"	d	file:
+MAT	edit_dyn.cpp	/^#define MAT /;"	d	file:
+MAXADDRLEN	aupe/apue.3e/sockets/ruptimed-dg.c	/^#define MAXADDRLEN	/;"	d	file:
+MAXARGC	aupe/apue.3e/lib/bufargs.c	/^#define	MAXARGC	/;"	d	file:
+MAXCFGLINE	aupe/apue.3e/printer/util.c	/^#define MAXCFGLINE /;"	d	file:
+MAXFMTLEN	aupe/apue.3e/printer/util.c	/^#define MAXFMTLEN /;"	d	file:
+MAXKWLEN	aupe/apue.3e/printer/util.c	/^#define MAXKWLEN /;"	d	file:
+MAXLINE	aupe/apue.3e/include/apue.h	/^#define	MAXLINE	/;"	d
+MAXMSZ	aupe/apue.3e/exercises/pollmsg2.c	/^#define MAXMSZ	/;"	d	file:
+MAXMSZ	aupe/apue.3e/ipc2/pollmsg.c	/^#define MAXMSZ	/;"	d	file:
+MAXMSZ	aupe/apue.3e/ipc2/sendmsg.c	/^#define MAXMSZ /;"	d	file:
+MAXSLEEP	aupe/apue.3e/sockets/clconn.c	/^#define MAXSLEEP /;"	d	file:
+MAXSLEEP	aupe/apue.3e/sockets/clconn2.c	/^#define MAXSLEEP /;"	d	file:
+MAXSTRINGSZ	aupe/apue.3e/threadctl/getenv1.c	/^#define MAXSTRINGSZ	/;"	d	file:
+MAXSTRINGSZ	aupe/apue.3e/threadctl/getenv3.c	/^#define MAXSTRINGSZ	/;"	d	file:
+MAXSZ	aupe/apue.3e/exercises/longpath.c	/^#define MAXSZ /;"	d	file:
+MAX_PASS_LEN	aupe/apue.3e/termios/getpass.c	/^#define	MAX_PASS_LEN	/;"	d	file:
+MEMSTR	aupe/apue.3e/stdio/Makefile	/^  MEMSTR = memstr$/;"	m
+MEMSTR	aupe/apue.3e/stdio/Makefile	/^  MEMSTR =$/;"	m
+MIN	aupe/apue.3e/exercises/fmemopen.c	/^#define MIN(/;"	d	file:
+MOREPROGS	aupe/apue.3e/advio/Makefile	/^MOREPROGS = rot13c2$/;"	m
+MOREPROGS	aupe/apue.3e/filedir/Makefile	/^MOREPROGS = ftw8$/;"	m
+MOREPROGS	aupe/apue.3e/proc/Makefile	/^MOREPROGS = systest1 systest3$/;"	m
+MOREPROGS	aupe/apue.3e/signals/Makefile	/^MOREPROGS = systest2 tsleep2$/;"	m
+MOREPROGS	aupe/apue.3e/sockets/makefile	/^MOREPROGS = findsvc ruptime-dg$/;"	m
+MSGLEN_MAX	aupe/apue.3e/printer/print.h	/^#define MSGLEN_MAX /;"	d
+MS_APPEND	aupe/apue.3e/exercises/fmemopen.c	/^#define MS_APPEND	/;"	d	file:
+MS_MYBUF	aupe/apue.3e/exercises/fmemopen.c	/^#define MS_MYBUF	/;"	d	file:
+MS_READ	aupe/apue.3e/exercises/fmemopen.c	/^#define MS_READ	/;"	d	file:
+MS_TRUNCATE	aupe/apue.3e/exercises/fmemopen.c	/^#define MS_TRUNCATE	/;"	d	file:
+MS_WRITE	aupe/apue.3e/exercises/fmemopen.c	/^#define MS_WRITE	/;"	d	file:
+MutexLock	headers/buffers.h	/^    MutexLock(pthread_mutex_t* pMutex):mtx(pMutex){$/;"	f	class:MutexLock
+MutexLock	headers/buffers.h	/^class MutexLock$/;"	c
+Myfunc	aupe/apue.3e/filedir/ftw8.c	/^typedef	int	Myfunc(const char *, const struct stat *, int);$/;"	t	file:
+N	nqueens.cpp	/^int N;$/;"	v
+NALLOC	aupe/apue.3e/ipc2/opend/client.c	/^#define	NALLOC	/;"	d	file:
+NALLOC	aupe/apue.3e/ipc2/opend/loop.poll.c	/^#define NALLOC	/;"	d	file:
+NAME	aupe/apue.3e/exercises/longpath.c	/^#define	NAME /;"	d	file:
+NBUF	aupe/apue.3e/advio/rot13c2.c	/^#define NBUF /;"	d	file:
+NEWLINE	aupe/apue.3e/db/db.c	/^#define NEWLINE /;"	d	file:
+NHASH	aupe/apue.3e/threads/mutex2.c	/^#define NHASH /;"	d	file:
+NHASH	aupe/apue.3e/threads/mutex3.c	/^#define NHASH /;"	d	file:
+NHASH_DEF	aupe/apue.3e/db/db.c	/^#define NHASH_DEF	/;"	d	file:
+NLOOPS	aupe/apue.3e/ipc1/devzero.c	/^#define	NLOOPS	/;"	d	file:
+NO_OF_CHARS	ana.cpp	/^#define NO_OF_CHARS /;"	d	file:
+NQ	aupe/apue.3e/exercises/pollmsg2.c	/^#define NQ	/;"	d	file:
+NQ	aupe/apue.3e/ipc2/pollmsg.c	/^#define NQ	/;"	d	file:
+NTHR	aupe/apue.3e/threads/barrier.c	/^#define NTHR /;"	d	file:
+NUMNUM	aupe/apue.3e/threads/barrier.c	/^#define NUMNUM /;"	d	file:
+NUM_THREADS	mulThr.cpp	/^#define NUM_THREADS /;"	d	file:
+Node	btree.cpp	/^        Node(int data){$/;"	f	class:Node
+Node	btree.cpp	/^class Node{$/;"	c	file:
+Node	cc/4-5.cpp	/^    Node(int x):val(x), left(NULL), right(NULL), parent(NULL){};$/;"	f	struct:Node
+Node	cc/4-5.cpp	/^typedef struct Node{$/;"	s	file:
+Node	headers/list.h	/^Link* Node(int data){$/;"	f
+Node	list2stack.cpp	/^        Node(int val){$/;"	f	class:Node
+Node	list2stack.cpp	/^class Node{$/;"	c	file:
+Node	lists/link.cpp	/^}Node;$/;"	t	typeref:struct:node	file:
+OBJS	aupe/apue.3e/lib/Makefile	/^OBJS   = bufargs.o cliconn.o clrfl.o \\$/;"	m
+OPEN_MAX_GUESS	aupe/apue.3e/exercises/openmax.c	/^#define OPEN_MAX_GUESS	/;"	d	file:
+OPEN_MAX_GUESS	aupe/apue.3e/lib/openmax.c	/^#define	OPEN_MAX_GUESS	/;"	d	file:
+OPTSTR	aupe/apue.3e/pty/main.c	/^#define OPTSTR /;"	d	file:
+OP_CANCEL_JOB	aupe/apue.3e/printer/ipp.h	/^#define OP_CANCEL_JOB /;"	d
+OP_CREATE_JOB	aupe/apue.3e/printer/ipp.h	/^#define OP_CREATE_JOB /;"	d
+OP_GET_JOBS	aupe/apue.3e/printer/ipp.h	/^#define OP_GET_JOBS /;"	d
+OP_GET_JOB_ATTR	aupe/apue.3e/printer/ipp.h	/^#define OP_GET_JOB_ATTR /;"	d
+OP_GET_PRINTER_ATTR	aupe/apue.3e/printer/ipp.h	/^#define OP_GET_PRINTER_ATTR /;"	d
+OP_HOLD_JOB	aupe/apue.3e/printer/ipp.h	/^#define OP_HOLD_JOB /;"	d
+OP_PAUSE_PRINTER	aupe/apue.3e/printer/ipp.h	/^#define OP_PAUSE_PRINTER /;"	d
+OP_PRINT_JOB	aupe/apue.3e/printer/ipp.h	/^#define OP_PRINT_JOB /;"	d
+OP_PRINT_URI	aupe/apue.3e/printer/ipp.h	/^#define OP_PRINT_URI /;"	d
+OP_PURGE_JOBS	aupe/apue.3e/printer/ipp.h	/^#define OP_PURGE_JOBS /;"	d
+OP_RELEASE_JOB	aupe/apue.3e/printer/ipp.h	/^#define OP_RELEASE_JOB /;"	d
+OP_RESTART_JOB	aupe/apue.3e/printer/ipp.h	/^#define OP_RESTART_JOB /;"	d
+OP_RESUME_PRINTER	aupe/apue.3e/printer/ipp.h	/^#define OP_RESUME_PRINTER /;"	d
+OP_SEND_DOC	aupe/apue.3e/printer/ipp.h	/^#define OP_SEND_DOC /;"	d
+OP_SEND_URI	aupe/apue.3e/printer/ipp.h	/^#define OP_SEND_URI /;"	d
+OP_VALIDATE_JOB	aupe/apue.3e/printer/ipp.h	/^#define OP_VALIDATE_JOB /;"	d
+OUT	headers/common.h	/^#define OUT(/;"	d
+PAGER	aupe/apue.3e/ipc1/popen2.c	/^#define	PAGER	/;"	d	file:
+PATH_MAX_GUESS	aupe/apue.3e/lib/pathalloc.c	/^#define	PATH_MAX_GUESS	/;"	d	file:
+PLATFORM	aupe/apue.3e/advio/Makefile	/^PLATFORM=$(shell $(ROOT)\/systype.sh)$/;"	m
+PLATFORM	aupe/apue.3e/daemons/Makefile	/^PLATFORM=$(shell $(ROOT)\/systype.sh)$/;"	m
+PLATFORM	aupe/apue.3e/datafiles/Makefile	/^PLATFORM=$(shell $(ROOT)\/systype.sh)$/;"	m
+PLATFORM	aupe/apue.3e/db/Makefile	/^PLATFORM=$(shell $(ROOT)\/systype.sh)$/;"	m
+PLATFORM	aupe/apue.3e/environ/Makefile	/^PLATFORM=$(shell $(ROOT)\/systype.sh)$/;"	m
+PLATFORM	aupe/apue.3e/exercises/Makefile	/^PLATFORM=$(shell $(ROOT)\/systype.sh)$/;"	m
+PLATFORM	aupe/apue.3e/filedir/Makefile	/^PLATFORM=$(shell $(ROOT)\/systype.sh)$/;"	m
+PLATFORM	aupe/apue.3e/fileio/Makefile	/^PLATFORM=$(shell $(ROOT)\/systype.sh)$/;"	m
+PLATFORM	aupe/apue.3e/intro/Makefile	/^PLATFORM=$(shell $(ROOT)\/systype.sh)$/;"	m
+PLATFORM	aupe/apue.3e/ipc1/Makefile	/^PLATFORM=$(shell $(ROOT)\/systype.sh)$/;"	m
+PLATFORM	aupe/apue.3e/ipc2/Makefile	/^PLATFORM=$(shell $(ROOT)\/systype.sh)$/;"	m
+PLATFORM	aupe/apue.3e/ipc2/open.fe/Makefile	/^PLATFORM=$(shell $(ROOT)\/systype.sh)$/;"	m
+PLATFORM	aupe/apue.3e/ipc2/open/Makefile	/^PLATFORM=$(shell $(ROOT)\/systype.sh)$/;"	m
+PLATFORM	aupe/apue.3e/ipc2/opend.fe/Makefile	/^PLATFORM=$(shell $(ROOT)\/systype.sh)$/;"	m
+PLATFORM	aupe/apue.3e/ipc2/opend/Makefile	/^PLATFORM=$(shell $(ROOT)\/systype.sh)$/;"	m
+PLATFORM	aupe/apue.3e/lib/Makefile	/^PLATFORM=$(shell $(ROOT)\/systype.sh)$/;"	m
+PLATFORM	aupe/apue.3e/printer/Makefile	/^PLATFORM=$(shell $(ROOT)\/systype.sh)$/;"	m
+PLATFORM	aupe/apue.3e/proc/Makefile	/^PLATFORM=$(shell $(ROOT)\/systype.sh)$/;"	m
+PLATFORM	aupe/apue.3e/pty/Makefile	/^PLATFORM=$(shell $(ROOT)\/systype.sh)$/;"	m
+PLATFORM	aupe/apue.3e/relation/Makefile	/^PLATFORM=$(shell $(ROOT)\/systype.sh)$/;"	m
+PLATFORM	aupe/apue.3e/signals/Makefile	/^PLATFORM=$(shell $(ROOT)\/systype.sh)$/;"	m
+PLATFORM	aupe/apue.3e/sockets/makefile	/^PLATFORM=$(shell $(ROOT)\/systype.sh)$/;"	m
+PLATFORM	aupe/apue.3e/standards/Makefile	/^PLATFORM=$(shell $(ROOT)\/systype.sh)$/;"	m
+PLATFORM	aupe/apue.3e/stdio/Makefile	/^PLATFORM=$(shell $(ROOT)\/systype.sh)$/;"	m
+PLATFORM	aupe/apue.3e/termios/Makefile	/^PLATFORM=$(shell $(ROOT)\/systype.sh)$/;"	m
+PLATFORM	aupe/apue.3e/threadctl/Makefile	/^PLATFORM=$(shell $(ROOT)\/systype.sh)$/;"	m
+PLATFORM	aupe/apue.3e/threads/Makefile	/^PLATFORM=$(shell $(ROOT)\/systype.sh)$/;"	m
+PROGS	aupe/apue.3e/advio/Makefile	/^PROGS =	deadlock mandatory mcopy2 nonblockw rot13a$/;"	m
+PROGS	aupe/apue.3e/datafiles/Makefile	/^PROGS =	strftime$/;"	m
+PROGS	aupe/apue.3e/environ/Makefile	/^PROGS = doatexit echoarg getrlimit hello1 testjmp$/;"	m
+PROGS	aupe/apue.3e/exercises/Makefile	/^PROGS =	bo fifo1 getlogin goodexit longpath pendlock prtime sizepipe vfork3 zombie$/;"	m
+PROGS	aupe/apue.3e/filedir/Makefile	/^PROGS =	access cdpwd changemod devrdev filetype mycd umask unlink $(ZAP)$/;"	m
+PROGS	aupe/apue.3e/fileio/Makefile	/^PROGS =	fileflags hole mycat seek$/;"	m
+PROGS	aupe/apue.3e/intro/Makefile	/^PROGS =	getcputc hello ls1 mycat shell1 shell2 testerror uidgid$/;"	m
+PROGS	aupe/apue.3e/ipc1/Makefile	/^PROGS =	add2 add2stdio devzero myuclc pipe1 pipe2 pipe4 popen1 popen2 tshm$/;"	m
+PROGS	aupe/apue.3e/ipc2/Makefile	/^PROGS =	bindunix pollmsg sendmsg$/;"	m
+PROGS	aupe/apue.3e/ipc2/open.fe/Makefile	/^PROGS =	openclient$/;"	m
+PROGS	aupe/apue.3e/ipc2/open/Makefile	/^PROGS =	openclient$/;"	m
+PROGS	aupe/apue.3e/ipc2/opend.fe/Makefile	/^PROGS =	opend$/;"	m
+PROGS	aupe/apue.3e/ipc2/opend/Makefile	/^PROGS = opend.poll opend.select$/;"	m
+PROGS	aupe/apue.3e/printer/Makefile	/^PROGS = print printd$/;"	m
+PROGS	aupe/apue.3e/proc/Makefile	/^PROGS =	echoall exec1 exec2 fork1 fork2 nice pruids tellwait1 tellwait2 test1 times1 vfork1 wait1$/;"	m
+PROGS	aupe/apue.3e/pty/Makefile	/^PROGS =	pty$/;"	m
+PROGS	aupe/apue.3e/relation/Makefile	/^PROGS =	orphan3$/;"	m
+PROGS	aupe/apue.3e/signals/Makefile	/^PROGS =	critical mask read1 read2 reenter sigtstp sigusr suspend1 suspend2$/;"	m
+PROGS	aupe/apue.3e/sockets/makefile	/^PROGS = ruptime ruptimed ruptimed-fd ruptimed-dg$/;"	m
+PROGS	aupe/apue.3e/standards/Makefile	/^PROGS =	conf options$/;"	m
+PROGS	aupe/apue.3e/stdio/Makefile	/^PROGS =	buf fgetsfputs getcharbug getcputc mkstemp tempfiles$/;"	m
+PROGS	aupe/apue.3e/termios/Makefile	/^PROGS =	csize settty t_getpass t_isatty t_raw t_ttyname winch$/;"	m
+PROGS	aupe/apue.3e/threadctl/Makefile	/^PROGS =	atfork suspend$/;"	m
+PROGS	aupe/apue.3e/threads/Makefile	/^PROGS = badexit2 cleanup exitstatus threadid$/;"	m
+PR_TEXT	aupe/apue.3e/printer/print.h	/^#define PR_TEXT	/;"	d
+PSCMD	aupe/apue.3e/exercises/zombie.c	/^#define PSCMD	/;"	d	file:
+PTR_MAX	aupe/apue.3e/db/db.c	/^#define PTR_MAX /;"	d	file:
+PTR_SZ	aupe/apue.3e/db/db.c	/^#define PTR_SZ /;"	d	file:
+PooledBuffer	headers/buffers.h	/^    PooledBuffer(BufferPool *ipool): Buffer(), pool(ipool), qItem(nullptr){$/;"	f	class:PooledBuffer
+PooledBuffer	headers/buffers.h	/^class PooledBuffer : public Buffer$/;"	c
+PrintHello	mulThr.cpp	/^void *PrintHello(void *threadid) {$/;"	f
+QLEN	aupe/apue.3e/lib/servlisten.c	/^#define QLEN	/;"	d	file:
+QLEN	aupe/apue.3e/printer/print.h	/^#define QLEN /;"	d
+QLEN	aupe/apue.3e/sockets/ruptimed-fd.c	/^#define QLEN /;"	d	file:
+QLEN	aupe/apue.3e/sockets/ruptimed.c	/^#define QLEN /;"	d	file:
+RAW	aupe/apue.3e/lib/ttymodes.c	/^static enum { RESET, RAW, CBREAK }	ttystate = RESET;$/;"	e	enum:__anon3	file:
+READ_PENDING	aupe/apue.3e/advio/rot13c2.c	/^	READ_PENDING = 1,$/;"	e	enum:rwop	file:
+RELOP	aupe/apue.3e/lib/recvfd.c	/^#define RELOP /;"	d	file:
+REQDIR	aupe/apue.3e/printer/print.h	/^#define REQDIR /;"	d
+RESET	aupe/apue.3e/lib/ttymodes.c	/^static enum { RESET, RAW, CBREAK }	ttystate = RESET;$/;"	e	enum:__anon3	file:
+RIGHTSLEN	aupe/apue.3e/ipc2/recvfd2.c	/^#define RIGHTSLEN	/;"	d	file:
+RIGHTSLEN	aupe/apue.3e/ipc2/sendfd2.c	/^#define RIGHTSLEN	/;"	d	file:
+ROOT	aupe/apue.3e/advio/Makefile	/^ROOT=..$/;"	m
+ROOT	aupe/apue.3e/daemons/Makefile	/^ROOT=..$/;"	m
+ROOT	aupe/apue.3e/datafiles/Makefile	/^ROOT=..$/;"	m
+ROOT	aupe/apue.3e/db/Makefile	/^ROOT=..$/;"	m
+ROOT	aupe/apue.3e/environ/Makefile	/^ROOT=..$/;"	m
+ROOT	aupe/apue.3e/exercises/Makefile	/^ROOT=..$/;"	m
+ROOT	aupe/apue.3e/filedir/Makefile	/^ROOT=..$/;"	m
+ROOT	aupe/apue.3e/fileio/Makefile	/^ROOT=..$/;"	m
+ROOT	aupe/apue.3e/intro/Makefile	/^ROOT=..$/;"	m
+ROOT	aupe/apue.3e/ipc1/Makefile	/^ROOT=..$/;"	m
+ROOT	aupe/apue.3e/ipc2/Makefile	/^ROOT=..$/;"	m
+ROOT	aupe/apue.3e/ipc2/open.fe/Makefile	/^ROOT=..\/..$/;"	m
+ROOT	aupe/apue.3e/ipc2/open/Makefile	/^ROOT=..\/..$/;"	m
+ROOT	aupe/apue.3e/ipc2/opend.fe/Makefile	/^ROOT=..\/..$/;"	m
+ROOT	aupe/apue.3e/ipc2/opend/Makefile	/^ROOT=..\/..$/;"	m
+ROOT	aupe/apue.3e/lib/Makefile	/^ROOT=..$/;"	m
+ROOT	aupe/apue.3e/printer/Makefile	/^ROOT=..$/;"	m
+ROOT	aupe/apue.3e/proc/Makefile	/^ROOT=..$/;"	m
+ROOT	aupe/apue.3e/pty/Makefile	/^ROOT=..$/;"	m
+ROOT	aupe/apue.3e/relation/Makefile	/^ROOT=..$/;"	m
+ROOT	aupe/apue.3e/signals/Makefile	/^ROOT=..$/;"	m
+ROOT	aupe/apue.3e/sockets/makefile	/^ROOT=..$/;"	m
+ROOT	aupe/apue.3e/standards/Makefile	/^ROOT=..$/;"	m
+ROOT	aupe/apue.3e/stdio/Makefile	/^ROOT=..$/;"	m
+ROOT	aupe/apue.3e/termios/Makefile	/^ROOT=..$/;"	m
+ROOT	aupe/apue.3e/threadctl/Makefile	/^ROOT=..$/;"	m
+ROOT	aupe/apue.3e/threads/Makefile	/^ROOT=..$/;"	m
+RWRWRW	aupe/apue.3e/filedir/umask.c	/^#define RWRWRW /;"	d	file:
+Rectangle	virtual.cpp	/^      Rectangle( int a = 0, int b = 0):Shape(a, b) { $/;"	f	class:Rectangle
+Rectangle	virtual.cpp	/^class Rectangle: public Shape {$/;"	c	file:
+Result	trie/trie.h	/^typedef struct Result{$/;"	s
+RunnableDemo	java/TCPClient.java	/^   RunnableDemo( String name) {$/;"	m	class:RunnableDemo
+RunnableDemo	java/TCPClient.java	/^class RunnableDemo implements Runnable {$/;"	c
+SCM_CREDTYPE	aupe/apue.3e/ipc2/recvfd2.c	/^#define SCM_CREDTYPE	/;"	d	file:
+SCM_CREDTYPE	aupe/apue.3e/ipc2/sendfd2.c	/^#define SCM_CREDTYPE	/;"	d	file:
+SECTONSEC	aupe/apue.3e/threadctl/timeout.c	/^#define SECTONSEC /;"	d	file:
+SEP	aupe/apue.3e/db/db.c	/^#define SEP /;"	d	file:
+SET_TRACE	headers/common.h	/^#define SET_TRACE(/;"	d
+SHM_MODE	aupe/apue.3e/ipc1/tshm.c	/^#define	SHM_MODE	/;"	d	file:
+SHM_SIZE	aupe/apue.3e/ipc1/tshm.c	/^#define	SHM_SIZE	/;"	d	file:
+SIGBAD	aupe/apue.3e/signals/setops.c	/^#define	SIGBAD(/;"	d	file:
+SIZE	aupe/apue.3e/ipc1/devzero.c	/^#define	SIZE	/;"	d	file:
+SPACE	aupe/apue.3e/db/db.c	/^#define SPACE /;"	d	file:
+SPOOLDIR	aupe/apue.3e/printer/print.h	/^#define SPOOLDIR /;"	d
+STALE	aupe/apue.3e/lib/servaccept.c	/^#define	STALE	/;"	d	file:
+STARTDIR	aupe/apue.3e/exercises/longpath.c	/^#define	STARTDIR /;"	d	file:
+STATCLASS_CLIERR	aupe/apue.3e/printer/ipp.h	/^#define STATCLASS_CLIERR(/;"	d
+STATCLASS_INFO	aupe/apue.3e/printer/ipp.h	/^#define STATCLASS_INFO(/;"	d
+STATCLASS_OK	aupe/apue.3e/printer/ipp.h	/^#define STATCLASS_OK(/;"	d
+STATCLASS_REDIR	aupe/apue.3e/printer/ipp.h	/^#define STATCLASS_REDIR(/;"	d
+STATCLASS_SRVERR	aupe/apue.3e/printer/ipp.h	/^#define STATCLASS_SRVERR(/;"	d
+STAT_CLI_ACCERR	aupe/apue.3e/printer/ipp.h	/^#define STAT_CLI_ACCERR /;"	d
+STAT_CLI_ATTRCON	aupe/apue.3e/printer/ipp.h	/^#define STAT_CLI_ATTRCON /;"	d
+STAT_CLI_BADFMT	aupe/apue.3e/printer/ipp.h	/^#define STAT_CLI_BADFMT /;"	d
+STAT_CLI_BADREQ	aupe/apue.3e/printer/ipp.h	/^#define STAT_CLI_BADREQ /;"	d
+STAT_CLI_COMPERR	aupe/apue.3e/printer/ipp.h	/^#define STAT_CLI_COMPERR /;"	d
+STAT_CLI_FMTERR	aupe/apue.3e/printer/ipp.h	/^#define STAT_CLI_FMTERR /;"	d
+STAT_CLI_FORBID	aupe/apue.3e/printer/ipp.h	/^#define STAT_CLI_FORBID /;"	d
+STAT_CLI_NOAUTH	aupe/apue.3e/printer/ipp.h	/^#define STAT_CLI_NOAUTH /;"	d
+STAT_CLI_NOCHAR	aupe/apue.3e/printer/ipp.h	/^#define STAT_CLI_NOCHAR /;"	d
+STAT_CLI_NOCOMP	aupe/apue.3e/printer/ipp.h	/^#define STAT_CLI_NOCOMP /;"	d
+STAT_CLI_NOPERM	aupe/apue.3e/printer/ipp.h	/^#define STAT_CLI_NOPERM /;"	d
+STAT_CLI_NOSCHM	aupe/apue.3e/printer/ipp.h	/^#define STAT_CLI_NOSCHM /;"	d
+STAT_CLI_NOTFND	aupe/apue.3e/printer/ipp.h	/^#define STAT_CLI_NOTFND /;"	d
+STAT_CLI_NOTPOS	aupe/apue.3e/printer/ipp.h	/^#define STAT_CLI_NOTPOS /;"	d
+STAT_CLI_NOTSUP	aupe/apue.3e/printer/ipp.h	/^#define STAT_CLI_NOTSUP /;"	d
+STAT_CLI_OBJGONE	aupe/apue.3e/printer/ipp.h	/^#define STAT_CLI_OBJGONE /;"	d
+STAT_CLI_TIMOUT	aupe/apue.3e/printer/ipp.h	/^#define STAT_CLI_TIMOUT /;"	d
+STAT_CLI_TOOBIG	aupe/apue.3e/printer/ipp.h	/^#define STAT_CLI_TOOBIG /;"	d
+STAT_CLI_TOOLNG	aupe/apue.3e/printer/ipp.h	/^#define STAT_CLI_TOOLNG /;"	d
+STAT_OK	aupe/apue.3e/printer/ipp.h	/^#define STAT_OK /;"	d
+STAT_OK_ATTRCON	aupe/apue.3e/printer/ipp.h	/^#define STAT_OK_ATTRCON /;"	d
+STAT_OK_ATTRIGN	aupe/apue.3e/printer/ipp.h	/^#define STAT_OK_ATTRIGN /;"	d
+STAT_SRV_BADVER	aupe/apue.3e/printer/ipp.h	/^#define STAT_SRV_BADVER /;"	d
+STAT_SRV_CANCEL	aupe/apue.3e/printer/ipp.h	/^#define STAT_SRV_CANCEL /;"	d
+STAT_SRV_DEVERR	aupe/apue.3e/printer/ipp.h	/^#define STAT_SRV_DEVERR /;"	d
+STAT_SRV_INTERN	aupe/apue.3e/printer/ipp.h	/^#define STAT_SRV_INTERN /;"	d
+STAT_SRV_NOMULTI	aupe/apue.3e/printer/ipp.h	/^#define STAT_SRV_NOMULTI /;"	d
+STAT_SRV_NOTSUP	aupe/apue.3e/printer/ipp.h	/^#define STAT_SRV_NOTSUP /;"	d
+STAT_SRV_REJECT	aupe/apue.3e/printer/ipp.h	/^#define STAT_SRV_REJECT /;"	d
+STAT_SRV_TMPERR	aupe/apue.3e/printer/ipp.h	/^#define STAT_SRV_TMPERR /;"	d
+STAT_SRV_TOOBUSY	aupe/apue.3e/printer/ipp.h	/^#define STAT_SRV_TOOBUSY /;"	d
+STAT_SRV_UNAVAIL	aupe/apue.3e/printer/ipp.h	/^#define STAT_SRV_UNAVAIL /;"	d
+STR	headers/common.h	/^    STR,$/;"	e	enum:Type
+STRING	headers/common.h	/^const std::string STRING     = "NSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE";$/;"	v
+Score	dinnerParty.cpp	/^    Score():i(0),e(0){};$/;"	f	struct:Score
+Score	dinnerParty.cpp	/^typedef struct Score{$/;"	s	file:
+Score	g.cpp	/^typedef struct Score{$/;"	s	file:
+Select	dinnerParty.cpp	/^void Select(treenode* root, vector<bool> &selected){$/;"	f
+Shape	virtual.cpp	/^      Shape( int a = 0, int b =0){$/;"	f	class:Shape
+Shape	virtual.cpp	/^class Shape {$/;"	c	file:
+Sigfunc	aupe/apue.3e/include/apue.h	/^typedef	void	Sigfunc(int);	\/* for signal handlers *\/$/;"	t
+Socket	python/Client.py	/^class Socket:$/;"	c
+SocketServer	python/TcpServer.py	/^import SocketServer$/;"	i
+TABLE_SIZE	hash/hash.h	/^static const unsigned int TABLE_SIZE = 10;$/;"	v
+TAG_BOOLEAN	aupe/apue.3e/printer/ipp.h	/^#define TAG_BOOLEAN /;"	d
+TAG_CHARSET	aupe/apue.3e/printer/ipp.h	/^#define TAG_CHARSET /;"	d
+TAG_DATETIME	aupe/apue.3e/printer/ipp.h	/^#define TAG_DATETIME /;"	d
+TAG_END_OF_ATTR	aupe/apue.3e/printer/ipp.h	/^#define TAG_END_OF_ATTR /;"	d
+TAG_ENUM	aupe/apue.3e/printer/ipp.h	/^#define TAG_ENUM /;"	d
+TAG_INTEGER	aupe/apue.3e/printer/ipp.h	/^#define TAG_INTEGER /;"	d
+TAG_INTRANGE	aupe/apue.3e/printer/ipp.h	/^#define TAG_INTRANGE /;"	d
+TAG_JOB_ATTR	aupe/apue.3e/printer/ipp.h	/^#define TAG_JOB_ATTR /;"	d
+TAG_KEYWORD	aupe/apue.3e/printer/ipp.h	/^#define TAG_KEYWORD /;"	d
+TAG_MIMETYPE	aupe/apue.3e/printer/ipp.h	/^#define TAG_MIMETYPE /;"	d
+TAG_NAMEWLANG	aupe/apue.3e/printer/ipp.h	/^#define TAG_NAMEWLANG /;"	d
+TAG_NAMEWOLANG	aupe/apue.3e/printer/ipp.h	/^#define TAG_NAMEWOLANG /;"	d
+TAG_NATULANG	aupe/apue.3e/printer/ipp.h	/^#define TAG_NATULANG /;"	d
+TAG_NONE	aupe/apue.3e/printer/ipp.h	/^#define TAG_NONE /;"	d
+TAG_OCTSTR	aupe/apue.3e/printer/ipp.h	/^#define TAG_OCTSTR /;"	d
+TAG_OPERATION_ATTR	aupe/apue.3e/printer/ipp.h	/^#define TAG_OPERATION_ATTR /;"	d
+TAG_PRINTER_ATTR	aupe/apue.3e/printer/ipp.h	/^#define TAG_PRINTER_ATTR /;"	d
+TAG_RESOLUTION	aupe/apue.3e/printer/ipp.h	/^#define TAG_RESOLUTION /;"	d
+TAG_TEXTWLANG	aupe/apue.3e/printer/ipp.h	/^#define TAG_TEXTWLANG /;"	d
+TAG_TEXTWOLANG	aupe/apue.3e/printer/ipp.h	/^#define TAG_TEXTWOLANG /;"	d
+TAG_UNKNOWN	aupe/apue.3e/printer/ipp.h	/^#define TAG_UNKNOWN /;"	d
+TAG_UNSUPPORTED	aupe/apue.3e/printer/ipp.h	/^#define TAG_UNSUPPORTED /;"	d
+TAG_UNSUPP_ATTR	aupe/apue.3e/printer/ipp.h	/^#define TAG_UNSUPP_ATTR /;"	d
+TAG_URI	aupe/apue.3e/printer/ipp.h	/^#define TAG_URI /;"	d
+TAG_URISCHEME	aupe/apue.3e/printer/ipp.h	/^#define TAG_URISCHEME /;"	d
+TCPClient	java/TCPClient.java	/^public class TCPClient {$/;"	c
+TCPServer	java/TCPServer.java	/^public class TCPServer {$/;"	c
+TDEBUG	headers/common.h	/^#define TDEBUG(/;"	d
+TELL_CHILD	aupe/apue.3e/ipc1/tellwait.c	/^TELL_CHILD(pid_t pid)$/;"	f
+TELL_CHILD	aupe/apue.3e/lib/tellwait.c	/^TELL_CHILD(pid_t pid)$/;"	f
+TELL_PARENT	aupe/apue.3e/ipc1/tellwait.c	/^TELL_PARENT(pid_t pid)$/;"	f
+TELL_PARENT	aupe/apue.3e/lib/tellwait.c	/^TELL_PARENT(pid_t pid)$/;"	f
+TELL_WAIT	aupe/apue.3e/ipc1/tellwait.c	/^TELL_WAIT(void)$/;"	f
+TELL_WAIT	aupe/apue.3e/lib/tellwait.c	/^TELL_WAIT(void)$/;"	f
+TIMEOUT	aupe/apue.3e/sockets/ruptime-dg.c	/^#define TIMEOUT	/;"	d	file:
+TLINE	headers/common.h	/^#define TLINE(/;"	d
+TLOCK	aupe/apue.3e/threads/Makefile	/^  TLOCK = timedlock$/;"	m
+TLOCK	aupe/apue.3e/threads/Makefile	/^  TLOCK =$/;"	m
+TNUM	aupe/apue.3e/threads/barrier.c	/^#define TNUM /;"	d	file:
+TNode	treeUniPtr.cpp	/^    TNode (int x): val(x), left(nullptr), right(nullptr) {};$/;"	f	struct:TNode
+TNode	treeUniPtr.cpp	/^typedef struct TNode{$/;"	s	file:
+TOK_ADD	aupe/apue.3e/environ/cmd1.c	/^#define	TOK_ADD	/;"	d	file:
+TOK_ADD	aupe/apue.3e/environ/cmd2.c	/^#define	TOK_ADD	/;"	d	file:
+TOUT	aupe/apue.3e/threadctl/Makefile	/^  TOUT = timeout.o$/;"	m
+TOUT	aupe/apue.3e/threadctl/Makefile	/^TOUT =$/;"	m
+TRACE	headers/common.h	/^#define TRACE(/;"	d
+Triangle	virtual.cpp	/^      Triangle( int a = 0, int b = 0):Shape(a, b) { }$/;"	f	class:Triangle
+Triangle	virtual.cpp	/^class Triangle: public Shape {$/;"	c	file:
+Trie	trie/trie.h	/^        Trie(){$/;"	f	class:Trie
+Trie	trie/trie.h	/^class Trie{$/;"	c
+Trie	trie/trie2.h	/^class Trie{$/;"	c
+Type	headers/common.h	/^enum Type{$/;"	g
+UCHAR	headers/buffers.h	/^    typedef unsigned char UCHAR;$/;"	t	class:Buffer
+UINT	headers/buffers.h	/^    typedef unsigned int UINT;$/;"	t	class:Buffer
+UNUSED	aupe/apue.3e/advio/rot13c2.c	/^	UNUSED = 0,$/;"	e	enum:rwop	file:
+USECTONSEC	aupe/apue.3e/threadctl/timeout.c	/^#define USECTONSEC /;"	d	file:
+USERNM_MAX	aupe/apue.3e/printer/print.h	/^#define USERNM_MAX /;"	d
+USE_VECTOR	vec.cpp	/^#define USE_VECTOR$/;"	d	file:
+V	headers/graph.h	/^        int V;$/;"	m	class:graph
+WAIT_CHILD	aupe/apue.3e/ipc1/tellwait.c	/^WAIT_CHILD(void)$/;"	f
+WAIT_CHILD	aupe/apue.3e/lib/tellwait.c	/^WAIT_CHILD(void)$/;"	f
+WAIT_PARENT	aupe/apue.3e/ipc1/tellwait.c	/^WAIT_PARENT(void)$/;"	f
+WAIT_PARENT	aupe/apue.3e/lib/tellwait.c	/^WAIT_PARENT(void)$/;"	f
+WHITE	aupe/apue.3e/lib/bufargs.c	/^#define	WHITE	/;"	d	file:
+WRITE_PENDING	aupe/apue.3e/advio/rot13c2.c	/^	WRITE_PENDING = 2$/;"	e	enum:rwop	file:
+ZAP	aupe/apue.3e/filedir/Makefile	/^	ZAP = zap$/;"	m
+ZAP	aupe/apue.3e/filedir/Makefile	/^	ZAP =$/;"	m
+_APUE_DB_H	aupe/apue.3e/db/apue_db.h	/^#define _APUE_DB_H$/;"	d
+_APUE_H	aupe/apue.3e/include/apue.h	/^#define	_APUE_H$/;"	d
+_IPP_H	aupe/apue.3e/printer/ipp.h	/^#define _IPP_H$/;"	d
+_POSIX_C_SOURCE	aupe/apue.3e/include/apue.h	/^#define _POSIX_C_SOURCE /;"	d
+_PRINT_H	aupe/apue.3e/printer/print.h	/^#define _PRINT_H$/;"	d
+_XOPEN_SOURCE	aupe/apue.3e/include/apue.h	/^#define _XOPEN_SOURCE /;"	d
+__Z8toStringiiii	4num.s	/^__Z8toStringiiii:                       ## @_Z8toStringiiii$/;"	l
+__ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv	4num.s	/^__ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv: ## @_ZNKSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE3strEv$/;"	l
+__ZNSt3__111char_traitsIcE11eq_int_typeEii	4num.s	/^__ZNSt3__111char_traitsIcE11eq_int_typeEii: ## @_ZNSt3__111char_traitsIcE11eq_int_typeEii$/;"	l
+__ZNSt3__111char_traitsIcE11to_int_typeEc	4num.s	/^__ZNSt3__111char_traitsIcE11to_int_typeEc: ## @_ZNSt3__111char_traitsIcE11to_int_typeEc$/;"	l
+__ZNSt3__111char_traitsIcE12to_char_typeEi	4num.s	/^__ZNSt3__111char_traitsIcE12to_char_typeEi: ## @_ZNSt3__111char_traitsIcE12to_char_typeEi$/;"	l
+__ZNSt3__111char_traitsIcE2eqEcc	4num.s	/^__ZNSt3__111char_traitsIcE2eqEcc:       ## @_ZNSt3__111char_traitsIcE2eqEcc$/;"	l
+__ZNSt3__111char_traitsIcE3eofEv	4num.s	/^__ZNSt3__111char_traitsIcE3eofEv:       ## @_ZNSt3__111char_traitsIcE3eofEv$/;"	l
+__ZNSt3__111char_traitsIcE6assignERcRKc	4num.s	/^__ZNSt3__111char_traitsIcE6assignERcRKc: ## @_ZNSt3__111char_traitsIcE6assignERcRKc$/;"	l
+__ZNSt3__111char_traitsIcE6lengthEPKc	4num.s	/^__ZNSt3__111char_traitsIcE6lengthEPKc:  ## @_ZNSt3__111char_traitsIcE6lengthEPKc$/;"	l
+__ZNSt3__111char_traitsIcE7not_eofEi	4num.s	/^__ZNSt3__111char_traitsIcE7not_eofEi:   ## @_ZNSt3__111char_traitsIcE7not_eofEi$/;"	l
+__ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE6__initIPcEENS_9enable_ifIXsr21__is_forward_iteratorIT_EE5valueEvE4typeES9_S9_	4num.s	/^__ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE6__initIPcEENS_9enable_ifIXsr21__is_forward_iteratorIT_EE5valueEvE4typeES9_S9_: ## @_ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE6__initIPcEENS_9enable_ifIXsr21__is_forward_iteratorIT_EE5valueEvE4typeES9_S9_$/;"	l
+__ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE7seekoffExNS_8ios_base7seekdirEj	4num.s	/^__ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE7seekoffExNS_8ios_base7seekdirEj: ## @_ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE7seekoffExNS_8ios_base7seekdirEj$/;"	l
+__ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE7seekposENS_4fposI11__mbstate_tEEj	4num.s	/^__ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE7seekposENS_4fposI11__mbstate_tEEj: ## @_ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE7seekposENS_4fposI11__mbstate_tEEj$/;"	l
+__ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE8overflowEi	4num.s	/^__ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE8overflowEi: ## @_ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE8overflowEi$/;"	l
+__ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE9pbackfailEi	4num.s	/^__ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE9pbackfailEi: ## @_ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE9pbackfailEi$/;"	l
+__ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE9underflowEv	4num.s	/^__ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE9underflowEv: ## @_ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE9underflowEv$/;"	l
+__ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEED0Ev	4num.s	/^__ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEED0Ev: ## @_ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEED0Ev$/;"	l
+__ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEED1Ev	4num.s	/^__ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEED1Ev: ## @_ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEED1Ev$/;"	l
+__ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEED2Ev	4num.s	/^__ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEED2Ev: ## @_ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEED2Ev$/;"	l
+__ZNSt3__116__pad_and_outputIcNS_11char_traitsIcEEEENS_19ostreambuf_iteratorIT_T0_EES6_PKS4_S8_S8_RNS_8ios_baseES4_	4num.s	/^__ZNSt3__116__pad_and_outputIcNS_11char_traitsIcEEEENS_19ostreambuf_iteratorIT_T0_EES6_PKS4_S8_S8_RNS_8ios_baseES4_: ## @_ZNSt3__116__pad_and_outputIcNS_11char_traitsIcEEEENS_19ostreambuf_iteratorIT_T0_EES6_PKS4_S8_S8_RNS_8ios_baseES4_$/;"	l
+__ZNSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED0Ev	4num.s	/^__ZNSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED0Ev: ## @_ZNSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED0Ev$/;"	l
+__ZNSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED1Ev	4num.s	/^__ZNSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED1Ev: ## @_ZNSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED1Ev$/;"	l
+__ZNSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED2Ev	4num.s	/^__ZNSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED2Ev: ## @_ZNSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED2Ev$/;"	l
+__ZNSt3__124__put_character_sequenceIcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_PKS4_m	4num.s	/^__ZNSt3__124__put_character_sequenceIcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_PKS4_m: ## @_ZNSt3__124__put_character_sequenceIcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_PKS4_m$/;"	l
+__ZNSt3__14endlIcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_	4num.s	/^__ZNSt3__14endlIcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_: ## @_ZNSt3__14endlIcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_$/;"	l
+__ZNSt3__1lsINS_11char_traitsIcEEEERNS_13basic_ostreamIcT_EES6_PKc	4num.s	/^__ZNSt3__1lsINS_11char_traitsIcEEEERNS_13basic_ostreamIcT_EES6_PKc: ## @_ZNSt3__1lsINS_11char_traitsIcEEEERNS_13basic_ostreamIcT_EES6_PKc$/;"	l
+__ZNSt3__1lsIcNS_11char_traitsIcEENS_9allocatorIcEEEERNS_13basic_ostreamIT_T0_EES9_RKNS_12basic_stringIS6_S7_T1_EE	4num.s	/^__ZNSt3__1lsIcNS_11char_traitsIcEENS_9allocatorIcEEEERNS_13basic_ostreamIT_T0_EES9_RKNS_12basic_stringIS6_S7_T1_EE: ## @_ZNSt3__1lsIcNS_11char_traitsIcEENS_9allocatorIcEEEERNS_13basic_ostreamIT_T0_EES9_RKNS_12basic_stringIS6_S7_T1_EE$/;"	l
+__ZTCNSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE0_NS_13basic_istreamIcS2_EE	4num.s	/^__ZTCNSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE0_NS_13basic_istreamIcS2_EE:$/;"	l
+__ZTCNSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE0_NS_14basic_iostreamIcS2_EE	4num.s	/^__ZTCNSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE0_NS_14basic_iostreamIcS2_EE:$/;"	l
+__ZTCNSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE16_NS_13basic_ostreamIcS2_EE	4num.s	/^__ZTCNSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE16_NS_13basic_ostreamIcS2_EE:$/;"	l
+__ZTINSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEEE	4num.s	/^__ZTINSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEEE:$/;"	l
+__ZTINSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE	4num.s	/^__ZTINSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE:$/;"	l
+__ZTSNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEEE	4num.s	/^__ZTSNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEEE:$/;"	l
+__ZTSNSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE	4num.s	/^__ZTSNSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE:$/;"	l
+__ZTTNSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE	4num.s	/^__ZTTNSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE:$/;"	l
+__ZTVNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEEE	4num.s	/^__ZTVNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEEE:$/;"	l
+__ZTVNSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE	4num.s	/^__ZTVNSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE:$/;"	l
+__ZThn16_NSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED0Ev	4num.s	/^__ZThn16_NSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED0Ev: ## @_ZThn16_NSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED0Ev$/;"	l
+__ZThn16_NSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED1Ev	4num.s	/^__ZThn16_NSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED1Ev: ## @_ZThn16_NSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED1Ev$/;"	l
+__ZTv0_n24_NSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED0Ev	4num.s	/^__ZTv0_n24_NSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED0Ev: ## @_ZTv0_n24_NSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED0Ev$/;"	l
+__ZTv0_n24_NSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED1Ev	4num.s	/^__ZTv0_n24_NSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED1Ev: ## @_ZTv0_n24_NSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED1Ev$/;"	l
+___clang_call_terminate	4num.s	/^___clang_call_terminate:                ## @__clang_call_terminate$/;"	l
+__init__	python/Client.py	/^    def __init__(self, buff=''):$/;"	m	class:Socket
+__init__	python/network.py	/^    def __init__(self, arg):$/;"	m	class:DnsException
+__init__	tree.py	/^    def __init__(self,data,left=None,right=None):$/;"	m	class:tree
+_base	aupe/apue.3e/stdio/buf.c	/^#define _base /;"	d	file:
+_check	likely.s	/^_check:                                 ## @check$/;"	l
+_db_alloc	aupe/apue.3e/db/db.c	/^_db_alloc(int namelen)$/;"	f	file:
+_db_dodelete	aupe/apue.3e/db/db.c	/^_db_dodelete(DB *db)$/;"	f	file:
+_db_find_and_lock	aupe/apue.3e/db/db.c	/^_db_find_and_lock(DB *db, const char *key, int writelock)$/;"	f	file:
+_db_findfree	aupe/apue.3e/db/db.c	/^_db_findfree(DB *db, int keylen, int datlen)$/;"	f	file:
+_db_free	aupe/apue.3e/db/db.c	/^_db_free(DB *db)$/;"	f	file:
+_db_hash	aupe/apue.3e/db/db.c	/^_db_hash(DB *db, const char *key)$/;"	f	file:
+_db_readdat	aupe/apue.3e/db/db.c	/^_db_readdat(DB *db)$/;"	f	file:
+_db_readidx	aupe/apue.3e/db/db.c	/^_db_readidx(DB *db, off_t offset)$/;"	f	file:
+_db_readptr	aupe/apue.3e/db/db.c	/^_db_readptr(DB *db, off_t offset)$/;"	f	file:
+_db_writedat	aupe/apue.3e/db/db.c	/^_db_writedat(DB *db, const char *data, off_t offset, int whence)$/;"	f	file:
+_db_writeidx	aupe/apue.3e/db/db.c	/^_db_writeidx(DB *db, const char *key,$/;"	f	file:
+_db_writeptr	aupe/apue.3e/db/db.c	/^_db_writeptr(DB *db, off_t offset, off_t ptrval)$/;"	f	file:
+_flag	aupe/apue.3e/stdio/buf.c	/^#define _flag /;"	d	file:
+_main	4num.s	/^_main:                                  ## @main$/;"	l
+_main	likely.s	/^_main:                                  ## @main$/;"	l
+_main	likely1.s	/^_main:                                  ## @main$/;"	l
+_main	python/nir.s	/^_main:                                  ## @main$/;"	l
+_ptr	aupe/apue.3e/stdio/buf.c	/^#define _ptr /;"	d	file:
+a	aupe/apue.3e/exercises/goodexit.c	/^	int a, b, c, d;$/;"	m	struct:foo	file:
+a	aupe/apue.3e/threads/badexit2.c	/^	int a, b, c, d;$/;"	m	struct:foo	file:
+a	merge.py	/^a = [2, 3, 6, 7, 40, 45]$/;"	v
+a	python/dist.py	/^a=[6,6,3,9,3,5,1]$/;"	v
+a	python/fib.py	/^a = 1$/;"	v
+a	python/test1.py	/^a=0$/;"	v
+a	testadd.cpp	/^        int a;$/;"	m	class:test	file:
+aList	headers/graph.h	/^        std::list<int>* aList;$/;"	m	class:graph
+abort	aupe/apue.3e/signals/abort.c	/^abort(void)			\/* POSIX-style abort() function *\/$/;"	f
+ac_flag	aupe/apue.3e/proc/pracct.c	/^#define ac_flag /;"	d	file:
+acct	aupe/apue.3e/proc/pracct.c	/^#define acct /;"	d	file:
+add	aupe/apue.3e/termios/ttyname.c	/^add(char *dirname)$/;"	f	file:
+add	python/sockbuf.py	/^add = ("127.0.0.1",2000)$/;"	v
+add	tree.cpp	/^        void add(int val){$/;"	f	class:btree
+addEdge	headers/graph.h	/^        void addEdge(int v, int w){$/;"	f	class:graph
+addItem	hash/hash.cpp	/^void Hash::addItem(string name, string drink){$/;"	f	class:Hash
+addNode	tem.cpp	/^Link* List::addNode(T data){$/;"	f	class:List
+addToTail	headers/buffers.h	/^    void addToTail(BufferQueueItem* item){$/;"	f	class:BufferQueue
+add_job	aupe/apue.3e/printer/printd.c	/^add_job(struct printreq *reqp, int32_t jobid)$/;"	f
+add_option	aupe/apue.3e/printer/printd.c	/^add_option(char *cp, int tag, char *optname, char *optval)$/;"	f
+add_worker	aupe/apue.3e/printer/printd.c	/^add_worker(pthread_t tid, int sockfd)$/;"	f
+addr	python/Chat.py	/^addr = (args.server_ip, args.server_port)$/;"	v
+addr	python/crashtest.py	/^addr = ("127.0.0.1",9090)$/;"	v
+addtwonum	lists/addtwo.c	/^Link* addtwonum(Link* head1, Link* head2){$/;"	f
+addtwonum	lists/addtwolist.c	/^Link* addtwonum(Link* head1, Link* head2){$/;"	f
+age	vec.cpp	/^    int age;$/;"	m	struct:Guest	file:
+aiocb	aupe/apue.3e/advio/rot13c2.c	/^	struct aiocb  aiocb;$/;"	m	struct:buf	typeref:struct:buf::aiocb	file:
+algoend	python/test_time.py	/^algoend = timeit.default_timer()$/;"	v
+algorithms	python/fcrypt.py	/^from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes$/;"	i
+algost	python/test_time.py	/^algost = timeit.default_timer()$/;"	v
+already_running	aupe/apue.3e/daemons/single.c	/^already_running(void)$/;"	f
+areAnagram	ana.cpp	/^bool areAnagram(string str1, string str2)$/;"	f
+area	virtual.cpp	/^      int area () { $/;"	f	class:Triangle
+area	virtual.cpp	/^      int area () {$/;"	f	class:Rectangle
+area	virtual.cpp	/^      virtual int area()$/;"	f	class:Shape
+argparse	python/Chat.py	/^import argparse$/;"	i
+argparse	python/Client.py	/^import argparse$/;"	i
+argparse	python/TcpServer.py	/^import argparse$/;"	i
+args	python/Chat.py	/^args = parser.parse_args()$/;"	v
+args	python/TcpServer.py	/^args = parser.parse_args()$/;"	v
+arr	python/searchLeast.py	/^arr = [4,2,1,3,5,7,8,1,435,234,68,2,1,3,7,9,]$/;"	v
+array	aupe/apue.3e/ipc1/tshm.c	/^char	array[ARRAY_SIZE];	\/* uninitialized data = bss *\/$/;"	v
+attr	aupe/apue.3e/threadctl/timeout.c	/^pthread_mutexattr_t attr;$/;"	v
+attr_group	aupe/apue.3e/printer/ipp.h	/^	char    attr_group[1];	\/* start of optional attributes group *\/$/;"	m	struct:ipp_hdr
+average	vec.cpp	/^float average(cont& guests){$/;"	f
+b	aupe/apue.3e/exercises/goodexit.c	/^	int a, b, c, d;$/;"	m	struct:foo	file:
+b	aupe/apue.3e/threads/badexit2.c	/^	int a, b, c, d;$/;"	m	struct:foo	file:
+b	aupe/apue.3e/threads/barrier.c	/^pthread_barrier_t b;$/;"	v
+b	merge.py	/^b = [1, 9, 10, 10, 11, 40]$/;"	v
+b	python/fib.py	/^b = 1$/;"	v
+b	python/pcmb.py	/^b={'p':0,'c':0,'m':0,'b':0,'z':0}$/;"	v
+b	testadd.cpp	/^        int b;$/;"	m	class:testb	file:
+b	testadd.cpp	/^        testb b;$/;"	m	class:test	file:
+b	tree.py	/^b=tree(5)$/;"	v
+bSearch	barr.cpp	/^int bSearch(vector<int> &arr, int val, int l, int r){$/;"	f
+bSearch	bsearch.cpp	/^bool bSearch(vector<int>& nums, int val, int l, int r){$/;"	f
+backtrack	com.cpp	/^void backtrack(string s, string &res, int &count, vector<bool> &v){$/;"	f
+backtrack	nqueens.cpp	/^bool backtrack(vector<vector<bool>> &board, int queens, int &count, vector<bool> &vis){$/;"	f
+backtrack	sudoku.cpp	/^bool backtrack(vector<vector<char>> &board, int r, int c, int &count){$/;"	f
+backtrack	sudoku_opt.cpp	/^bool backtrack(vector<vector<char>> &board, int r, int c, int &count){$/;"	f
+bfs	bfs.cpp	/^void bfs(graph& g, int v){$/;"	f
+bfs	clone.cpp	/^void bfs(graphnode* src){$/;"	f
+bsearch	cc/4-5.cpp	/^node* bsearch(node* root, int n){$/;"	f
+btree	tree.cpp	/^        btree(int val):data(val), left(nullptr), right(nullptr){};$/;"	f	class:btree
+btree	tree.cpp	/^class btree{$/;"	c	file:
+buf	aupe/apue.3e/advio/nonblockw.c	/^char	buf[500000];$/;"	v
+buf	aupe/apue.3e/advio/rot13a.c	/^unsigned char buf[BSZ];$/;"	v
+buf	aupe/apue.3e/advio/rot13c2.c	/^struct buf {$/;"	s	file:
+buf	aupe/apue.3e/exercises/fmemopen.c	/^	char	*buf;	\/* in-memory buffer *\/$/;"	m	struct:memstream	file:
+buf	aupe/apue.3e/proc/fork1.c	/^char	buf[] = "a write to stdout\\n";$/;"	v
+buf1	aupe/apue.3e/fileio/hole.c	/^char	buf1[] = "abcdefghij";$/;"	v
+buf2	aupe/apue.3e/fileio/hole.c	/^char	buf2[] = "ABCDEFGHIJ";$/;"	v
+buf_args	aupe/apue.3e/lib/bufargs.c	/^buf_args(char *buf, int (*optfunc)(int, char **))$/;"	f
+buff	python/Chat.py	/^buff = pickle.dumps(data)$/;"	v
+buffer	headers/buffers.h	/^    UCHAR* buffer;$/;"	m	class:Buffer
+buffer_size	aupe/apue.3e/stdio/buf.c	/^buffer_size(FILE *fp)$/;"	f
+buffers	headers/buffers.h	/^    BufferQueue buffers;$/;"	m	class:BufferPool
+bufs	aupe/apue.3e/advio/rot13c2.c	/^struct buf bufs[NBUF];$/;"	v	typeref:struct:buf
+build_qonstart	aupe/apue.3e/printer/printd.c	/^build_qonstart(void)$/;"	f
+buildtree	buildtreefromarr.cpp	/^treenode* buildtree(int arr[],int l, int h){$/;"	f
+c	aupe/apue.3e/exercises/goodexit.c	/^	int a, b, c, d;$/;"	m	struct:foo	file:
+c	aupe/apue.3e/threads/badexit2.c	/^	int a, b, c, d;$/;"	m	struct:foo	file:
+c	merge.py	/^c = []$/;"	v
+c	python/fib.py	/^        c = a+b$/;"	v
+c	testadd.cpp	/^        int c;$/;"	m	class:testb	file:
+calcpatterns	android.cpp	/^int calcpatterns(int num, int len, int m, int n, int patt, vector<bool> &vis, vector<vector<int>> &validmoves){$/;"	f
+calculateVal	trie/trie.h	/^        void calculateVal(string input){$/;"	f	class:Trie
+calculateVal	trie/trie2.h	/^        void calculateVal(string input){$/;"	f	class:Trie
+canjump	aupe/apue.3e/signals/mask.c	/^static volatile sig_atomic_t	canjump;$/;"	v	file:
+cell	edit_dyn.cpp	/^}cell;$/;"	t	typeref:struct:Cell	file:
+chainoff	aupe/apue.3e/db/db.c	/^  off_t  chainoff; \/* offset of hash chain for this index record *\/$/;"	m	struct:__anon4	file:
+charatatime	aupe/apue.3e/proc/tellwait1.c	/^charatatime(char *str)$/;"	f	file:
+charatatime	aupe/apue.3e/proc/tellwait2.c	/^charatatime(char *str)$/;"	f	file:
+check	likely.c	/^int check(){$/;"	f
+check	palin.cpp	/^bool check(stack<char> stk, string s, int l){$/;"	f
+check	palin_str.cpp	/^int check(stack<char> stk, const char *str){$/;"	f
+check	ref.c	/^void check(int** data,char* arr){$/;"	f
+check	ref.cpp	/^void check(int*& data){$/;"	f
+check1	ref.cpp	/^void check1(int** data){$/;"	f
+check2	ref.cpp	/^void check2(int& data){$/;"	f
+checkIpAddress	python/network.py	/^def checkIpAddress(addr):$/;"	f
+checktime	aupe/apue.3e/proc/nice.c	/^checktime(char *str)$/;"	f
+child	aupe/apue.3e/threadctl/atfork.c	/^child(void)$/;"	f
+childpid	aupe/apue.3e/ipc1/popen.c	/^static pid_t	*childpid = NULL;$/;"	v	file:
+childpid	aupe/apue.3e/lib/popen.c	/^static pid_t	*childpid = NULL;$/;"	v	file:
+children	trie/trie.h	/^        map* children;$/;"	m	class:trieNode
+children	trie/trie2.h	/^        unordered_map<char, trieNode> children;$/;"	m	class:trieNode
+chr	trie/trie.h	/^        char chr;$/;"	m	class:trieNode
+chr	trie/trie2.h	/^        char chr;$/;"	m	class:trieNode
+circleInfo	python/test_time.py	/^    circleInfo = list(map(int, inp))$/;"	v
+circles	python/test_time.py	/^circles = list()$/;"	v
+cleanup	aupe/apue.3e/termios/ttyname.c	/^cleanup(void)$/;"	f	file:
+cleanup	aupe/apue.3e/threads/cleanup.c	/^cleanup(void *arg)$/;"	f
+cleanup	headers/buffers.h	/^    void cleanup(BufferQueue& buffer){$/;"	f	class:BufferPool
+cleanup	headers/list.h	/^void cleanup(Link** head){$/;"	f
+clear	headers/buffers.h	/^    void clear(){$/;"	f	class:BufferQueue
+clearMemory	headers/buffers.h	/^    void clearMemory(){$/;"	f	class:Buffer
+cli_args	aupe/apue.3e/ipc2/opend.fe/cliargs.c	/^cli_args(int argc, char **argv)$/;"	f
+cli_args	aupe/apue.3e/ipc2/opend/cliargs.c	/^cli_args(int argc, char **argv)$/;"	f
+cli_conn	aupe/apue.3e/lib/cliconn.c	/^cli_conn(const char *name)$/;"	f
+client	aupe/apue.3e/ipc2/opend/main.c	/^Client	*client = NULL;$/;"	v
+client_add	aupe/apue.3e/ipc2/opend/client.c	/^client_add(int fd, uid_t uid)$/;"	f
+client_alloc	aupe/apue.3e/ipc2/opend/client.c	/^client_alloc(void)		\/* alloc more entries in the client[] array *\/$/;"	f	file:
+client_cleanup	aupe/apue.3e/printer/printd.c	/^client_cleanup(void *arg)$/;"	f
+client_commands	python/Chat.py	/^def client_commands (user, addr):$/;"	f
+client_del	aupe/apue.3e/ipc2/opend/client.c	/^client_del(int fd)$/;"	f
+client_size	aupe/apue.3e/ipc2/opend/main.c	/^int		 debug, oflag, client_size, log_to_stderr;$/;"	v
+client_thread	aupe/apue.3e/printer/printd.c	/^client_thread(void *arg)$/;"	f
+clock_gettime	aupe/apue.3e/threadctl/timeout.c	/^clock_gettime(int id, struct timespec *tsp)$/;"	f
+clock_nanosleep	aupe/apue.3e/threadctl/timeout.c	/^#define clock_nanosleep(/;"	d	file:
+clone	clone.cpp	/^graphnode* clone(graphnode* src){$/;"	f
+clr_fl	aupe/apue.3e/lib/clrfl.c	/^clr_fl(int fd, int flags)$/;"	f
+clrasync	aupe/apue.3e/exercises/asyncsocket.c	/^clrasync(int sockfd)$/;"	f
+cmd_add	aupe/apue.3e/environ/cmd1.c	/^cmd_add(void)$/;"	f
+cmd_add	aupe/apue.3e/environ/cmd2.c	/^cmd_add(void)$/;"	f
+cmptr	aupe/apue.3e/ipc2/recvfd2.c	/^static struct cmsghdr	*cmptr = NULL;		\/* malloc'ed first time *\/$/;"	v	typeref:struct:cmsghdr	file:
+cmptr	aupe/apue.3e/ipc2/sendfd2.c	/^static struct cmsghdr	*cmptr = NULL;	\/* malloc'ed first time *\/$/;"	v	typeref:struct:cmsghdr	file:
+cmptr	aupe/apue.3e/lib/Orecvfd.c	/^static struct cmsghdr	*cmptr = NULL;		\/* malloc'ed first time *\/$/;"	v	typeref:struct:cmsghdr	file:
+cmptr	aupe/apue.3e/lib/recvfd.c	/^static struct cmsghdr	*cmptr = NULL;		\/* malloc'ed first time *\/$/;"	v	typeref:struct:cmsghdr	file:
+cmptr	aupe/apue.3e/lib/sendfd.c	/^static struct cmsghdr	*cmptr = NULL;	\/* malloc'ed first time *\/$/;"	v	typeref:struct:cmsghdr	file:
+cnt_delerr	aupe/apue.3e/db/db.c	/^  COUNT  cnt_delerr;   \/* delete error *\/$/;"	m	struct:__anon4	file:
+cnt_delok	aupe/apue.3e/db/db.c	/^  COUNT  cnt_delok;    \/* delete OK *\/$/;"	m	struct:__anon4	file:
+cnt_fetcherr	aupe/apue.3e/db/db.c	/^  COUNT  cnt_fetcherr; \/* fetch error *\/$/;"	m	struct:__anon4	file:
+cnt_fetchok	aupe/apue.3e/db/db.c	/^  COUNT  cnt_fetchok;  \/* fetch OK *\/$/;"	m	struct:__anon4	file:
+cnt_nextrec	aupe/apue.3e/db/db.c	/^  COUNT  cnt_nextrec;  \/* nextrec *\/$/;"	m	struct:__anon4	file:
+cnt_stor1	aupe/apue.3e/db/db.c	/^  COUNT  cnt_stor1;    \/* store: DB_INSERT, no empty, appended *\/$/;"	m	struct:__anon4	file:
+cnt_stor2	aupe/apue.3e/db/db.c	/^  COUNT  cnt_stor2;    \/* store: DB_INSERT, found empty, reused *\/$/;"	m	struct:__anon4	file:
+cnt_stor3	aupe/apue.3e/db/db.c	/^  COUNT  cnt_stor3;    \/* store: DB_REPLACE, diff len, appended *\/$/;"	m	struct:__anon4	file:
+cnt_stor4	aupe/apue.3e/db/db.c	/^  COUNT  cnt_stor4;    \/* store: DB_REPLACE, same len, overwrote *\/$/;"	m	struct:__anon4	file:
+cnt_storerr	aupe/apue.3e/db/db.c	/^  COUNT  cnt_storerr;  \/* store error *\/$/;"	m	struct:__anon4	file:
+combinations	com.cpp	/^int combinations(int n){$/;"	f
+command1	python/network.py	/^command1 = "nslookup %s" % ipAddr1          # nslookup command on IP1$/;"	v
+command2	python/network.py	/^    command2 = "ping %s -c 3 -W 5" % ipAddr2    # ping command on IP2$/;"	v
+command2	python/network.py	/^    command2 = "ping6 %s -c 3" % ipAddr2   # ping6 command on IP2$/;"	v
+complong	aupe/apue.3e/threads/barrier.c	/^complong(const void *arg1, const void *arg2)$/;"	f
+compt2ulong	aupe/apue.3e/proc/pracct.c	/^compt2ulong(comp_t comptime)	\/* convert comp_t to unsigned long *\/$/;"	f	file:
+configlock	aupe/apue.3e/printer/printd.c	/^pthread_mutex_t		configlock = PTHREAD_MUTEX_INITIALIZER;$/;"	v
+connect_retry	aupe/apue.3e/sockets/clconn.c	/^connect_retry(int sockfd, const struct sockaddr *addr, socklen_t alen)$/;"	f
+connect_retry	aupe/apue.3e/sockets/clconn2.c	/^connect_retry(int domain, int type, int protocol,$/;"	f
+cont	vec.cpp	/^    typedef list<guest> cont;$/;"	t	file:
+cont	vec.cpp	/^    typedef vector<guest> cont;$/;"	t	file:
+cost	edit_dyn.cpp	/^    int cost;$/;"	m	struct:Cell	file:
+count	aupe/apue.3e/proc/nice.c	/^unsigned long long count;$/;"	v
+count	count.cpp	/^int count(int m, int n){$/;"	f
+count	python/dist.py	/^count=0$/;"	v
+countPossible	sudoku_opt.cpp	/^int countPossible(vector<bool> &possible){$/;"	f
+counter	python/data_type.py	/^counter = 100$/;"	v
+createBST	cc/4-3.cpp	/^treenode* createBST(vector<int>& ip, int l, int r){$/;"	f
+csopen	aupe/apue.3e/ipc2/open.fe/open.c	/^csopen(char *name, int oflag)$/;"	f
+csopen	aupe/apue.3e/ipc2/open/open.c	/^csopen(char *name, int oflag)$/;"	f
+ctermid	aupe/apue.3e/termios/ctermid.c	/^ctermid(char *str)$/;"	f
+ctermid_name	aupe/apue.3e/termios/ctermid.c	/^static char	ctermid_name[L_ctermid];$/;"	v	file:
+cur	lists/link.cpp	/^Node* cur  = NULL;$/;"	v
+curpos	aupe/apue.3e/exercises/fmemopen.c	/^	size_t	curpos;	\/* current position in buffer *\/$/;"	m	struct:memstream	file:
+cv	queue_cv.cpp	/^condition_variable cv;$/;"	v
+d	aupe/apue.3e/exercises/goodexit.c	/^	int a, b, c, d;$/;"	m	struct:foo	file:
+d	aupe/apue.3e/threads/badexit2.c	/^	int a, b, c, d;$/;"	m	struct:foo	file:
+d	python/dist.py	/^d={}$/;"	v
+d	python/pcmb.py	/^d={}$/;"	v
+d_name	aupe/apue.3e/termios/ttyname.c	/^	char			*d_name;$/;"	m	struct:devdir	file:
+d_next	aupe/apue.3e/termios/ttyname.c	/^	struct devdir	*d_next;$/;"	m	struct:devdir	typeref:struct:devdir::devdir	file:
+daemonize	aupe/apue.3e/daemons/init.c	/^daemonize(const char *cmd)$/;"	f
+daemonize	aupe/apue.3e/lib/daemonize.c	/^daemonize(const char *cmd)$/;"	f
+data	aupe/apue.3e/advio/rot13c2.c	/^	unsigned char data[BSZ];$/;"	m	struct:buf	file:
+data	btree.cpp	/^        int data;$/;"	m	class:Node	file:
+data	headers/list.h	/^    int data;$/;"	m	struct:link
+data	lists/link.cpp	/^    int data;$/;"	m	struct:node	file:
+data	python/Chat.py	/^data = ('SIGN-IN', args.username)$/;"	v
+data	python/input.py	/^    data = raw_input("Enter data to print: ")$/;"	v
+data	python/network.py	/^data = text.split()$/;"	v
+data	tem.cpp	/^        T data;$/;"	m	struct:List::link	file:
+data	tree.c	/^   int data; $/;"	m	struct:node	file:
+data	tree.cpp	/^        int data;$/;"	m	class:btree	file:
+datbuf	aupe/apue.3e/db/db.c	/^  char  *datbuf; \/* malloc'ed buffer for data record*\/$/;"	m	struct:__anon4	file:
+datfd	aupe/apue.3e/db/db.c	/^  int    datfd;  \/* fd for data file *\/$/;"	m	struct:__anon4	file:
+datlen	aupe/apue.3e/db/db.c	/^  size_t datlen; \/* length of data record *\/$/;"	m	struct:__anon4	file:
+datoff	aupe/apue.3e/db/db.c	/^  off_t  datoff; \/* offset in data file of data record *\/$/;"	m	struct:__anon4	file:
+db_close	aupe/apue.3e/db/db.c	/^db_close(DBHANDLE h)$/;"	f
+db_delete	aupe/apue.3e/db/db.c	/^db_delete(DBHANDLE h, const char *key)$/;"	f
+db_fetch	aupe/apue.3e/db/db.c	/^db_fetch(DBHANDLE h, const char *key)$/;"	f
+db_nextrec	aupe/apue.3e/db/db.c	/^db_nextrec(DBHANDLE h, char *key)$/;"	f
+db_open	aupe/apue.3e/db/db.c	/^db_open(const char *pathname, int oflag, ...)$/;"	f
+db_rewind	aupe/apue.3e/db/db.c	/^db_rewind(DBHANDLE h)$/;"	f
+db_store	aupe/apue.3e/db/db.c	/^db_store(DBHANDLE h, const char *key, const char *data, int flag)$/;"	f
+debug	aupe/apue.3e/ipc2/opend/main.c	/^int		 debug, oflag, client_size, log_to_stderr;$/;"	v
+decryption	python/fcrypt.py	/^def decryption():$/;"	f
+default_backend	python/fcrypt.py	/^from cryptography.hazmat.backends import default_backend$/;"	i
+deleteItem	hash/hash.cpp	/^bool Hash::deleteItem(string name){$/;"	f	class:Hash
+destroy	virtualDes.cpp	/^    friend void destroy(Derived* ptr){$/;"	f	class:Derived
+devdir	aupe/apue.3e/termios/ttyname.c	/^struct devdir {$/;"	s	file:
+dfs	dfs.cpp	/^bool dfs(graph& g, int v, int e, vector<bool> &vis){$/;"	f
+do_cmd	aupe/apue.3e/proc/times1.c	/^do_cmd(char *cmd)		\/* execute and time the "cmd" *\/$/;"	f	file:
+do_driver	aupe/apue.3e/pty/driver.c	/^do_driver(char *driver)$/;"	f
+do_line	aupe/apue.3e/environ/cmd1.c	/^do_line(char *ptr)		\/* process one line of input *\/$/;"	f
+doit	aupe/apue.3e/environ/getrlimit.c	/^#define	doit(/;"	d	file:
+dopath	aupe/apue.3e/filedir/btext.c	/^dopath(Myfunc* func)$/;"	f	file:
+dopath	aupe/apue.3e/filedir/ftw8.c	/^dopath(Myfunc* func)$/;"	f	file:
+drink	hash/hash.h	/^    string drink;$/;"	m	struct:Item
+dup	dup.cpp	/^void dup(string str){$/;"	f
+e	dinnerParty.cpp	/^    int e;$/;"	m	struct:Score	file:
+e	g.cpp	/^    int e;$/;"	m	struct:Score	file:
+editDist	edit.cpp	/^int editDist(string &s1, string &s2, int i, int j){$/;"	f
+editDist	edit_dyn.cpp	/^int editDist(vector<vector<cell>> &m, string &s, string &act){$/;"	f
+encryption	python/fcrypt.py	/^def encryption():$/;"	f
+end	aupe/apue.3e/proc/nice.c	/^struct timeval end;$/;"	v	typeref:struct:timeval
+endVal	trie/trie.h	/^        int endVal;$/;"	m	class:trieNode
+endVal	trie/trie2.h	/^        int endVal;$/;"	m	class:trieNode
+endWord	trie/trie.h	/^        bool endWord;$/;"	m	class:trieNode
+enqueue_msg	aupe/apue.3e/threads/condvar.c	/^enqueue_msg(struct msg *mp)$/;"	f
+env_alrm	aupe/apue.3e/signals/read2.c	/^static jmp_buf	env_alrm;$/;"	v	file:
+env_alrm	aupe/apue.3e/signals/sleep2.c	/^static jmp_buf	env_alrm;$/;"	v	file:
+env_init	aupe/apue.3e/proc/exec1.c	/^char	*env_init[] = { "USER=unknown", "PATH=\/tmp", NULL };$/;"	v
+env_mutex	aupe/apue.3e/threadctl/getenv2.c	/^pthread_mutex_t env_mutex;$/;"	v
+env_mutex	aupe/apue.3e/threadctl/getenv3.c	/^pthread_mutex_t env_mutex = PTHREAD_MUTEX_INITIALIZER;$/;"	v
+envbuf	aupe/apue.3e/threadctl/getenv1.c	/^static char envbuf[MAXSTRINGSZ];$/;"	v	file:
+eol	headers/common.h	/^#define eol /;"	d
+err_cont	aupe/apue.3e/lib/error.c	/^err_cont(int error, const char *fmt, ...)$/;"	f
+err_doit	aupe/apue.3e/lib/error.c	/^err_doit(int errnoflag, int error, const char *fmt, va_list ap)$/;"	f	file:
+err_dump	aupe/apue.3e/lib/error.c	/^err_dump(const char *fmt, ...)$/;"	f
+err_exit	aupe/apue.3e/lib/error.c	/^err_exit(int error, const char *fmt, ...)$/;"	f
+err_msg	aupe/apue.3e/lib/error.c	/^err_msg(const char *fmt, ...)$/;"	f
+err_quit	aupe/apue.3e/lib/error.c	/^err_quit(const char *fmt, ...)$/;"	f
+err_ret	aupe/apue.3e/lib/error.c	/^err_ret(const char *fmt, ...)$/;"	f
+err_sys	aupe/apue.3e/lib/error.c	/^err_sys(const char *fmt, ...)$/;"	f
+errmsg	aupe/apue.3e/ipc2/opend.fe/main.c	/^char	 errmsg[MAXLINE];$/;"	v
+errmsg	aupe/apue.3e/ipc2/opend/main.c	/^char	 errmsg[MAXLINE];$/;"	v
+f1	aupe/apue.3e/environ/scope.c	/^f1(int val)$/;"	f
+f1	aupe/apue.3e/environ/testjmp.c	/^f1(int i, int j, int k, int l)$/;"	f	file:
+f1	aupe/apue.3e/exercises/vfork3.c	/^f1(void)$/;"	f	file:
+f2	aupe/apue.3e/environ/testjmp.c	/^f2(void)$/;"	f	file:
+f2	aupe/apue.3e/exercises/vfork3.c	/^f2(void)$/;"	f	file:
+fCount	sudoku_opt.cpp	/^int fCount;$/;"	v
+f_count	aupe/apue.3e/threads/mutex1.c	/^	int             f_count;$/;"	m	struct:foo	file:
+f_count	aupe/apue.3e/threads/mutex2.c	/^	int             f_count;$/;"	m	struct:foo	file:
+f_count	aupe/apue.3e/threads/mutex3.c	/^	int             f_count; \/* protected by hashlock *\/$/;"	m	struct:foo	file:
+f_id	aupe/apue.3e/threads/mutex1.c	/^	int             f_id;$/;"	m	struct:foo	file:
+f_id	aupe/apue.3e/threads/mutex2.c	/^	int             f_id;$/;"	m	struct:foo	file:
+f_id	aupe/apue.3e/threads/mutex3.c	/^	int             f_id;$/;"	m	struct:foo	file:
+f_lock	aupe/apue.3e/threads/mutex1.c	/^	pthread_mutex_t f_lock;$/;"	m	struct:foo	file:
+f_lock	aupe/apue.3e/threads/mutex2.c	/^	pthread_mutex_t f_lock;$/;"	m	struct:foo	file:
+f_lock	aupe/apue.3e/threads/mutex3.c	/^	pthread_mutex_t f_lock;$/;"	m	struct:foo	file:
+f_next	aupe/apue.3e/threads/mutex2.c	/^	struct foo     *f_next; \/* protected by hashlock *\/$/;"	m	struct:foo	typeref:struct:foo::foo	file:
+f_next	aupe/apue.3e/threads/mutex3.c	/^	struct foo     *f_next; \/* protected by hashlock *\/$/;"	m	struct:foo	typeref:struct:foo::foo	file:
+fd	aupe/apue.3e/exercises/pollmsg2.c	/^	int				fd;$/;"	m	struct:threadinfo	file:
+fd	aupe/apue.3e/ipc2/opend/opend.h	/^  int	fd;			\/* fd, or -1 if available *\/$/;"	m	struct:__anon1
+fd	aupe/apue.3e/ipc2/pollmsg.c	/^	int fd;$/;"	m	struct:threadinfo	file:
+fd_pipe	aupe/apue.3e/lib/spipe.c	/^fd_pipe(int fd[2])$/;"	f
+fh	aupe/apue.3e/threads/mutex2.c	/^struct foo *fh[NHASH];$/;"	v	typeref:struct:foo
+fh	aupe/apue.3e/threads/mutex3.c	/^struct foo *fh[NHASH];$/;"	v	typeref:struct:foo
+fillPossible	sudoku_opt.cpp	/^void fillPossible(vector<vector<char>>& board, int &r, int &c, vector<bool> &possible){$/;"	f
+filld	recLetters.cpp	/^void filld (queue<string>& res,string str, int l){$/;"	f
+find	btree.cpp	/^        bool find (int value){$/;"	f	class:Node
+find	tree.py	/^    def find(self, p):$/;"	m	class:tree
+findHeight	cc/4-4.cpp	/^int findHeight(treenode* root){$/;"	f
+findItem	hash/hash.cpp	/^bool Hash::findItem(string name){$/;"	f	class:Hash
+findMinMax	vorder.cpp	/^void findMinMax(treenode* root, int& Min, int& Max, int hd){$/;"	f
+find_end	aupe/apue.3e/exercises/fmemopen.c	/^find_end(char *buf, size_t len)$/;"	f	file:
+flags	aupe/apue.3e/exercises/fmemopen.c	/^	int		flags;	\/* see below *\/$/;"	m	struct:memstream	file:
+flags	aupe/apue.3e/printer/print.h	/^	uint32_t flags;				\/* see below *\/$/;"	m	struct:printreq
+fmemopen	aupe/apue.3e/exercises/fmemopen.c	/^fmemopen(void *__restrict buf, size_t size,$/;"	f
+foo	aupe/apue.3e/exercises/goodexit.c	/^struct foo {$/;"	s	file:
+foo	aupe/apue.3e/threads/badexit2.c	/^struct foo {$/;"	s	file:
+foo	aupe/apue.3e/threads/mutex1.c	/^struct foo {$/;"	s	file:
+foo	aupe/apue.3e/threads/mutex2.c	/^struct foo {$/;"	s	file:
+foo	aupe/apue.3e/threads/mutex3.c	/^struct foo {$/;"	s	file:
+foo	python/test1.py	/^def foo(n):$/;"	f
+foo_alloc	aupe/apue.3e/threads/mutex1.c	/^foo_alloc(int id) \/* allocate the object *\/$/;"	f
+foo_alloc	aupe/apue.3e/threads/mutex2.c	/^foo_alloc(int id) \/* allocate the object *\/$/;"	f
+foo_alloc	aupe/apue.3e/threads/mutex3.c	/^foo_alloc(int id) \/* allocate the object *\/$/;"	f
+foo_find	aupe/apue.3e/threads/mutex2.c	/^foo_find(int id) \/* find an existing object *\/$/;"	f
+foo_find	aupe/apue.3e/threads/mutex3.c	/^foo_find(int id) \/* find an existing object *\/$/;"	f
+foo_hold	aupe/apue.3e/threads/mutex1.c	/^foo_hold(struct foo *fp) \/* add a reference to the object *\/$/;"	f
+foo_hold	aupe/apue.3e/threads/mutex2.c	/^foo_hold(struct foo *fp) \/* add a reference to the object *\/$/;"	f
+foo_hold	aupe/apue.3e/threads/mutex3.c	/^foo_hold(struct foo *fp) \/* add a reference to the object *\/$/;"	f
+foo_rele	aupe/apue.3e/threads/mutex1.c	/^foo_rele(struct foo *fp) \/* release a reference to the object *\/$/;"	f
+foo_rele	aupe/apue.3e/threads/mutex2.c	/^foo_rele(struct foo *fp) \/* release a reference to the object *\/$/;"	f
+foo_rele	aupe/apue.3e/threads/mutex3.c	/^foo_rele(struct foo *fp) \/* release a reference to the object *\/$/;"	f
+found	python/network.py	/^        found = True$/;"	v
+found	python/network.py	/^found = False$/;"	v
+fullpath	aupe/apue.3e/filedir/btext.c	/^static char	*fullpath;		\/* contains full pathname for every file *\/$/;"	v	file:
+fullpath	aupe/apue.3e/filedir/ftw8.c	/^static char	*fullpath;		\/* contains full pathname for every file *\/$/;"	v	file:
+gender	vec.cpp	/^    string gender;$/;"	m	struct:Guest	file:
+getBuffer	headers/buffers.h	/^    UCHAR* getBuffer() const{$/;"	f	class:Buffer
+getChildren	trie/trie.h	/^        map* getChildren(){$/;"	f	class:trieNode
+getChildren	trie/trie2.h	/^        unordered_map<char, trieNode> getChildren(){$/;"	f	class:trieNode
+getData	tree.cpp	/^        int getData(btree &ptr){$/;"	f	class:btree
+getEndVal	trie/trie.h	/^        int getEndVal(){$/;"	f	class:trieNode
+getEndVal	trie/trie2.h	/^        int getEndVal(){$/;"	f	class:trieNode
+getFromPool	headers/buffers.h	/^    BufferQueueItem* getFromPool(){$/;"	f	class:BufferPool
+getHead	headers/buffers.h	/^    BufferQueueItem* getHead(){$/;"	f	class:BufferPool
+getHead	headers/buffers.h	/^    BufferQueueItem* getHead(){$/;"	f	class:BufferQueue
+getHeight	virtual.cpp	/^      int getHeight(){$/;"	f	class:Shape
+getLeft	tree.cpp	/^        int getLeft(btree &ptr){$/;"	f	class:btree
+getMin	list2stack.cpp	/^        int getMin(){$/;"	f	class:Node
+getPoolQueueItem	headers/buffers.h	/^    BufferQueueItem* getPoolQueueItem (){$/;"	f	class:PooledBuffer
+getPoolSize	headers/buffers.h	/^    int getPoolSize(){$/;"	f	class:BufferPool
+getRight	tree.cpp	/^        int getRight(btree &ptr){$/;"	f	class:btree
+getSize	headers/buffers.h	/^    UINT getSize() const{$/;"	f	class:Buffer
+getUsedLength	headers/buffers.h	/^    UINT getUsedLength() const{$/;"	f	class:Buffer
+getValue	trie/trie.h	/^        char getValue(){$/;"	f	class:trieNode
+getValue	trie/trie2.h	/^        char getValue(){$/;"	f	class:trieNode
+getWidth	virtual.cpp	/^      int getWidth(){$/;"	f	class:Shape
+get_newjobno	aupe/apue.3e/printer/printd.c	/^get_newjobno(void)$/;"	f
+get_printaddr	aupe/apue.3e/printer/util.c	/^get_printaddr(void)$/;"	f
+get_printserver	aupe/apue.3e/printer/util.c	/^get_printserver(void)$/;"	f
+get_token	aupe/apue.3e/environ/cmd1.c	/^get_token(void)$/;"	f
+getaddrlist	aupe/apue.3e/printer/util.c	/^getaddrlist(const char *host, const char *service,$/;"	f
+getenv	aupe/apue.3e/threadctl/getenv1.c	/^getenv(const char *name)$/;"	f
+getenv	aupe/apue.3e/threadctl/getenv3.c	/^getenv(const char *name)$/;"	f
+getenv_r	aupe/apue.3e/threadctl/getenv2.c	/^getenv_r(const char *name, char *buf, int buflen)$/;"	f
+getpass	aupe/apue.3e/termios/getpass.c	/^getpass(const char *prompt)$/;"	f
+getpwnam	aupe/apue.3e/datafiles/getpwnam.c	/^getpwnam(const char *name)$/;"	f
+globval	aupe/apue.3e/environ/testjmp.c	/^static int		globval;$/;"	v	file:
+globvar	aupe/apue.3e/proc/fork1.c	/^int		globvar = 6;		\/* external variable in initialized data *\/$/;"	v
+globvar	aupe/apue.3e/proc/vfork1.c	/^int		globvar = 6;		\/* external variable in initialized data *\/$/;"	v
+graph	headers/graph.h	/^        graph(int V){$/;"	f	class:graph
+graph	headers/graph.h	/^class graph{$/;"	c
+graphNode	headers/common.h	/^    graphNode(int x): val(x) {};$/;"	f	struct:graphNode
+graphNode	headers/common.h	/^typedef struct graphNode{$/;"	s
+graphnode	headers/common.h	/^}graphnode;$/;"	t	typeref:struct:graphNode
+grow_pollfd	aupe/apue.3e/ipc2/opend/loop.poll.c	/^grow_pollfd(struct pollfd *pfd, int *maxfd)$/;"	f	file:
+guest	vec.cpp	/^}guest;$/;"	t	typeref:struct:Guest	file:
+hRobb	hRobb.cpp	/^int hRobb(vector<int> &v, int l, int s){$/;"	f
+handleCommand	python/Client.py	/^def handleCommand(cmd):$/;"	f
+handle_request	aupe/apue.3e/ipc2/opend.fe/request.c	/^handle_request(char *buf, int nread, int fd)$/;"	f
+handle_request	aupe/apue.3e/ipc2/opend/request.c	/^handle_request(char *buf, int nread, int clifd, uid_t uid)$/;"	f
+hasNext	mapImple.cpp	/^        tree<Key, Val>* hasNext(tree<Key, Val>*& ptr){$/;"	f	class:tree
+hash	hash/hash.cpp	/^int Hash::hash(string name){$/;"	f	class:Hash
+hashTable	hash/hash.h	/^        item* hashTable[tableSize];$/;"	m	class:Hash
+hashes	python/fcrypt.py	/^from cryptography.hazmat.primitives import hashes$/;"	i
+hashlock	aupe/apue.3e/threads/mutex2.c	/^pthread_mutex_t hashlock = PTHREAD_MUTEX_INITIALIZER;$/;"	v
+hashlock	aupe/apue.3e/threads/mutex3.c	/^pthread_mutex_t hashlock = PTHREAD_MUTEX_INITIALIZER;$/;"	v
+hashoff	aupe/apue.3e/db/db.c	/^  off_t  hashoff;  \/* offset in index file of hash table *\/$/;"	m	struct:__anon4	file:
+head	aupe/apue.3e/termios/ttyname.c	/^static struct devdir	*head;$/;"	v	typeref:struct:devdir	file:
+head	headers/buffers.h	/^    BufferQueueItem* head;$/;"	m	class:BufferQueue
+head	list2stack.cpp	/^        Node* head;$/;"	m	class:Node	file:
+head	lists/link.cpp	/^Node* head = NULL;$/;"	v
+heapsort	aupe/apue.3e/threads/barrier.c	/^#define heapsort /;"	d	file:
+height	lorder.cpp	/^int height(treenode* root){$/;"	f
+height	virtual.cpp	/^      int width, height;$/;"	m	class:Shape	file:
+height	virtual.cpp	/^    int height,width;$/;"	m	class:Rectangle	file:
+helper	aupe/apue.3e/exercises/pollmsg2.c	/^helper(void *arg)$/;"	f
+helper	aupe/apue.3e/ipc2/pollmsg.c	/^helper(void *arg)$/;"	f
+i	dinnerParty.cpp	/^    int i;$/;"	m	struct:Score	file:
+i	g.cpp	/^    int i;$/;"	m	struct:Score	file:
+idxbuf	aupe/apue.3e/db/db.c	/^  char  *idxbuf; \/* malloc'ed buffer for index record *\/$/;"	m	struct:__anon4	file:
+idxfd	aupe/apue.3e/db/db.c	/^  int    idxfd;  \/* fd for index file *\/$/;"	m	struct:__anon4	file:
+idxlen	aupe/apue.3e/db/db.c	/^  size_t idxlen; \/* length of index record *\/$/;"	m	struct:__anon4	file:
+idxoff	aupe/apue.3e/db/db.c	/^  off_t  idxoff; \/* offset in index file of index record *\/$/;"	m	struct:__anon4	file:
+in	headers/common.h	/^T in(){$/;"	f
+inVec	headers/common.h	/^void vecType<CHAR, char>::inVec(std::vector<char>& vec, bool fromFile){$/;"	f	class:vecType
+inVec	headers/common.h	/^void vecType<INT, int>::inVec(std::vector<int>& vec, bool fromFile){$/;"	f	class:vecType
+inVec	headers/common.h	/^void vecType<STR, std::string>::inVec(std::vector<std::string>& vec, bool fromFile){$/;"	f	class:vecType
+init	edit_dyn.cpp	/^void init(vector<vector<cell>> &m, int l1, int l2){$/;"	f
+init	headers/buffers.h	/^    void init(Buffer::UINT iBufferSize, int maxBuffers){$/;"	f	class:BufferPool
+init	headers/buffers.h	/^    void init(UCHAR* buff, UINT isize, UINT len){$/;"	f	class:Buffer
+init_done	aupe/apue.3e/threadctl/getenv2.c	/^static pthread_once_t init_done = PTHREAD_ONCE_INIT;$/;"	v	file:
+init_done	aupe/apue.3e/threadctl/getenv3.c	/^static pthread_once_t init_done = PTHREAD_ONCE_INIT;$/;"	v	file:
+init_printer	aupe/apue.3e/printer/printd.c	/^init_printer(void)$/;"	f
+init_request	aupe/apue.3e/printer/printd.c	/^init_request(void)$/;"	f
+initserver	aupe/apue.3e/sockets/initsrv1.c	/^initserver(int type, const struct sockaddr *addr, socklen_t alen,$/;"	f
+initserver	aupe/apue.3e/sockets/initsrv2.c	/^initserver(int type, const struct sockaddr *addr, socklen_t alen,$/;"	f
+inorder_traversal	tree.c	/^void inorder_traversal(struct node* root) {$/;"	f
+inp	python/nir.py	/^inp = raw_input()$/;"	v
+inp	python/test_time.py	/^    inp = input().split(' ')$/;"	v
+inputCharVec	headers/common.h	/^void inputCharVec(std::vector<T>& vec, bool fromFile=false){$/;"	f
+inputIntVec	headers/common.h	/^void inputIntVec(std::vector<T>& vec, bool fromFile=false){$/;"	f
+inputStrVec	headers/common.h	/^void inputStrVec(std::vector<T>& vec, bool fromFile=false){$/;"	f
+insert	btree.cpp	/^        void insert(int value){$/;"	f	class:Node
+insert	headers/list.h	/^void insert(Link** head, int data){$/;"	f
+insert	mapImple.cpp	/^        void insert(Key k, Val v){$/;"	f	class:jmap
+insert	mapImple.cpp	/^        void insert(tree<Key, Val>* root, Key k, Val v){$/;"	f	class:tree
+insert	tree.c	/^void insert(int data) {$/;"	f
+insert	tree.py	/^    def insert(self, dat):$/;"	m	class:tree
+insert	trie/trie.h	/^        void insert(string word, int val){$/;"	f	class:Trie
+insert	trie/trie2.h	/^        void insert(string word, int val){$/;"	f	class:Trie
+insertFirst	lists/link.cpp	/^void insertFirst (int key, int data) \/\/Insert at begining of list. TODO:implement last and given pos$/;"	f
+insertLast	headers/list.h	/^void insertLast(Link** head, int data){$/;"	f
+insertPos	headers/list.h	/^void insertPos(Link** head, int data, int pos){$/;"	f
+insertionSort	insSort.cpp	/^int* insertionSort(int* arr){$/;"	f
+intVecFromFile	headers/common.h	/^void intVecFromFile(std::vector<std::string>& result, char delim){$/;"	f
+ipAddr1	python/network.py	/^ipAddr1 = sys.argv[1]$/;"	v
+ipAddr2	python/network.py	/^ipAddr2 = sys.argv[2]$/;"	v
+ipp_hdr	aupe/apue.3e/printer/ipp.h	/^struct ipp_hdr {$/;"	s
+isBalanced	cc/4-1-Trees-Graphs.cpp	/^bool isBalanced(treenode* root){$/;"	f
+isCommand	python/Chat.py	/^def isCommand (cmd):$/;"	f
+isCommand	python/Client.py	/^def isCommand(cmd):$/;"	f
+isEmpty	headers/buffers.h	/^    bool isEmpty(){$/;"	f	class:BufferQueue
+isEnd	trie/trie.h	/^        bool isEnd(){$/;"	f	class:trieNode
+isEnd	trie/trie2.h	/^        bool isEnd(){$/;"	f	class:trieNode
+isIpv4Valid	python/network.py	/^def isIpv4Valid(addr):              # Func to check IPv4 address validity$/;"	f
+isIpv6Valid	python/network.py	/^def isIpv6Valid(addr):              # Func to check IPv6 address validity$/;"	f
+isRoute	cc/4-2.cpp	/^bool isRoute(graph& g, int s, int e, vector<bool>& vis, vector<int>& res){$/;"	f
+isShutdownMsg	headers/buffers.h	/^    bool isShutdownMsg(){$/;"	f	class:Buffer
+isValid	sudoku.cpp	/^bool isValid(char ch, int r, int c, vector<vector<char>> &board){$/;"	f
+is_linebuffered	aupe/apue.3e/stdio/buf.c	/^is_linebuffered(FILE *fp)$/;"	f
+is_read_lockable	aupe/apue.3e/include/apue.h	/^#define	is_read_lockable(/;"	d
+is_unbuffered	aupe/apue.3e/stdio/buf.c	/^is_unbuffered(FILE *fp)$/;"	f
+is_write_lockable	aupe/apue.3e/include/apue.h	/^#define	is_write_lockable(/;"	d
+isatty	aupe/apue.3e/termios/isatty.c	/^isatty(int fd)$/;"	f
+item	hash/hash.h	/^}item;$/;"	t	typeref:struct:Item
+j	python/fib.py	/^    j = i+1$/;"	v
+j_id	aupe/apue.3e/threads/rwlock.c	/^	pthread_t   j_id;   \/* tells which thread handles this job *\/$/;"	m	struct:job	file:
+j_next	aupe/apue.3e/threads/rwlock.c	/^	struct job *j_next;$/;"	m	struct:job	typeref:struct:job::job	file:
+j_prev	aupe/apue.3e/threads/rwlock.c	/^	struct job *j_prev;$/;"	m	struct:job	typeref:struct:job::job	file:
+jmap	mapImple.cpp	/^        jmap():root(nullptr){};$/;"	f	class:jmap
+jmap	mapImple.cpp	/^class jmap{$/;"	c	file:
+jmpbuf	aupe/apue.3e/signals/mask.c	/^static sigjmp_buf				jmpbuf;$/;"	v	file:
+jmpbuffer	aupe/apue.3e/environ/cmd2.c	/^jmp_buf	jmpbuffer;$/;"	v
+jmpbuffer	aupe/apue.3e/environ/testjmp.c	/^static jmp_buf	jmpbuffer;$/;"	v	file:
+job	aupe/apue.3e/printer/printd.c	/^struct job {$/;"	s	file:
+job	aupe/apue.3e/threads/rwlock.c	/^struct job {$/;"	s	file:
+job_append	aupe/apue.3e/threads/rwlock.c	/^job_append(struct queue *qp, struct job *jp)$/;"	f
+job_find	aupe/apue.3e/threads/rwlock.c	/^job_find(struct queue *qp, pthread_t id)$/;"	f
+job_insert	aupe/apue.3e/threads/rwlock.c	/^job_insert(struct queue *qp, struct job *jp)$/;"	f
+job_remove	aupe/apue.3e/threads/rwlock.c	/^job_remove(struct queue *qp, struct job *jp)$/;"	f
+jobfd	aupe/apue.3e/printer/printd.c	/^int					jobfd;$/;"	v
+jobhead	aupe/apue.3e/printer/printd.c	/^struct job				*jobhead, *jobtail;$/;"	v	typeref:struct:job
+jobid	aupe/apue.3e/printer/print.h	/^	uint32_t jobid;				\/* job ID *\/$/;"	m	struct:printresp
+jobid	aupe/apue.3e/printer/printd.c	/^	int32_t          jobid;		\/* job ID *\/$/;"	m	struct:job	file:
+joblock	aupe/apue.3e/printer/printd.c	/^pthread_mutex_t		joblock = PTHREAD_MUTEX_INITIALIZER;$/;"	v
+jobnm	aupe/apue.3e/printer/print.h	/^	char jobnm[JOBNM_MAX];		\/* job's name *\/$/;"	m	struct:printreq
+jobtail	aupe/apue.3e/printer/printd.c	/^struct job				*jobhead, *jobtail;$/;"	v	typeref:struct:
+jobwait	aupe/apue.3e/printer/printd.c	/^pthread_cond_t			jobwait = PTHREAD_COND_INITIALIZER;$/;"	v
+k	python/dist.py	/^k=12$/;"	v
+k	twosums.c	/^int k,tgt = 9;$/;"	v
+key	aupe/apue.3e/threadctl/getenv3.c	/^static pthread_key_t key;$/;"	v	file:
+key	lists/link.cpp	/^    int key;$/;"	m	struct:node	file:
+key	mapImple.cpp	/^        Key key;$/;"	m	class:tree	file:
+kill_workers	aupe/apue.3e/printer/printd.c	/^kill_workers(void)$/;"	f
+knapSack	knapRec.cpp	/^int knapSack(int W, vector<int>& wt, vector<int>& val, int n){$/;"	f
+last	aupe/apue.3e/advio/rot13c2.c	/^	int           last;$/;"	m	struct:buf	file:
+lcs	lcs.cpp	/^string lcs(string str){$/;"	f
+left	btree.cpp	/^        Node* left;$/;"	m	class:Node	file:
+left	cc/4-5.cpp	/^    Node* left; $/;"	m	struct:Node	file:
+left	headers/common.h	/^    treeNode* left;$/;"	m	struct:treeNode
+left	mapImple.cpp	/^        tree* left;$/;"	m	class:tree	file:
+left	mirror.cpp	/^    struct treeNode* left;$/;"	m	struct:treeNode	typeref:struct:treeNode::treeNode	file:
+left	tree.cpp	/^        btree* left;$/;"	m	class:btree	file:
+left	treeUniPtr.cpp	/^    unique_ptr<TNode> left;$/;"	m	struct:TNode	file:
+leftChild	tree.c	/^   struct node *leftChild;$/;"	m	struct:node	typeref:struct:node::node	file:
+len	aupe/apue.3e/exercises/pollmsg2.c	/^	int				len;$/;"	m	struct:threadinfo	file:
+length	python/test_time.py	/^length = len(sortedCircles)$/;"	v
+let	letters.cpp	/^void let(vector<int>& num, int size, int count, string& res){$/;"	f
+letters	recLetters.cpp	/^void letters(vector<int>& num, int n, queue<string>& res){$/;"	f
+levelOrderList	cc/4-4.cpp	/^void levelOrderList(treenode* root, vector<int>& res, int l){$/;"	f
+likely	headers/common.h	/^#define likely(/;"	d
+likely	likely.c	/^#define likely(/;"	d	file:
+link	headers/list.h	/^typedef struct link{$/;"	s
+link	tem.cpp	/^    typedef struct link{$/;"	s	class:List	file:
+listLength	headers/list.h	/^int listLength(Link* head){$/;"	f
+listNode	headers/common.h	/^    listNode(int x): val(x), next(NULL), prev(NULL) {};$/;"	f	struct:listNode
+listNode	headers/common.h	/^typedef struct listNode{$/;"	s
+listnode	headers/common.h	/^}listnode;$/;"	t	typeref:struct:listNode
+loc	python/searchLeast.py	/^        loc = i$/;"	v
+loc	python/searchLeast.py	/^loc = 0$/;"	v
+lock	aupe/apue.3e/threadctl/suspend.c	/^pthread_mutex_t lock = PTHREAD_MUTEX_INITIALIZER;$/;"	v
+lock1	aupe/apue.3e/threadctl/atfork.c	/^pthread_mutex_t lock1 = PTHREAD_MUTEX_INITIALIZER;$/;"	v
+lock2	aupe/apue.3e/threadctl/atfork.c	/^pthread_mutex_t lock2 = PTHREAD_MUTEX_INITIALIZER;$/;"	v
+lock_reg	aupe/apue.3e/lib/lockreg.c	/^lock_reg(int fd, int cmd, int type, off_t offset, int whence, off_t len)$/;"	f
+lock_test	aupe/apue.3e/lib/locktest.c	/^lock_test(int fd, int type, off_t offset, int whence, off_t len)$/;"	f
+lockabyte	aupe/apue.3e/advio/deadlock.c	/^lockabyte(const char *name, int fd, off_t offset)$/;"	f	file:
+lockfile	aupe/apue.3e/advio/lockfile.c	/^lockfile(int fd)$/;"	f
+log_doit	aupe/apue.3e/lib/errorlog.c	/^log_doit(int errnoflag, int error, int priority, const char *fmt,$/;"	f	file:
+log_exit	aupe/apue.3e/lib/errorlog.c	/^log_exit(int error, const char *fmt, ...)$/;"	f
+log_msg	aupe/apue.3e/lib/errorlog.c	/^log_msg(const char *fmt, ...)$/;"	f
+log_open	aupe/apue.3e/lib/errorlog.c	/^log_open(const char *ident, int option, int facility)$/;"	f
+log_quit	aupe/apue.3e/lib/errorlog.c	/^log_quit(const char *fmt, ...)$/;"	f
+log_ret	aupe/apue.3e/lib/errorlog.c	/^log_ret(const char *fmt, ...)$/;"	f
+log_sys	aupe/apue.3e/lib/errorlog.c	/^log_sys(const char *fmt, ...)$/;"	f
+log_to_stderr	aupe/apue.3e/ipc2/opend/main.c	/^int		 debug, oflag, client_size, log_to_stderr;$/;"	v
+log_to_stderr	aupe/apue.3e/printer/print.c	/^int log_to_stderr = 1;$/;"	v
+log_to_stderr	aupe/apue.3e/printer/printd.c	/^int					log_to_stderr = 0;$/;"	v
+longestPalindrome	palin.cpp	/^int longestPalindrome(string &s){$/;"	f
+longestPalindrome	palin_str.cpp	/^int longestPalindrome(string &str){$/;"	f
+longestPrefix	trie/trie.h	/^        result longestPrefix(string str){$/;"	f	class:Trie
+longestPrefix	trie/trie2.h	/^        int longestPrefix(string str){$/;"	f	class:Trie
+lookAhead	sudoku_opt.cpp	/^bool lookAhead(vector<vector<char>> &board){$/;"	f
+loop	aupe/apue.3e/ipc2/opend/loop.poll.c	/^loop(void)$/;"	f
+loop	aupe/apue.3e/ipc2/opend/loop.select.c	/^loop(void)$/;"	f
+loop	aupe/apue.3e/pty/loop.c	/^loop(int ptym, int ignoreeof)$/;"	f
+m	aupe/apue.3e/exercises/pollmsg2.c	/^	struct mymesg	m;$/;"	m	struct:threadinfo	typeref:struct:threadinfo::mymesg	file:
+m	headers/buffers.h	/^    pthread_mutex_t m;$/;"	m	class:BufferPool
+m	python/co.py	/^m = 2$/;"	v
+m	python/co1.py	/^m = 2$/;"	v
+m_next	aupe/apue.3e/threads/condvar.c	/^	struct msg *m_next;$/;"	m	struct:msg	typeref:struct:msg::msg	file:
+main	4num.cpp	/^int main(){$/;"	f
+main	ana.cpp	/^int main()$/;"	f
+main	android.cpp	/^int main(){$/;"	f
+main	assert.c	/^int main ()$/;"	f
+main	aupe/apue.3e/advio/deadlock.c	/^main(void)$/;"	f
+main	aupe/apue.3e/advio/mandatory.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/advio/mcopy2.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/advio/nonblockw.c	/^main(void)$/;"	f
+main	aupe/apue.3e/advio/rot13a.c	/^main(int argc, char* argv[])$/;"	f
+main	aupe/apue.3e/advio/rot13c2.c	/^main(int argc, char* argv[])$/;"	f
+main	aupe/apue.3e/daemons/reread.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/daemons/reread2.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/datafiles/strftime.c	/^main(void)$/;"	f
+main	aupe/apue.3e/db/t4.c	/^main(void)$/;"	f
+main	aupe/apue.3e/environ/cmd1.c	/^main(void)$/;"	f
+main	aupe/apue.3e/environ/cmd2.c	/^main(void)$/;"	f
+main	aupe/apue.3e/environ/doatexit.c	/^main(void)$/;"	f
+main	aupe/apue.3e/environ/echoarg.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/environ/getrlimit.c	/^main(void)$/;"	f
+main	aupe/apue.3e/environ/hello1.c	/^main()$/;"	f
+main	aupe/apue.3e/environ/testjmp.c	/^main(void)$/;"	f
+main	aupe/apue.3e/exercises/bo.c	/^main(void)$/;"	f
+main	aupe/apue.3e/exercises/fifo1.c	/^main(void)$/;"	f
+main	aupe/apue.3e/exercises/getlogin.c	/^main(void)$/;"	f
+main	aupe/apue.3e/exercises/getpw44bsd.c	/^main(void)		\/* FreeBSD\/Mac OS X version *\/$/;"	f
+main	aupe/apue.3e/exercises/getpwsvr4.c	/^main(void)		\/* Linux\/Solaris version *\/$/;"	f
+main	aupe/apue.3e/exercises/goodexit.c	/^main(void)$/;"	f
+main	aupe/apue.3e/exercises/longpath.c	/^main(void)$/;"	f
+main	aupe/apue.3e/exercises/pendlock.c	/^main(void)$/;"	f
+main	aupe/apue.3e/exercises/pollmsg2.c	/^main()$/;"	f
+main	aupe/apue.3e/exercises/prtime.c	/^main(void)$/;"	f
+main	aupe/apue.3e/exercises/sizepipe.c	/^main(void)$/;"	f
+main	aupe/apue.3e/exercises/vfork3.c	/^main(void)$/;"	f
+main	aupe/apue.3e/exercises/zombie.c	/^main(void)$/;"	f
+main	aupe/apue.3e/filedir/access.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/filedir/btext.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/filedir/cdpwd.c	/^main(void)$/;"	f
+main	aupe/apue.3e/filedir/changemod.c	/^main(void)$/;"	f
+main	aupe/apue.3e/filedir/devrdev.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/filedir/filetype.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/filedir/ftw8.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/filedir/mycd.c	/^main(void)$/;"	f
+main	aupe/apue.3e/filedir/test.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/filedir/umask.c	/^main(void)$/;"	f
+main	aupe/apue.3e/filedir/unlink.c	/^main(void)$/;"	f
+main	aupe/apue.3e/filedir/zap.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/fileio/fileflags.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/fileio/hole.c	/^main(void)$/;"	f
+main	aupe/apue.3e/fileio/mycat.c	/^main(void)$/;"	f
+main	aupe/apue.3e/fileio/seek.c	/^main(void)$/;"	f
+main	aupe/apue.3e/intro/getcputc.c	/^main(void)$/;"	f
+main	aupe/apue.3e/intro/hello.c	/^main(void)$/;"	f
+main	aupe/apue.3e/intro/ls1.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/intro/mycat.c	/^main(void)$/;"	f
+main	aupe/apue.3e/intro/shell1.c	/^main(void)$/;"	f
+main	aupe/apue.3e/intro/shell2.c	/^main(void)$/;"	f
+main	aupe/apue.3e/intro/testerror.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/intro/uidgid.c	/^main(void)$/;"	f
+main	aupe/apue.3e/ipc1/add2.c	/^main(void)$/;"	f
+main	aupe/apue.3e/ipc1/add2stdio.c	/^main(void)$/;"	f
+main	aupe/apue.3e/ipc1/devzero.c	/^main(void)$/;"	f
+main	aupe/apue.3e/ipc1/myuclc.c	/^main(void)$/;"	f
+main	aupe/apue.3e/ipc1/pipe1.c	/^main(void)$/;"	f
+main	aupe/apue.3e/ipc1/pipe2.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/ipc1/pipe4.c	/^main(void)$/;"	f
+main	aupe/apue.3e/ipc1/popen1.c	/^main(void)$/;"	f
+main	aupe/apue.3e/ipc1/popen2.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/ipc1/tshm.c	/^main(void)$/;"	f
+main	aupe/apue.3e/ipc2/bindunix.c	/^main(void)$/;"	f
+main	aupe/apue.3e/ipc2/open.fe/main.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/ipc2/open/main.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/ipc2/opend.fe/main.c	/^main(void)$/;"	f
+main	aupe/apue.3e/ipc2/opend/main.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/ipc2/pollmsg.c	/^main()$/;"	f
+main	aupe/apue.3e/ipc2/sendmsg.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/printer/print.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/printer/printd.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/proc/echoall.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/proc/exec1.c	/^main(void)$/;"	f
+main	aupe/apue.3e/proc/exec2.c	/^main(void)$/;"	f
+main	aupe/apue.3e/proc/fork1.c	/^main(void)$/;"	f
+main	aupe/apue.3e/proc/fork2.c	/^main(void)$/;"	f
+main	aupe/apue.3e/proc/nice.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/proc/pracct.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/proc/pruids.c	/^main(void)$/;"	f
+main	aupe/apue.3e/proc/systest1.c	/^main(void)$/;"	f
+main	aupe/apue.3e/proc/systest3.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/proc/tellwait1.c	/^main(void)$/;"	f
+main	aupe/apue.3e/proc/tellwait2.c	/^main(void)$/;"	f
+main	aupe/apue.3e/proc/test1.c	/^main(void)$/;"	f
+main	aupe/apue.3e/proc/times1.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/proc/vfork1.c	/^main(void)$/;"	f
+main	aupe/apue.3e/proc/wait1.c	/^main(void)$/;"	f
+main	aupe/apue.3e/pty/main.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/relation/orphan3.c	/^main(void)$/;"	f
+main	aupe/apue.3e/signals/child.c	/^main()$/;"	f
+main	aupe/apue.3e/signals/critical.c	/^main(void)$/;"	f
+main	aupe/apue.3e/signals/mask.c	/^main(void)$/;"	f
+main	aupe/apue.3e/signals/read1.c	/^main(void)$/;"	f
+main	aupe/apue.3e/signals/read2.c	/^main(void)$/;"	f
+main	aupe/apue.3e/signals/reenter.c	/^main(void)$/;"	f
+main	aupe/apue.3e/signals/sigtstp.c	/^main(void)$/;"	f
+main	aupe/apue.3e/signals/sigusr.c	/^main(void)$/;"	f
+main	aupe/apue.3e/signals/suspend1.c	/^main(void)$/;"	f
+main	aupe/apue.3e/signals/suspend2.c	/^main(void)$/;"	f
+main	aupe/apue.3e/signals/systest2.c	/^main(void)$/;"	f
+main	aupe/apue.3e/signals/tsleep2.c	/^main(void)$/;"	f
+main	aupe/apue.3e/sockets/findsvc.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/sockets/ruptime-dg.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/sockets/ruptime.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/sockets/ruptimed-dg.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/sockets/ruptimed-fd.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/sockets/ruptimed.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/standards/conf.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/standards/options.c	/^main(int argc, char *argv[])$/;"	f
+main	aupe/apue.3e/stdio/buf.c	/^main(void)$/;"	f
+main	aupe/apue.3e/stdio/fgetsfputs.c	/^main(void)$/;"	f
+main	aupe/apue.3e/stdio/getcharbug.c	/^main(void)$/;"	f
+main	aupe/apue.3e/stdio/getcputc.c	/^main(void)$/;"	f
+main	aupe/apue.3e/stdio/memstr.c	/^main()$/;"	f
+main	aupe/apue.3e/stdio/mkstemp.c	/^main()$/;"	f
+main	aupe/apue.3e/stdio/tempfiles.c	/^main(void)$/;"	f
+main	aupe/apue.3e/termios/csize.c	/^main(void)$/;"	f
+main	aupe/apue.3e/termios/settty.c	/^main(void)$/;"	f
+main	aupe/apue.3e/termios/t_getpass.c	/^main(void)$/;"	f
+main	aupe/apue.3e/termios/t_isatty.c	/^main(void)$/;"	f
+main	aupe/apue.3e/termios/t_raw.c	/^main(void)$/;"	f
+main	aupe/apue.3e/termios/t_ttyname.c	/^main(void)$/;"	f
+main	aupe/apue.3e/termios/winch.c	/^main(void)$/;"	f
+main	aupe/apue.3e/threadctl/atfork.c	/^main(void)$/;"	f
+main	aupe/apue.3e/threadctl/suspend.c	/^main(void)$/;"	f
+main	aupe/apue.3e/threadctl/timeout.c	/^main(void)$/;"	f
+main	aupe/apue.3e/threads/badexit2.c	/^main(void)$/;"	f
+main	aupe/apue.3e/threads/barrier.c	/^main()$/;"	f
+main	aupe/apue.3e/threads/cleanup.c	/^main(void)$/;"	f
+main	aupe/apue.3e/threads/exitstatus.c	/^main(void)$/;"	f
+main	aupe/apue.3e/threads/threadid.c	/^main(void)$/;"	f
+main	aupe/apue.3e/threads/timedlock.c	/^main(void)$/;"	f
+main	barr.cpp	/^int main(){$/;"	f
+main	bfs.cpp	/^int main(){$/;"	f
+main	bsearch.cpp	/^int main(){$/;"	f
+main	btree.cpp	/^int main(int argc, char* argv[]){$/;"	f
+main	buildtree.cpp	/^int main(){$/;"	f
+main	buildtreefromarr.cpp	/^int main(){$/;"	f
+main	cc/4-1-Trees-Graphs.cpp	/^int main(){$/;"	f
+main	cc/4-2.cpp	/^int main(){$/;"	f
+main	cc/4-3.cpp	/^int main(){$/;"	f
+main	cc/4-4.cpp	/^int main(){$/;"	f
+main	cc/4-5.cpp	/^int main(){$/;"	f
+main	cc/str1_1.cpp	/^int main(){$/;"	f
+main	clone.cpp	/^int main(){$/;"	f
+main	com.cpp	/^int main(){$/;"	f
+main	count.c	/^int main()$/;"	f
+main	count.cpp	/^int main(){$/;"	f
+main	deque.cpp	/^int main(){$/;"	f
+main	dfs.cpp	/^int main(){$/;"	f
+main	dinnerParty.cpp	/^int main(){$/;"	f
+main	dup.cpp	/^int main(){$/;"	f
+main	edit.cpp	/^int main(){$/;"	f
+main	edit_dyn.cpp	/^int main(){$/;"	f
+main	file.cpp	/^int main(){$/;"	f
+main	g.cpp	/^int main(){$/;"	f
+main	hRobb.cpp	/^int main(){$/;"	f
+main	hash/hash.cpp	/^int main(){$/;"	f
+main	insSort.cpp	/^int main(){$/;"	f
+main	iptest.cpp	/^int main(){$/;"	f
+main	java/TCPClient.java	/^    public static void main(String argv[]) throws Exception {$/;"	m	class:TCPClient
+main	java/TCPServer.java	/^    public static void main(String args[]) throws Exception {$/;"	m	class:TCPServer
+main	knapRec.cpp	/^int main()$/;"	f
+main	lcs.cpp	/^int main(){$/;"	f
+main	letters.cpp	/^int main(){$/;"	f
+main	likely.c	/^int main()$/;"	f
+main	link.cpp	/^int main(){$/;"	f
+main	list2stack.cpp	/^int main(){$/;"	f
+main	listptr.cpp	/^int main(){$/;"	f
+main	lists/addtwo.c	/^int main(){$/;"	f
+main	lists/addtwolist.c	/^int main(){$/;"	f
+main	lists/insMid.c	/^int main()$/;"	f
+main	lists/insSort.c	/^int main()$/;"	f
+main	lists/link.cpp	/^int main()$/;"	f
+main	lists/mergeSortList.c	/^int main()$/;"	f
+main	lists/revlist.c	/^int main(){$/;"	f
+main	lorder.cpp	/^int main(){$/;"	f
+main	mapImple.cpp	/^int main(){$/;"	f
+main	mapsort.cpp	/^int main(){$/;"	f
+main	maxSq.cpp	/^int main(){$/;"	f
+main	merge.cpp	/^int main(){$/;"	f
+main	mirror.cpp	/^int main(){$/;"	f
+main	mulThr.cpp	/^int main () {$/;"	f
+main	nq.cpp	/^int main(){$/;"	f
+main	nqueens.cpp	/^int main(){$/;"	f
+main	palin.cpp	/^int main(){$/;"	f
+main	palin_str.cpp	/^int main(){$/;"	f
+main	python/Client.py	/^def main():$/;"	f
+main	python/fcrypt.py	/^def main():$/;"	f
+main	python/nir.c	/^int main()$/;"	f
+main	queue.cpp	/^int main(){$/;"	f
+main	queue_cv.cpp	/^int main(){$/;"	f
+main	rainWater.cpp	/^int main(){$/;"	f
+main	recLetters.cpp	/^int main(){$/;"	f
+main	ref.c	/^int main()$/;"	f
+main	ref.cpp	/^int main()$/;"	f
+main	revWords.cpp	/^int main(){$/;"	f
+main	stack.cpp	/^int main(){$/;"	f
+main	sudoku.cpp	/^int main(){$/;"	f
+main	sudoku_opt.cpp	/^int main(){$/;"	f
+main	testadd.cpp	/^int main(){$/;"	f
+main	testlist.cpp	/^int main(int argc, char** argv){$/;"	f
+main	topo.cpp	/^int main(){$/;"	f
+main	trapWater.cpp	/^int main(){$/;"	f
+main	tree.c	/^int main() {$/;"	f
+main	tree.cpp	/^int main(){$/;"	f
+main	treeUniPtr.cpp	/^int main(){$/;"	f
+main	trie/longPrefix.cpp	/^int main(){$/;"	f
+main	twosums.c	/^int main(){$/;"	f
+main	unMap.cpp	/^int main ()$/;"	f
+main	unique.cpp	/^int main(){$/;"	f
+main	vec.cpp	/^int main(){$/;"	f
+main	virtual.cpp	/^int main() {$/;"	f
+main	virtualDes.cpp	/^int main()$/;"	f
+main	vorder.cpp	/^int main(){$/;"	f
+major_version	aupe/apue.3e/printer/ipp.h	/^	int8_t  major_version;	\/* always 1 *\/$/;"	m	struct:ipp_hdr
+make_temp	aupe/apue.3e/stdio/mkstemp.c	/^make_temp(char *template)$/;"	f
+makethread	aupe/apue.3e/threadctl/detach.c	/^makethread(void *(*fn)(void *), void *arg)$/;"	f
+maketimeout	aupe/apue.3e/threads/maketimeout.c	/^maketimeout(struct timespec *tsp, long minutes)$/;"	f
+map	trie/trie.h	/^typedef unordered_map<char, trieNode*> map;$/;"	t
+markShutdown	headers/buffers.h	/^    void markShutdown(bool val){$/;"	f	class:Buffer
+mask	aupe/apue.3e/daemons/reread.c	/^sigset_t	mask;$/;"	v
+mask	aupe/apue.3e/printer/printd.c	/^sigset_t				mask;$/;"	v
+mask	aupe/apue.3e/threadctl/suspend.c	/^sigset_t	mask;$/;"	v
+match	edit.cpp	/^int match(char a, char b){$/;"	f
+math	python/test_time.py	/^import math$/;"	i
+max	aupe/apue.3e/include/apue.h	/^#define	max(/;"	d
+maxAltitude	python/test_time.py	/^maxAltitude = [0]*len(sortedCircles)$/;"	v
+maxDepth	cc/4-1-Trees-Graphs.cpp	/^int maxDepth(treenode* root){$/;"	f
+maxSquare	maxSq.cpp	/^int maxSquare(vector<vector<int>> &board,int r,int c, int &res){$/;"	f
+maxfd	aupe/apue.3e/ipc1/popen.c	/^static int		maxfd;$/;"	v	file:
+maxfd	aupe/apue.3e/lib/popen.c	/^static int		maxfd;$/;"	v	file:
+memstream	aupe/apue.3e/exercises/fmemopen.c	/^struct memstream$/;"	s	file:
+merge	aupe/apue.3e/threads/barrier.c	/^merge()$/;"	f
+merge	lists/mergeSortList.c	/^void merge(Link*** head, Link* list1, Link* list2){$/;"	f
+merge	python/test_time.py	/^merge = timeit.default_timer()$/;"	v
+mergeSort	lists/mergeSortList.c	/^void mergeSort(Link **head){$/;"	f
+mergeSort	python/test_time.py	/^def mergeSort(c):$/;"	f
+merge_array	merge.py	/^def merge_array():$/;"	f
+mergesortend	python/test_time.py	/^mergesortend = timeit.default_timer()$/;"	v
+miles	python/data_type.py	/^miles = 1000.0$/;"	v
+min	aupe/apue.3e/include/apue.h	/^#define	min(/;"	d
+minDepth	cc/4-1-Trees-Graphs.cpp	/^int minDepth(treenode* root){$/;"	f
+minGroups	python/pcmb.py	/^        minGroups=d[k]$/;"	v
+minGroups	python/pcmb.py	/^minGroups=500000;$/;"	v
+minVal	list2stack.cpp	/^        int minVal;$/;"	m	class:Node	file:
+mini	python/searchLeast.py	/^        mini = arr[i]$/;"	v
+mini	python/searchLeast.py	/^mini = arr[0]$/;"	v
+minor_version	aupe/apue.3e/printer/ipp.h	/^	int8_t  minor_version;	\/* always 1 *\/$/;"	m	struct:ipp_hdr
+mirror	mirror.cpp	/^void mirror(treenode *&root){$/;"	f
+modes	python/fcrypt.py	/^from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes$/;"	i
+modify	testadd.cpp	/^void modify(test var){$/;"	f
+msg	aupe/apue.3e/printer/print.h	/^	char msg[MSGLEN_MAX];		\/* error message *\/$/;"	m	struct:printresp
+msg	aupe/apue.3e/threads/condvar.c	/^struct msg {$/;"	s	file:
+mstream_close	aupe/apue.3e/exercises/fmemopen.c	/^mstream_close(void *cookie)$/;"	f	file:
+mstream_read	aupe/apue.3e/exercises/fmemopen.c	/^mstream_read(void *cookie, char *buf, int len)$/;"	f	file:
+mstream_seek	aupe/apue.3e/exercises/fmemopen.c	/^mstream_seek(void *cookie, fpos_t pos, int whence)$/;"	f	file:
+mstream_write	aupe/apue.3e/exercises/fmemopen.c	/^mstream_write(void *cookie, const char *buf, int len)$/;"	f	file:
+mtext	aupe/apue.3e/exercises/pollmsg2.c	/^	char		mtext[MAXMSZ+1];$/;"	m	struct:mymesg	file:
+mtext	aupe/apue.3e/ipc2/pollmsg.c	/^	char mtext[MAXMSZ];$/;"	m	struct:mymesg	file:
+mtext	aupe/apue.3e/ipc2/sendmsg.c	/^	char mtext[MAXMSZ];$/;"	m	struct:mymesg	file:
+mtx	headers/buffers.h	/^    pthread_mutex_t* mtx;$/;"	m	class:MutexLock
+mtx	queue_cv.cpp	/^mutex mtx;$/;"	v
+mtype	aupe/apue.3e/exercises/pollmsg2.c	/^	long		mtype;$/;"	m	struct:mymesg	file:
+mtype	aupe/apue.3e/ipc2/pollmsg.c	/^	long mtype;$/;"	m	struct:mymesg	file:
+mtype	aupe/apue.3e/ipc2/sendmsg.c	/^	long mtype;$/;"	m	struct:mymesg	file:
+mutex	aupe/apue.3e/exercises/pollmsg2.c	/^	pthread_mutex_t	mutex;$/;"	m	struct:threadinfo	file:
+mutex	aupe/apue.3e/threadctl/timeout.c	/^pthread_mutex_t mutex;$/;"	v
+my_alarm	aupe/apue.3e/signals/reenter.c	/^my_alarm(int signo)$/;"	f	file:
+my_exit1	aupe/apue.3e/environ/doatexit.c	/^my_exit1(void)$/;"	f	file:
+my_exit2	aupe/apue.3e/environ/doatexit.c	/^my_exit2(void)$/;"	f	file:
+myftw	aupe/apue.3e/filedir/btext.c	/^myftw(char *pathname, Myfunc *func)$/;"	f	file:
+myftw	aupe/apue.3e/filedir/ftw8.c	/^myftw(char *pathname, Myfunc *func)$/;"	f	file:
+myfunc	aupe/apue.3e/filedir/btext.c	/^myfunc(const char *pathname, const struct stat *statptr, int type)$/;"	f	file:
+myfunc	aupe/apue.3e/filedir/ftw8.c	/^myfunc(const char *pathname, const struct stat *statptr, int type)$/;"	f	file:
+myfunc	aupe/apue.3e/filedir/ftw8.c	/^static Myfunc	myfunc;$/;"	v	file:
+mymesg	aupe/apue.3e/exercises/pollmsg2.c	/^struct mymesg {$/;"	s	file:
+mymesg	aupe/apue.3e/ipc2/pollmsg.c	/^struct mymesg {$/;"	s	file:
+mymesg	aupe/apue.3e/ipc2/sendmsg.c	/^struct mymesg {$/;"	s	file:
+n	python/co.py	/^n = 2$/;"	v
+n	python/co1.py	/^n = 3$/;"	v
+n	python/fib.py	/^n = num$/;"	v
+name	aupe/apue.3e/db/db.c	/^  char  *name;   \/* name db was opened under *\/$/;"	m	struct:__anon4	file:
+name	aupe/apue.3e/ipc1/slock.h	/^	char name[_POSIX_NAME_MAX];$/;"	m	struct:slock
+name	hash/hash.h	/^    string name;$/;"	m	struct:Item
+name	python/data_type.py	/^name = 'Nithesh' + ' Nagaraj'$/;"	v
+name	vec.cpp	/^    string name;$/;"	m	struct:Guest	file:
+nblk	aupe/apue.3e/filedir/btext.c	/^static long	nreg, ndir, nblk, nchr, nfifo, nslink, nsock, ntot;$/;"	v	file:
+nblk	aupe/apue.3e/filedir/ftw8.c	/^static long	nreg, ndir, nblk, nchr, nfifo, nslink, nsock, ntot;$/;"	v	file:
+nchr	aupe/apue.3e/filedir/btext.c	/^static long	nreg, ndir, nblk, nchr, nfifo, nslink, nsock, ntot;$/;"	v	file:
+nchr	aupe/apue.3e/filedir/ftw8.c	/^static long	nreg, ndir, nblk, nchr, nfifo, nslink, nsock, ntot;$/;"	v	file:
+ndir	aupe/apue.3e/filedir/btext.c	/^static long	nreg, ndir, nblk, nchr, nfifo, nslink, nsock, ntot;$/;"	v	file:
+ndir	aupe/apue.3e/filedir/ftw8.c	/^static long	nreg, ndir, nblk, nchr, nfifo, nslink, nsock, ntot;$/;"	v	file:
+neigh	headers/common.h	/^    std::vector<graphNode*> neigh;$/;"	m	struct:graphNode
+newmask	aupe/apue.3e/lib/tellwait.c	/^static sigset_t newmask, oldmask, zeromask;$/;"	v	file:
+next	aupe/apue.3e/printer/printd.c	/^	struct job      *next;		\/* next in list *\/$/;"	m	struct:job	typeref:struct:job::job	file:
+next	aupe/apue.3e/printer/printd.c	/^	struct worker_thread  *next;	\/* next in list *\/$/;"	m	struct:worker_thread	typeref:struct:worker_thread::worker_thread	file:
+next	hash/hash.h	/^    Item* next;$/;"	m	struct:Item
+next	headers/common.h	/^    listNode* next;$/;"	m	struct:listNode
+next	headers/list.h	/^    struct link* next;$/;"	m	struct:link	typeref:struct:link::link
+next	list2stack.cpp	/^        Node* next;$/;"	m	class:Node	file:
+next	lists/link.cpp	/^    struct node* next;$/;"	m	struct:node	typeref:struct:node::node	file:
+next	tem.cpp	/^        struct link* next;$/;"	m	struct:List::link	typeref:struct:List::link::link	file:
+nextNode	cc/4-5.cpp	/^node* nextNode(node* root){$/;"	f
+next_square	sudoku.cpp	/^bool next_square(vector<vector<char>>& board, int &r, int &c){$/;"	f
+next_square	sudoku_opt.cpp	/^void next_square(vector<vector<char>>& board, int &r, int &c, vector<bool> &possible){$/;"	f
+nextjob	aupe/apue.3e/printer/printd.c	/^int32_t				nextjob;$/;"	v
+nfifo	aupe/apue.3e/filedir/btext.c	/^static long	nreg, ndir, nblk, nchr, nfifo, nslink, nsock, ntot;$/;"	v	file:
+nfifo	aupe/apue.3e/filedir/ftw8.c	/^static long	nreg, ndir, nblk, nchr, nfifo, nslink, nsock, ntot;$/;"	v	file:
+nhash	aupe/apue.3e/db/db.c	/^  DBHASH nhash;    \/* current hash table size *\/$/;"	m	struct:__anon4	file:
+node	cc/4-5.cpp	/^}node;$/;"	t	typeref:struct:Node	file:
+node	lists/link.cpp	/^typedef struct node{$/;"	s	file:
+node	tree.c	/^struct node {$/;"	s	file:
+nreg	aupe/apue.3e/filedir/btext.c	/^static long	nreg, ndir, nblk, nchr, nfifo, nslink, nsock, ntot;$/;"	v	file:
+nreg	aupe/apue.3e/filedir/ftw8.c	/^static long	nreg, ndir, nblk, nchr, nfifo, nslink, nsock, ntot;$/;"	v	file:
+ns_pipe	aupe/apue.3e/lib/nspipe.c	/^ns_pipe(const char *name, int fd[2])$/;"	f
+nslink	aupe/apue.3e/filedir/btext.c	/^static long	nreg, ndir, nblk, nchr, nfifo, nslink, nsock, ntot;$/;"	v	file:
+nslink	aupe/apue.3e/filedir/ftw8.c	/^static long	nreg, ndir, nblk, nchr, nfifo, nslink, nsock, ntot;$/;"	v	file:
+nsock	aupe/apue.3e/filedir/btext.c	/^static long	nreg, ndir, nblk, nchr, nfifo, nslink, nsock, ntot;$/;"	v	file:
+nsock	aupe/apue.3e/filedir/ftw8.c	/^static long	nreg, ndir, nblk, nchr, nfifo, nslink, nsock, ntot;$/;"	v	file:
+ntid	aupe/apue.3e/threads/threadid.c	/^pthread_t ntid;$/;"	v
+ntot	aupe/apue.3e/filedir/btext.c	/^static long	nreg, ndir, nblk, nchr, nfifo, nslink, nsock, ntot;$/;"	v	file:
+ntot	aupe/apue.3e/filedir/ftw8.c	/^static long	nreg, ndir, nblk, nchr, nfifo, nslink, nsock, ntot;$/;"	v	file:
+num	python/fib.py	/^num = int(raw_input())$/;"	v
+numInputs	python/test_time.py	/^numInputs = (int (input()))$/;"	v
+numberOfBuffers	headers/buffers.h	/^    Buffer::UINT numberOfBuffers;$/;"	m	class:BufferPool
+numberOfElements	hash/hash.cpp	/^int Hash::numberOfElements(int index){$/;"	f	class:Hash
+numberOfPaths	python/co.py	/^def numberOfPaths(m, n):$/;"	f
+numberOfPaths	python/co1.py	/^def numberOfPaths(m, n):$/;"	f
+numberOfPatterns	android.cpp	/^int numberOfPatterns(int m, int n) {$/;"	f
+numberofpaths	count.c	/^int numberofpaths(int m,int n ){$/;"	f
+nums	aupe/apue.3e/threads/barrier.c	/^long nums[NUMNUM];$/;"	v
+nums	twosums.c	/^int nums[] = {2, 8, 11, 7};$/;"	v
+oflag	aupe/apue.3e/ipc2/opend.fe/main.c	/^int		 oflag;$/;"	v
+oflag	aupe/apue.3e/ipc2/opend/main.c	/^int		 debug, oflag, client_size, log_to_stderr;$/;"	v
+oldmask	aupe/apue.3e/lib/tellwait.c	/^static sigset_t newmask, oldmask, zeromask;$/;"	v	file:
+op	aupe/apue.3e/advio/rot13c2.c	/^	enum rwop     op;$/;"	m	struct:buf	typeref:enum:buf::rwop	file:
+op	aupe/apue.3e/printer/ipp.h	/^		int16_t op;	\/* operation ID *\/$/;"	m	union:ipp_hdr::__anon2
+op_close	aupe/apue.3e/lib/semaph.c	/^static struct sembuf	op_close[3] = {$/;"	v	typeref:struct:sembuf	file:
+op_endcreate	aupe/apue.3e/lib/semaph.c	/^static struct sembuf	op_endcreate[2] = {$/;"	v	typeref:struct:sembuf	file:
+op_lock	aupe/apue.3e/lib/semaph.c	/^static struct sembuf	op_lock[2] = {$/;"	v	typeref:struct:sembuf	file:
+op_op	aupe/apue.3e/lib/semaph.c	/^static struct sembuf	op_op[1] = {$/;"	v	typeref:struct:sembuf	file:
+op_open	aupe/apue.3e/lib/semaph.c	/^static struct sembuf	op_open[1] = {$/;"	v	typeref:struct:sembuf	file:
+op_unlock	aupe/apue.3e/lib/semaph.c	/^static struct sembuf	op_unlock[1] = {$/;"	v	typeref:struct:sembuf	file:
+open_data	aupe/apue.3e/environ/opendata.c	/^open_data(void)$/;"	f
+open_max	aupe/apue.3e/exercises/openmax.c	/^open_max(void)$/;"	f
+open_max	aupe/apue.3e/lib/openmax.c	/^open_max(void)$/;"	f
+openmax	aupe/apue.3e/lib/openmax.c	/^static long	openmax = 0;$/;"	v	file:
+openmax	aupe/apue.3e/lib/openmax.c	/^static long	openmax = OPEN_MAX;$/;"	v	file:
+operation	aupe/apue.3e/printer/ipp.h	/^#define operation /;"	d
+operator <<	tree.cpp	/^        friend ostream &operator<<(ostream& oStream,btree &p){$/;"	f	class:btree
+operator <<	virtual.cpp	/^      friend ostream &operator<<( ostream &output, const Shape &D ) {$/;"	f	class:Shape
+os	python/fcrypt.py	/^import os$/;"	i
+p	python/network.py	/^stderr=subprocess.PIPE)$/;"	v
+pBuffer	headers/buffers.h	/^    PooledBuffer *pBuffer;$/;"	m	struct:BufferQueueItem
+pNext	headers/buffers.h	/^    BufferQueueItem *pNext;$/;"	m	struct:BufferQueueItem
+padding	python/fcrypt.py	/^from cryptography.hazmat.primitives.asymmetric import padding$/;"	i
+palin	palin.cpp	/^int palin(stack<char> stk, string str){$/;"	f
+parent	aupe/apue.3e/threadctl/atfork.c	/^parent(void)$/;"	f
+parent	cc/4-5.cpp	/^    Node* parent;$/;"	m	struct:Node	file:
+parent	edit_dyn.cpp	/^    int parent;$/;"	m	struct:Cell	file:
+parser	python/Chat.py	/^parser = argparse.ArgumentParser()$/;"	v
+parser	python/TcpServer.py	/^parser = argparse.ArgumentParser()$/;"	v
+path_alloc	aupe/apue.3e/lib/pathalloc.c	/^path_alloc(size_t *sizep) \/* also return allocated size, if nonnull *\/$/;"	f
+pathlen	aupe/apue.3e/filedir/btext.c	/^static size_t pathlen;$/;"	v	file:
+pathlen	aupe/apue.3e/filedir/ftw8.c	/^static size_t pathlen;$/;"	v	file:
+pathmax	aupe/apue.3e/lib/pathalloc.c	/^static long	pathmax = 0;$/;"	v	file:
+pathmax	aupe/apue.3e/lib/pathalloc.c	/^static long	pathmax = PATH_MAX;$/;"	v	file:
+pathname	aupe/apue.3e/ipc2/opend.fe/main.c	/^char	*pathname;$/;"	v
+pathname	aupe/apue.3e/ipc2/opend/main.c	/^char	*pathname;$/;"	v
+pathname	aupe/apue.3e/termios/ttyname.c	/^static char				pathname[_POSIX_PATH_MAX + 1];$/;"	v	file:
+pclose	aupe/apue.3e/ipc1/popen.c	/^pclose(FILE *fp)$/;"	f
+pclose	aupe/apue.3e/lib/popen.c	/^pclose(FILE *fp)$/;"	f
+pfd1	aupe/apue.3e/ipc1/tellwait.c	/^static int	pfd1[2], pfd2[2];$/;"	v	file:
+pfd2	aupe/apue.3e/ipc1/tellwait.c	/^static int	pfd1[2], pfd2[2];$/;"	v	file:
+pickle	python/Chat.py	/^import pickle$/;"	i
+pickle	python/Client.py	/^import pickle$/;"	i
+pickle	python/TcpServer.py	/^import pickle$/;"	i
+pickle	python/crashtest.py	/^import pickle$/;"	i
+placeQueen	nqueens.cpp	/^bool placeQueen(vector<vector<bool>> &board, int r, int c){$/;"	f
+pool	headers/buffers.h	/^    BufferPool *pool;$/;"	m	class:PooledBuffer
+pop	list2stack.cpp	/^        void pop(){$/;"	f	class:Node
+pop	queue.cpp	/^void pop(){$/;"	f
+pop	queue_cv.cpp	/^void pop(){$/;"	f
+popen	aupe/apue.3e/ipc1/popen.c	/^popen(const char *cmdstring, const char *type)$/;"	f
+popen	aupe/apue.3e/lib/popen.c	/^popen(const char *cmdstring, const char *type)$/;"	f
+populateScore	dinnerParty.cpp	/^void populateScore(treenode* node){$/;"	f
+populateScore	g.cpp	/^void populateScore(treenode* node, vector<score> &nodes){$/;"	f
+pos	trie/trie.h	/^    int pos;$/;"	m	struct:Result
+posix_version	aupe/apue.3e/lib/pathalloc.c	/^static long	posix_version = 0;$/;"	v	file:
+post_order_traversal	tree.c	/^void post_order_traversal(struct node* root) {$/;"	f
+pr_exit	aupe/apue.3e/lib/prexit.c	/^pr_exit(int status)$/;"	f
+pr_ids	aupe/apue.3e/relation/orphan3.c	/^pr_ids(char *name)$/;"	f	file:
+pr_limits	aupe/apue.3e/environ/getrlimit.c	/^pr_limits(char *name, int resource)$/;"	f	file:
+pr_mask	aupe/apue.3e/lib/prmask.c	/^pr_mask(const char *str)$/;"	f
+pr_pathconf	aupe/apue.3e/standards/conf.c	/^pr_pathconf(char *mesg, char *path, int name)$/;"	f	file:
+pr_pathconf	aupe/apue.3e/standards/options.c	/^pr_pathconf(char *mesg, char *path, int name)$/;"	f	file:
+pr_stdio	aupe/apue.3e/stdio/buf.c	/^pr_stdio(const char *name, FILE *fp)$/;"	f
+pr_sysconf	aupe/apue.3e/standards/conf.c	/^pr_sysconf(char *mesg, int name)$/;"	f	file:
+pr_sysconf	aupe/apue.3e/standards/options.c	/^pr_sysconf(char *mesg, int name)$/;"	f	file:
+pr_times	aupe/apue.3e/proc/times1.c	/^pr_times(clock_t real, struct tms *tmsstart, struct tms *tmsend)$/;"	f	file:
+pr_winsize	aupe/apue.3e/termios/winch.c	/^pr_winsize(int fd)$/;"	f	file:
+pre_order_traversal	tree.c	/^void pre_order_traversal(struct node* root) {$/;"	f
+prepare	aupe/apue.3e/threadctl/atfork.c	/^prepare(void)$/;"	f
+prev	aupe/apue.3e/printer/printd.c	/^	struct job      *prev;		\/* previous in list *\/$/;"	m	struct:job	typeref:struct:job::job	file:
+prev	aupe/apue.3e/printer/printd.c	/^	struct worker_thread  *prev;	\/* previous in list *\/$/;"	m	struct:worker_thread	typeref:struct:worker_thread::worker_thread	file:
+prev	headers/common.h	/^    listNode* prev;$/;"	m	struct:listNode
+print	lists/link.cpp	/^void print()    \/\/print whole list$/;"	f
+print	treeUniPtr.cpp	/^void print(tptr &root, int &&a){$/;"	f
+print	trie/trie2.h	/^        void print(){$/;"	f	class:Trie
+print	vec.cpp	/^void print(cont* guests,int index=-1){$/;"	f
+printBoard	nqueens.cpp	/^void printBoard(vector<vector<bool>> &board){$/;"	f
+printBoard	sudoku.cpp	/^void printBoard(vector<vector<char>> &board){$/;"	f
+printBoard	sudoku_opt.cpp	/^void printBoard(vector<vector<char>> &board,bool count=false){$/;"	f
+printData	vec.cpp	/^void printData(guest* it){$/;"	f
+printIter	mapImple.cpp	/^        void printIter(tree<Key, Val>*& root){$/;"	f	class:tree
+printLevel	lorder.cpp	/^void printLevel(treenode* root, int l){$/;"	f
+printList	headers/list.h	/^void printList(Link* head){$/;"	f
+printList	tem.cpp	/^void printList(Link* head){$/;"	f
+printMap	mapImple.cpp	/^        void printMap(){$/;"	f	class:jmap
+printMessage	python/Chat.py	/^def printMessage(msg,address):$/;"	f
+printTable	hash/hash.cpp	/^void Hash::printTable(){$/;"	f	class:Hash
+printTree	btree.cpp	/^        void printTree(){$/;"	f	class:Node
+printTree	buildtreefromarr.cpp	/^void printTree(treenode* root){$/;"	f
+printTree	cc/4-1-Trees-Graphs.cpp	/^void printTree(treenode* root){$/;"	f
+printTree	mapImple.cpp	/^        void printTree(tree<Key, Val>*& ptr){$/;"	f	class:tree
+printTree	tree.cpp	/^        void printTree(btree* ptr){$/;"	f	class:btree
+printTree	tree.py	/^    def printTree(self):$/;"	m	class:tree
+printVec	headers/common.h	/^void printVec(std::vector<T> vec, bool printVertical=false){$/;"	f
+print_family	aupe/apue.3e/sockets/findsvc.c	/^print_family(struct addrinfo *aip)$/;"	f
+print_flags	aupe/apue.3e/sockets/findsvc.c	/^print_flags(struct addrinfo *aip)$/;"	f
+print_number	assert.c	/^void print_number(int* myInt) {$/;"	f
+print_protocol	aupe/apue.3e/sockets/findsvc.c	/^print_protocol(struct addrinfo *aip)$/;"	f
+print_time	python/multi.py	/^def print_time( threadName, delay):$/;"	f
+print_type	aupe/apue.3e/sockets/findsvc.c	/^print_type(struct addrinfo *aip)$/;"	f
+print_uptime	aupe/apue.3e/sockets/ruptime-dg.c	/^print_uptime(int sockfd, struct addrinfo *aip)$/;"	f
+print_uptime	aupe/apue.3e/sockets/ruptime.c	/^print_uptime(int sockfd)$/;"	f
+printer	aupe/apue.3e/printer/printd.c	/^struct addrinfo		*printer;$/;"	v	typeref:struct:addrinfo
+printer_name	aupe/apue.3e/printer/printd.c	/^char					*printer_name;$/;"	v
+printer_status	aupe/apue.3e/printer/printd.c	/^printer_status(int sfd, struct job *jp)$/;"	f
+printer_thread	aupe/apue.3e/printer/printd.c	/^printer_thread(void *arg)$/;"	f
+printfoo	aupe/apue.3e/exercises/goodexit.c	/^printfoo(const char *s, const struct foo *fp)$/;"	f
+printfoo	aupe/apue.3e/threads/badexit2.c	/^printfoo(const char *s, const struct foo *fp)$/;"	f
+printids	aupe/apue.3e/threads/threadid.c	/^printids(const char *s)$/;"	f
+printreq	aupe/apue.3e/printer/print.h	/^struct printreq {$/;"	s
+printresp	aupe/apue.3e/printer/print.h	/^struct printresp {$/;"	s
+printtree	buildtree.cpp	/^void printtree(treenode* root){$/;"	f
+process_msg	aupe/apue.3e/threads/condvar.c	/^process_msg(void)$/;"	f
+processed	queue_cv.cpp	/^bool processed = false;$/;"	v
+ptroff	aupe/apue.3e/db/db.c	/^  off_t  ptroff; \/* chain ptr offset pointing to this idx record *\/$/;"	m	struct:__anon4	file:
+ptrval	aupe/apue.3e/db/db.c	/^  off_t  ptrval; \/* contents of chain ptr in index record *\/$/;"	m	struct:__anon4	file:
+pty_fork	aupe/apue.3e/lib/ptyfork.c	/^pty_fork(int *ptrfdm, char *slave_name, int slave_namesz,$/;"	f
+ptym_open	aupe/apue.3e/lib/ptyopen.c	/^ptym_open(char *pts_name, int pts_namesz)$/;"	f
+ptys_open	aupe/apue.3e/lib/ptyopen.c	/^ptys_open(char *pts_name)$/;"	f
+push	link.cpp	/^void push(listnode*& head, int data){$/;"	f
+push	list2stack.cpp	/^        void push(int data){$/;"	f	class:Node
+q	queue.cpp	/^list<int> q;$/;"	v
+q	queue_cv.cpp	/^list<int> q;$/;"	v
+qHasData	headers/buffers.h	/^    pthread_cond_t qHasData;$/;"	m	class:BufferQueue
+qItem	headers/buffers.h	/^    BufferQueueItem *qItem;$/;"	m	class:PooledBuffer
+qLock	headers/buffers.h	/^    pthread_mutex_t qLock;$/;"	m	class:BufferQueue
+q_head	aupe/apue.3e/threads/rwlock.c	/^	struct job      *q_head;$/;"	m	struct:queue	typeref:struct:queue::job	file:
+q_lock	aupe/apue.3e/threads/rwlock.c	/^	pthread_rwlock_t q_lock;$/;"	m	struct:queue	file:
+q_tail	aupe/apue.3e/threads/rwlock.c	/^	struct job      *q_tail;$/;"	m	struct:queue	typeref:struct:queue::job	file:
+qid	aupe/apue.3e/exercises/pollmsg2.c	/^	int				qid;$/;"	m	struct:threadinfo	file:
+qid	aupe/apue.3e/ipc2/pollmsg.c	/^	int qid;$/;"	m	struct:threadinfo	file:
+qlock	aupe/apue.3e/threads/condvar.c	/^pthread_mutex_t qlock = PTHREAD_MUTEX_INITIALIZER;$/;"	v
+qready	aupe/apue.3e/threads/condvar.c	/^pthread_cond_t qready = PTHREAD_COND_INITIALIZER;$/;"	v
+queenComb	nqueens.cpp	/^int queenComb(vector<vector<bool>> &board){$/;"	f
+queue	aupe/apue.3e/threads/rwlock.c	/^struct queue {$/;"	s	file:
+queue_init	aupe/apue.3e/threads/rwlock.c	/^queue_init(struct queue *qp)$/;"	f
+quitflag	aupe/apue.3e/signals/suspend2.c	/^volatile sig_atomic_t	quitflag;	\/* set nonzero by signal handler *\/$/;"	v
+quitflag	aupe/apue.3e/threadctl/suspend.c	/^int			quitflag;	\/* set nonzero by thread *\/$/;"	v
+rThr	mapImple.cpp	/^        bool rThr;$/;"	m	class:tree	file:
+read	python/multi.py	/^read = [re,r]$/;"	v
+readFile	headers/common.h	/^void readFile(std::vector<int>& vec){$/;"	f
+readFile	headers/common.h	/^void readFile(std::vector<std::string>& vec, Type type){$/;"	f
+read_file	vec.cpp	/^void read_file(cont& guests){$/;"	f
+read_lock	aupe/apue.3e/include/apue.h	/^#define	read_lock(/;"	d
+readmore	aupe/apue.3e/printer/printd.c	/^readmore(int sockfd, char **bpp, int off, int *bszp)$/;"	f
+readn	aupe/apue.3e/advio/readn.c	/^readn(int fd, void *ptr, size_t n)$/;"	f
+readn	aupe/apue.3e/lib/readn.c	/^readn(int fd, void *ptr, size_t n)$/;"	f
+readw_lock	aupe/apue.3e/include/apue.h	/^#define	readw_lock(/;"	d
+ready	aupe/apue.3e/exercises/pollmsg2.c	/^	pthread_cond_t	ready;$/;"	m	struct:threadinfo	file:
+ready	queue_cv.cpp	/^bool ready = false;$/;"	v
+recv	python/Client.py	/^    def recv(self, size):$/;"	m	class:Socket
+recv_fd	aupe/apue.3e/lib/Orecvfd.c	/^recv_fd(int fd, ssize_t (*userfunc)(int, const void *, size_t))$/;"	f
+recv_fd	aupe/apue.3e/lib/recvfd.c	/^recv_fd(int fd, ssize_t (*userfunc)(int, const void *, size_t))$/;"	f
+recv_ufd	aupe/apue.3e/ipc2/recvfd2.c	/^recv_ufd(int fd, uid_t *uidptr,$/;"	f
+remove	vec.cpp	/^void remove(cont* guests, int index){$/;"	f
+removeFromHead	headers/buffers.h	/^    BufferQueueItem* removeFromHead(){$/;"	f	class:BufferQueue
+remove_job	aupe/apue.3e/printer/printd.c	/^remove_job(struct job *target)$/;"	f
+replace_job	aupe/apue.3e/printer/printd.c	/^replace_job(struct job *jp)$/;"	f
+req	aupe/apue.3e/printer/printd.c	/^	struct printreq  req;		\/* copy of print request *\/$/;"	m	struct:job	typeref:struct:job::printreq	file:
+reqLet	recLetters.cpp	/^void reqLet(vector<int>& num, int n, string& res, int count){$/;"	f
+request_id	aupe/apue.3e/printer/ipp.h	/^	int32_t request_id;		\/* request ID *\/$/;"	m	struct:ipp_hdr
+reread	aupe/apue.3e/daemons/reread.c	/^reread(void)$/;"	f
+reread	aupe/apue.3e/daemons/reread2.c	/^reread(void)$/;"	f
+reread	aupe/apue.3e/printer/printd.c	/^int					reread;$/;"	v
+resize	headers/buffers.h	/^    virtual bool resize(UINT isize, bool copyOldData = false){$/;"	f	class:Buffer
+result	trie/trie.h	/^}result;$/;"	t	typeref:struct:Result
+retcode	aupe/apue.3e/printer/print.h	/^	uint32_t retcode;			\/* 0=success, !0=error code *\/$/;"	m	struct:printresp
+retcode	python/network.py	/^retcode = p.wait()$/;"	v
+retry	aupe/apue.3e/threadctl/timeout.c	/^retry(void *arg)$/;"	f
+returnToPool	headers/buffers.h	/^    void returnToPool(BufferQueueItem *pItem){$/;"	f	class:BufferPool
+returnToPool	headers/buffers.h	/^void PooledBuffer::returnToPool(){$/;"	f	class:PooledBuffer
+rev	headers/list.h	/^Link* rev(Link* head){$/;"	f
+rev	lists/revlist.c	/^Link* rev(Link* head){$/;"	f
+reverse	link.cpp	/^void reverse(listnode *&curr){$/;"	f
+right	btree.cpp	/^        Node* right;$/;"	m	class:Node	file:
+right	cc/4-5.cpp	/^    Node* right;$/;"	m	struct:Node	file:
+right	headers/common.h	/^    treeNode* right;$/;"	m	struct:treeNode
+right	mapImple.cpp	/^        tree* right;$/;"	m	class:tree	file:
+right	mirror.cpp	/^    struct treeNode* right;$/;"	m	struct:treeNode	typeref:struct:treeNode::treeNode	file:
+right	tree.cpp	/^        btree* right;$/;"	m	class:btree	file:
+right	treeUniPtr.cpp	/^    unique_ptr<TNode> right;$/;"	m	struct:TNode	file:
+rightChild	tree.c	/^   struct node *rightChild;$/;"	m	struct:node	typeref:struct:node::node	file:
+root	mapImple.cpp	/^        tree<Key, Val>* root;$/;"	m	class:jmap	file:
+root	tree.c	/^struct node *root = NULL;$/;"	v	typeref:struct:node
+root	trie/trie.h	/^        trieNode* root;$/;"	m	class:Trie
+root	trie/trie2.h	/^        trieNode root;$/;"	m	class:Trie
+rsize	aupe/apue.3e/exercises/fmemopen.c	/^	size_t	rsize;	\/* real size of buffer *\/$/;"	m	struct:memstream	file:
+run	java/TCPClient.java	/^   public void run() {$/;"	m	class:RunnableDemo
+rwop	aupe/apue.3e/advio/rot13c2.c	/^enum rwop {$/;"	g	file:
+s	python/pcmb.py	/^s="pcmbzpcmbzppcmmbbzz"$/;"	v
+s	python/sockbuf.py	/^    s = sock.accept()$/;"	v
+s	python/sockbufrecv.py	/^    s = sock.connect(sadd)$/;"	v
+s_alloc	aupe/apue.3e/ipc1/slock.c	/^s_alloc()$/;"	f
+s_free	aupe/apue.3e/ipc1/slock.c	/^s_free(struct slock *sp)$/;"	f
+s_lock	aupe/apue.3e/ipc1/slock.c	/^s_lock(struct slock *sp)$/;"	f
+s_trylock	aupe/apue.3e/ipc1/slock.c	/^s_trylock(struct slock *sp)$/;"	f
+s_unlock	aupe/apue.3e/ipc1/slock.c	/^s_unlock(struct slock *sp)$/;"	f
+sadd	python/sockbufrecv.py	/^    sadd = ("129.10.113.143",80)$/;"	v
+save_termios	aupe/apue.3e/lib/ttymodes.c	/^static struct termios		save_termios;$/;"	v	typeref:struct:termios	file:
+scan_configfile	aupe/apue.3e/printer/util.c	/^scan_configfile(char *keyword)$/;"	f	file:
+score	dinnerParty.cpp	/^}score;$/;"	t	typeref:struct:Score	file:
+score	g.cpp	/^}score;$/;"	t	typeref:struct:Score	file:
+search	bsearch.cpp	/^bool search(vector<int>& nums, int target){$/;"	f
+search	tree.c	/^struct node* search(int data) {$/;"	f
+searchdir	aupe/apue.3e/termios/ttyname.c	/^searchdir(char *dirname, struct stat *fdstatp)$/;"	f	file:
+sec	mulThr.cpp	/^unsigned int sec = 10000;$/;"	v
+select	python/multi.py	/^import select$/;"	i
+sem_close	aupe/apue.3e/lib/semaph.c	/^sem_close(int id)$/;"	f
+sem_create	aupe/apue.3e/lib/semaph.c	/^sem_create(key_t key, int initval)$/;"	f
+sem_op	aupe/apue.3e/lib/semaph.c	/^sem_op(int id, int value)$/;"	f
+sem_open	aupe/apue.3e/lib/semaph.c	/^sem_open(key_t key)$/;"	f
+sem_rm	aupe/apue.3e/lib/semaph.c	/^sem_rm(int id)$/;"	f
+sem_signal	aupe/apue.3e/lib/semaph.c	/^sem_signal(int id)$/;"	f
+sem_wait	aupe/apue.3e/lib/semaph.c	/^sem_wait(int id)$/;"	f
+semp	aupe/apue.3e/ipc1/slock.h	/^	sem_t *semp;$/;"	m	struct:slock
+send	python/Client.py	/^    def send(self, destAddr, data):$/;"	m	class:Socket
+send_err	aupe/apue.3e/lib/senderr.c	/^send_err(int fd, int errcode, const char *msg)$/;"	f
+send_fd	aupe/apue.3e/ipc2/sendfd2.c	/^send_fd(int fd, int fd_to_send)$/;"	f
+send_fd	aupe/apue.3e/lib/sendfd.c	/^send_fd(int fd, int fd_to_send)$/;"	f
+serialization	python/fcrypt.py	/^from cryptography.hazmat.primitives import serialization$/;"	i
+serv_accept	aupe/apue.3e/lib/servaccept.c	/^serv_accept(int listenfd, uid_t *uidptr)$/;"	f
+serv_listen	aupe/apue.3e/lib/servlisten.c	/^serv_listen(const char *name)$/;"	f
+serve	aupe/apue.3e/sockets/ruptimed-dg.c	/^serve(int sockfd)$/;"	f
+serve	aupe/apue.3e/sockets/ruptimed-fd.c	/^serve(int sockfd)$/;"	f
+serve	aupe/apue.3e/sockets/ruptimed.c	/^serve(int sockfd)$/;"	f
+setEndVal	trie/trie.h	/^        void setEndVal(int end){$/;"	f	class:trieNode
+setEndVal	trie/trie2.h	/^        void setEndVal(int endVal){$/;"	f	class:trieNode
+setEndWord	trie/trie.h	/^        void setEndWord(bool end){$/;"	f	class:trieNode
+setLength	headers/buffers.h	/^    bool setLength(UINT len){$/;"	f	class:Buffer
+setPoolQueueItem	headers/buffers.h	/^    void setPoolQueueItem (BufferQueueItem *pItem){$/;"	f	class:PooledBuffer
+set_cloexec	aupe/apue.3e/lib/setfd.c	/^set_cloexec(int fd)$/;"	f
+set_fl	aupe/apue.3e/fileio/setfl.c	/^set_fl(int fd, int flags) \/* flags are file status flags to turn on *\/$/;"	f
+set_fl	aupe/apue.3e/lib/setfl.c	/^set_fl(int fd, int flags) \/* flags are file status flags to turn on *\/$/;"	f
+set_noecho	aupe/apue.3e/pty/main.c	/^set_noecho(int fd)		\/* turn off echo (for slave pty) *\/$/;"	f	file:
+seta	testadd.cpp	/^        void seta(int b){$/;"	f	class:test
+setasync	aupe/apue.3e/exercises/asyncsocket.c	/^setasync(int sockfd)$/;"	f
+shutdown	queue.cpp	/^volatile bool shutdown = false;$/;"	v
+shutdown	queue_cv.cpp	/^volatile bool shutdown = false;$/;"	v
+shutdownMsg	headers/buffers.h	/^    bool shutdownMsg;$/;"	m	class:Buffer
+sig_alrm	aupe/apue.3e/lib/sleep.c	/^sig_alrm(int signo)$/;"	f	file:
+sig_alrm	aupe/apue.3e/signals/mask.c	/^sig_alrm(int signo)$/;"	f	file:
+sig_alrm	aupe/apue.3e/signals/read1.c	/^sig_alrm(int signo)$/;"	f	file:
+sig_alrm	aupe/apue.3e/signals/read2.c	/^sig_alrm(int signo)$/;"	f	file:
+sig_alrm	aupe/apue.3e/signals/sleep1.c	/^sig_alrm(int signo)$/;"	f	file:
+sig_alrm	aupe/apue.3e/signals/sleep2.c	/^sig_alrm(int signo)$/;"	f	file:
+sig_catch	aupe/apue.3e/termios/t_raw.c	/^sig_catch(int signo)$/;"	f	file:
+sig_chld	aupe/apue.3e/signals/systest2.c	/^sig_chld(int signo)$/;"	f	file:
+sig_cld	aupe/apue.3e/signals/child.c	/^sig_cld(int signo)	\/* interrupts pause() *\/$/;"	f	file:
+sig_hup	aupe/apue.3e/relation/orphan3.c	/^sig_hup(int signo)$/;"	f	file:
+sig_int	aupe/apue.3e/intro/shell2.c	/^sig_int(int signo)$/;"	f
+sig_int	aupe/apue.3e/signals/suspend1.c	/^sig_int(int signo)$/;"	f	file:
+sig_int	aupe/apue.3e/signals/suspend2.c	/^sig_int(int signo)	\/* one signal handler for SIGINT and SIGQUIT *\/$/;"	f	file:
+sig_int	aupe/apue.3e/signals/systest2.c	/^sig_int(int signo)$/;"	f	file:
+sig_int	aupe/apue.3e/signals/tsleep2.c	/^sig_int(int signo)$/;"	f	file:
+sig_pipe	aupe/apue.3e/ipc1/pipe4.c	/^sig_pipe(int signo)$/;"	f	file:
+sig_quit	aupe/apue.3e/signals/critical.c	/^sig_quit(int signo)$/;"	f	file:
+sig_term	aupe/apue.3e/pty/loop.c	/^sig_term(int signo)$/;"	f	file:
+sig_tstp	aupe/apue.3e/signals/sigtstp.c	/^sig_tstp(int signo)	\/* signal handler for SIGTSTP *\/$/;"	f	file:
+sig_usr	aupe/apue.3e/lib/tellwait.c	/^sig_usr(int signo)	\/* one signal handler for SIGUSR1 and SIGUSR2 *\/$/;"	f	file:
+sig_usr	aupe/apue.3e/signals/sigusr.c	/^sig_usr(int signo)		\/* argument is signal number *\/$/;"	f	file:
+sig_usr1	aupe/apue.3e/signals/mask.c	/^sig_usr1(int signo)$/;"	f	file:
+sig_winch	aupe/apue.3e/termios/winch.c	/^sig_winch(int signo)$/;"	f	file:
+sigaddset	aupe/apue.3e/signals/setops.c	/^sigaddset(sigset_t *set, int signo)$/;"	f
+sigalrm	aupe/apue.3e/sockets/ruptime-dg.c	/^sigalrm(int signo)$/;"	f
+sigcaught	aupe/apue.3e/pty/loop.c	/^static volatile sig_atomic_t	sigcaught;	\/* set by signal handler *\/$/;"	v	file:
+sigdelset	aupe/apue.3e/signals/setops.c	/^sigdelset(sigset_t *set, int signo)$/;"	f
+sigflag	aupe/apue.3e/lib/tellwait.c	/^static volatile sig_atomic_t sigflag; \/* set nonzero by sig handler *\/$/;"	v	file:
+sighup	aupe/apue.3e/daemons/reread2.c	/^sighup(int signo)$/;"	f
+sigint	aupe/apue.3e/exercises/pendlock.c	/^sigint(int signo)$/;"	f
+sigismember	aupe/apue.3e/signals/setops.c	/^sigismember(const sigset_t *set, int signo)$/;"	f
+signal	aupe/apue.3e/lib/signal.c	/^signal(int signo, Sigfunc *func)$/;"	f
+signal	python/Chat.py	/^import signal$/;"	i
+signal	python/TcpServer.py	/^import signal$/;"	i
+signal_handler	python/Chat.py	/^def signal_handler (signal, frame):$/;"	f
+signal_handler	python/TcpServer.py	/^def signal_handler (signal, frame):$/;"	f
+signal_intr	aupe/apue.3e/lib/signalintr.c	/^signal_intr(int signo, Sigfunc *func)$/;"	f
+signal_thread	aupe/apue.3e/printer/printd.c	/^signal_thread(void *arg)$/;"	f
+sigterm	aupe/apue.3e/daemons/reread2.c	/^sigterm(int signo)$/;"	f
+size	aupe/apue.3e/printer/print.h	/^	uint32_t size;				\/* size in bytes *\/$/;"	m	struct:printreq
+size	headers/buffers.h	/^    UINT size;$/;"	m	class:Buffer
+sleep	aupe/apue.3e/exercises/sleep.c	/^sleep(unsigned seconds)$/;"	f
+sleep	aupe/apue.3e/lib/sleep.c	/^sleep(unsigned int seconds)$/;"	f
+sleep1	aupe/apue.3e/signals/sleep1.c	/^sleep1(unsigned int seconds)$/;"	f
+sleep2	aupe/apue.3e/signals/sleep2.c	/^sleep2(unsigned int seconds)$/;"	f
+sleep_us	aupe/apue.3e/exercises/sleepus_poll.c	/^sleep_us(unsigned int nusecs)$/;"	f
+sleep_us	aupe/apue.3e/exercises/sleepus_select.c	/^sleep_us(unsigned int nusecs)$/;"	f
+sleep_us	aupe/apue.3e/lib/sleepus.c	/^sleep_us(unsigned int nusecs)$/;"	f
+slock	aupe/apue.3e/ipc1/slock.h	/^struct slock {$/;"	s
+snums	aupe/apue.3e/threads/barrier.c	/^long snums[NUMNUM];$/;"	v
+sock	python/crashtest.py	/^sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)$/;"	v
+sock	python/sockbuf.py	/^sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)$/;"	v
+sock	python/sockbufrecv.py	/^    sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)$/;"	v
+socket	python/Chat.py	/^import socket$/;"	i
+socket	python/Client.py	/^import socket$/;"	i
+socket	python/TcpServer.py	/^import socket$/;"	i
+socket	python/crashtest.py	/^import socket$/;"	i
+socket	python/multi.py	/^import socket$/;"	i
+socket	python/network.py	/^import socket$/;"	i
+socket	python/sockbuf.py	/^import socket$/;"	i
+socket	python/sockbufrecv.py	/^import socket$/;"	i
+sockfd	aupe/apue.3e/printer/printd.c	/^	int                    sockfd;	\/* socket *\/$/;"	m	struct:worker_thread	file:
+solveNQueens	nq.cpp	/^vector<vector<string>> solveNQueens(int n) {$/;"	f
+solveSudoku	sudoku.cpp	/^void solveSudoku(vector<vector<char>>& board) {$/;"	f
+solveSudoku	sudoku_opt.cpp	/^void solveSudoku(vector<vector<char>>& board) {$/;"	f
+sort	lists/insSort.c	/^void sort(Link** head)$/;"	f
+sort	merge.cpp	/^void sort(int arr[]){$/;"	f
+sortedCircles	python/test_time.py	/^sortedCircles = mergeSort(circles)$/;"	v
+splitStrToVec	headers/common.h	/^void splitStrToVec(std::string& str, std::vector<std::string>& result, char delim){$/;"	f
+st	aupe/apue.3e/printer/ipp.h	/^		int16_t st;	\/* status *\/$/;"	m	union:ipp_hdr::__anon2
+start	java/TCPClient.java	/^   public void start () {$/;"	m	class:RunnableDemo
+start	python/test_time.py	/^start = timeit.default_timer()$/;"	v
+stat	edit.cpp	/^int stat;$/;"	v
+stat	nq.cpp	/^int stat;$/;"	v
+status	aupe/apue.3e/printer/ipp.h	/^#define status /;"	d
+stop	python/test_time.py	/^stop = timeit.default_timer()$/;"	v
+strerror	aupe/apue.3e/lib/strerror.c	/^strerror(int error)$/;"	f
+submit_file	aupe/apue.3e/printer/print.c	/^submit_file(int fd, int sockfd, const char *fname, size_t nbytes,$/;"	f
+subprocess	python/Chat.py	/^import subprocess$/;"	i
+subprocess	python/network.py	/^import subprocess$/;"	i
+sys	python/Chat.py	/^import sys$/;"	i
+sys	python/Client.py	/^import sys$/;"	i
+sys	python/TcpServer.py	/^import sys$/;"	i
+sys	python/fcrypt.py	/^import sys$/;"	i
+sys	python/fib.py	/^import sys$/;"	i
+sys	python/network.py	/^import sys$/;"	i
+system	aupe/apue.3e/proc/system.c	/^system(const char *cmdstring)	\/* version without signal handling *\/$/;"	f
+system	aupe/apue.3e/signals/system.c	/^system(const char *cmdstring)	\/* with appropriate signal handling *\/$/;"	f
+t	java/TCPClient.java	/^   private Thread t;$/;"	f	class:RunnableDemo	file:
+tNode	treeUniPtr.cpp	/^}tNode;$/;"	t	typeref:struct:TNode	file:
+tableSize	hash/hash.h	/^        static const int tableSize = TABLE_SIZE;$/;"	m	class:Hash
+tail	aupe/apue.3e/termios/ttyname.c	/^static struct devdir	*tail;$/;"	v	typeref:struct:devdir	file:
+tail	headers/buffers.h	/^    BufferQueueItem* tail;$/;"	m	class:BufferQueue
+temp	python/data_type.py	/^temp = str(counter)$/;"	v
+temp	python/test_time.py	/^    temp = sortedCircles[i]$/;"	v
+test	testadd.cpp	/^        test(){$/;"	f	class:test
+test	testadd.cpp	/^class test{$/;"	c	file:
+testb	testadd.cpp	/^        testb(){$/;"	f	class:testb
+testb	testadd.cpp	/^class testb{$/;"	c	file:
+text	python/network.py	/^text = p.stdout.read()$/;"	v
+tgt	twosums.c	/^int k,tgt = 9;$/;"	v
+thr_fn	aupe/apue.3e/daemons/reread.c	/^thr_fn(void *arg)$/;"	f
+thr_fn	aupe/apue.3e/threadctl/atfork.c	/^thr_fn(void *arg)$/;"	f
+thr_fn	aupe/apue.3e/threadctl/suspend.c	/^thr_fn(void *arg)$/;"	f
+thr_fn	aupe/apue.3e/threads/barrier.c	/^thr_fn(void *arg)$/;"	f
+thr_fn	aupe/apue.3e/threads/threadid.c	/^thr_fn(void *arg)$/;"	f
+thr_fn1	aupe/apue.3e/exercises/goodexit.c	/^thr_fn1(void *arg)$/;"	f
+thr_fn1	aupe/apue.3e/threads/badexit2.c	/^thr_fn1(void *arg)$/;"	f
+thr_fn1	aupe/apue.3e/threads/cleanup.c	/^thr_fn1(void *arg)$/;"	f
+thr_fn1	aupe/apue.3e/threads/exitstatus.c	/^thr_fn1(void *arg)$/;"	f
+thr_fn2	aupe/apue.3e/threads/badexit2.c	/^thr_fn2(void *arg)$/;"	f
+thr_fn2	aupe/apue.3e/threads/cleanup.c	/^thr_fn2(void *arg)$/;"	f
+thr_fn2	aupe/apue.3e/threads/exitstatus.c	/^thr_fn2(void *arg)$/;"	f
+thread	python/Chat.py	/^import thread$/;"	i
+thread	python/Client.py	/^import thread$/;"	i
+thread	python/multi.py	/^import thread$/;"	i
+threadName	java/TCPClient.java	/^   private String threadName;$/;"	f	class:RunnableDemo	file:
+thread_init	aupe/apue.3e/threadctl/getenv2.c	/^thread_init(void)$/;"	f	file:
+thread_init	aupe/apue.3e/threadctl/getenv3.c	/^thread_init(void)$/;"	f	file:
+threadinfo	aupe/apue.3e/exercises/pollmsg2.c	/^struct threadinfo {$/;"	s	file:
+threadinfo	aupe/apue.3e/ipc2/pollmsg.c	/^struct threadinfo {$/;"	s	file:
+tid	aupe/apue.3e/printer/printd.c	/^	pthread_t              tid;		\/* thread ID *\/$/;"	m	struct:worker_thread	file:
+time	python/multi.py	/^import time$/;"	i
+time	python/sockbuf.py	/^import time$/;"	i
+timeit	python/test_time.py	/^import timeit$/;"	i
+timeout	aupe/apue.3e/threadctl/timeout.c	/^timeout(const struct timespec *when, void (*func)(void *), void *arg)$/;"	f
+timeout	python/Client.py	/^    def timeout(self, time):$/;"	m	class:Socket
+timeout_helper	aupe/apue.3e/threadctl/timeout.c	/^timeout_helper(void *arg)$/;"	f
+toString	4num.cpp	/^string toString(int a, int b, int c, int d){$/;"	f
+to_arg	aupe/apue.3e/threadctl/timeout.c	/^	void           *to_arg;			\/* argument *\/$/;"	m	struct:to_info	file:
+to_fn	aupe/apue.3e/threadctl/timeout.c	/^	void	      (*to_fn)(void *);	\/* function *\/$/;"	m	struct:to_info	file:
+to_info	aupe/apue.3e/threadctl/timeout.c	/^struct to_info {$/;"	s	file:
+to_wait	aupe/apue.3e/threadctl/timeout.c	/^	struct timespec to_wait;		\/* time to wait *\/$/;"	m	struct:to_info	typeref:struct:to_info::timespec	file:
+tok_ptr	aupe/apue.3e/environ/cmd1.c	/^char	*tok_ptr;		\/* global pointer for get_token() *\/$/;"	v
+top	list2stack.cpp	/^        int top(){$/;"	f	class:Node
+topo	topo.cpp	/^void topo(graph& g, vector<bool>& vis, int i, stack<int>& stk){$/;"	f
+total	python/fib.py	/^    total = total + n$/;"	v
+total	python/fib.py	/^total = 0$/;"	v
+tptr	treeUniPtr.cpp	/^typedef unique_ptr<tNode> tptr;$/;"	t	file:
+translate	aupe/apue.3e/advio/rot13a.c	/^translate(unsigned char c)$/;"	f
+translate	aupe/apue.3e/advio/rot13c2.c	/^translate(unsigned char c)$/;"	f
+trap	rainWater.cpp	/^int trap(vector<int>& height)$/;"	f
+tread	aupe/apue.3e/printer/util.c	/^tread(int fd, void *buf, size_t nbytes, unsigned int timout)$/;"	f
+treadn	aupe/apue.3e/printer/util.c	/^treadn(int fd, void *buf, size_t nbytes, unsigned int timout)$/;"	f
+tree	mapImple.cpp	/^        tree(Key k, Val v): key(k), value(v), left(nullptr), right(nullptr), rThr(true){};$/;"	f	class:tree
+tree	mapImple.cpp	/^class tree{$/;"	c	file:
+tree	tree.py	/^class tree:$/;"	c
+treeNode	headers/common.h	/^    treeNode(int x): val(x), left(NULL), right(NULL) {};$/;"	f	struct:treeNode
+treeNode	headers/common.h	/^typedef struct treeNode{$/;"	s
+treeNode	mirror.cpp	/^    treeNode (int x): val(x), left(NULL), right(NULL) {};$/;"	f	struct:treeNode
+treeNode	mirror.cpp	/^typedef struct treeNode{$/;"	s	file:
+treenode	headers/common.h	/^}treenode;$/;"	t	typeref:struct:treeNode
+treenode	mirror.cpp	/^}treenode;$/;"	t	typeref:struct:treeNode	file:
+trieNode	trie/trie.h	/^        trieNode(char ch){$/;"	f	class:trieNode
+trieNode	trie/trie.h	/^class trieNode{$/;"	c
+trieNode	trie/trie2.h	/^        trieNode():children(){$/;"	f	class:trieNode
+trieNode	trie/trie2.h	/^        trieNode(char ch):children(){$/;"	f	class:trieNode
+trieNode	trie/trie2.h	/^class trieNode{$/;"	c
+tty_atexit	aupe/apue.3e/lib/ttymodes.c	/^tty_atexit(void)		\/* can be set up by atexit(tty_atexit) *\/$/;"	f
+tty_cbreak	aupe/apue.3e/lib/ttymodes.c	/^tty_cbreak(int fd)	\/* put terminal into a cbreak mode *\/$/;"	f
+tty_raw	aupe/apue.3e/lib/ttymodes.c	/^tty_raw(int fd)		\/* put terminal into a raw mode *\/$/;"	f
+tty_reset	aupe/apue.3e/lib/ttymodes.c	/^tty_reset(int fd)		\/* restore terminal's mode *\/$/;"	f
+tty_termios	aupe/apue.3e/lib/ttymodes.c	/^tty_termios(void)		\/* let caller see original tty state *\/$/;"	f
+ttyname	aupe/apue.3e/termios/ttyname.c	/^ttyname(int fd)$/;"	f
+ttysavefd	aupe/apue.3e/lib/ttymodes.c	/^static int					ttysavefd = -1;$/;"	v	file:
+ttystate	aupe/apue.3e/lib/ttymodes.c	/^static enum { RESET, RAW, CBREAK }	ttystate = RESET;$/;"	v	typeref:enum:__anon3	file:
+twosum	twosums.c	/^int* twosum(int* num, int size, int tgt){$/;"	f
+type_to_flags	aupe/apue.3e/exercises/fmemopen.c	/^type_to_flags(const char *__restrict type)$/;"	f	file:
+u	aupe/apue.3e/printer/ipp.h	/^	} u;$/;"	m	struct:ipp_hdr	typeref:union:ipp_hdr::__anon2
+uid	aupe/apue.3e/ipc2/opend/opend.h	/^  uid_t	uid;$/;"	m	struct:__anon1
+un_lock	aupe/apue.3e/include/apue.h	/^#define	un_lock(/;"	d
+unique	cc/str1_1.cpp	/^bool unique(string str){$/;"	f
+unique	unique.cpp	/^bool unique(string& str){$/;"	f
+unlikely	headers/common.h	/^#define unlikely(/;"	d
+unlikely	likely.c	/^#define unlikely(/;"	d	file:
+update	aupe/apue.3e/ipc1/devzero.c	/^update(long *ptr)$/;"	f	file:
+update_jobno	aupe/apue.3e/printer/printd.c	/^update_jobno(void)$/;"	f
+usedSize	headers/buffers.h	/^    UINT usedSize;$/;"	m	class:Buffer
+usernm	aupe/apue.3e/printer/print.h	/^	char usernm[USERNM_MAX];	\/* user's name *\/$/;"	m	struct:printreq
+val	cc/4-5.cpp	/^    int val;$/;"	m	struct:Node	file:
+val	headers/common.h	/^    int val;$/;"	m	struct:graphNode
+val	headers/common.h	/^    int val;$/;"	m	struct:listNode
+val	headers/common.h	/^    int val;$/;"	m	struct:treeNode
+val	list2stack.cpp	/^        int val;$/;"	m	class:Node	file:
+val	mirror.cpp	/^    int val;$/;"	m	struct:treeNode	file:
+val	treeUniPtr.cpp	/^    int val;$/;"	m	struct:TNode	file:
+validateLength	headers/buffers.h	/^    bool validateLength(UINT len){$/;"	f	class:Buffer
+value	mapImple.cpp	/^        Val value;$/;"	m	class:tree	file:
+value	trie/trie.h	/^    int value;$/;"	m	struct:Result
+vecType	headers/common.h	/^class vecType{$/;"	c
+vorder	vorder.cpp	/^void vorder(treenode* root, int level, int &&hd, vector<vector<int>>& res, int ind){$/;"	f
+vsize	aupe/apue.3e/exercises/fmemopen.c	/^	size_t	vsize;	\/* virtual size of buffer *\/$/;"	m	struct:memstream	file:
+waitloc	aupe/apue.3e/threadctl/suspend.c	/^pthread_cond_t waitloc = PTHREAD_COND_INITIALIZER;$/;"	v
+width	virtual.cpp	/^      int width, height;$/;"	m	class:Shape	file:
+width	virtual.cpp	/^    int height,width;$/;"	m	class:Rectangle	file:
+worker_thread	aupe/apue.3e/printer/printd.c	/^struct worker_thread {$/;"	s	file:
+workerlock	aupe/apue.3e/printer/printd.c	/^pthread_mutex_t		workerlock = PTHREAD_MUTEX_INITIALIZER;$/;"	v
+workers	aupe/apue.3e/printer/printd.c	/^struct worker_thread	*workers;$/;"	v	typeref:struct:worker_thread
+workq	aupe/apue.3e/threads/condvar.c	/^struct msg *workq;$/;"	v	typeref:struct:msg
+write_lock	aupe/apue.3e/include/apue.h	/^#define	write_lock(/;"	d
+writen	aupe/apue.3e/advio/writen.c	/^writen(int fd, const void *ptr, size_t n)$/;"	f
+writen	aupe/apue.3e/lib/writen.c	/^writen(int fd, const void *ptr, size_t n)$/;"	f
+writew_lock	aupe/apue.3e/include/apue.h	/^#define	writew_lock(/;"	d
+xsi_version	aupe/apue.3e/lib/pathalloc.c	/^static long	xsi_version = 0;$/;"	v	file:
+zeromask	aupe/apue.3e/lib/tellwait.c	/^static sigset_t newmask, oldmask, zeromask;$/;"	v	file:
+~Base	virtualDes.cpp	/^    virtual ~Base()$/;"	f	class:Base
+~Buffer	headers/buffers.h	/^    virtual ~Buffer(){$/;"	f	class:Buffer
+~BufferPool	headers/buffers.h	/^    ~BufferPool(){$/;"	f	class:BufferPool
+~BufferQueue	headers/buffers.h	/^    ~BufferQueue(){$/;"	f	class:BufferQueue
+~Derived	virtualDes.cpp	/^    ~Derived(){$/;"	f	class:Derived	file:
+~MutexLock	headers/buffers.h	/^    ~MutexLock(){$/;"	f	class:MutexLock
+~PooledBuffer	headers/buffers.h	/^    virtual ~PooledBuffer() {}$/;"	f	class:PooledBuffer
